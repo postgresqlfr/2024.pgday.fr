@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: PG DAY France
 markdown: redcarpet
 pygments: true
+timezone: Europe/Paris
+encoding: utf-8
