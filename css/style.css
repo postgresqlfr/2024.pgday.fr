@@ -1,0 +1,165 @@
+/* 
+Custom CSS for 
+Based on 'Modern Business' HTML Theme by Start Bootstrap [http://startbootstrap.com!]
+licensed under Apache 2.0. 
+*/
+
+/* Global Styles */
+
+html, body {
+  height:100%;
+}
+
+body {
+  padding-top: 50px; /* body padding for fixed top nav */
+}
+
+.img-home-portfolio,
+.img-customer,
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.tab-pane {
+  margin-top: 15px;
+}
+
+/* Page Sections */
+.section,
+.section-colored {
+  padding: 50px 0;
+}
+
+.section-colored {
+  background-color: #e1e1e1; /* change this to change the background color of a colored section */
+}
+
+.sidebar {
+  margin-top: 40px;
+}
+
+.sidebar ul {
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid #cccccc;
+}
+
+/* Half Page Height Carousel Customization */
+.carousel {
+  height: 50%;
+}
+
+.item,
+.active,
+.carousel-inner {
+  height: 100%;
+}
+
+.fill {
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+/* Social Icons Styles */
+.list-social-icons {
+  margin-bottom: 45px;
+}
+
+.tooltip-social a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.twitter-link a:hover {
+  color: #39a9e0;
+}
+
+
+/* Service Page Styles */
+.service-icon {
+  font-size: 50px;
+}
+
+/* 404 Page Styles */
+.error-404 {
+  font-size: 8em;
+}
+
+/* Pricing Page Styles */
+.price {
+  font-size: 4em;
+}
+
+.price-cents {
+  vertical-align: super;
+  font-size: 50%;
+}
+
+.price-month {
+  font-size: 35%;
+  font-style: italic;
+}
+
+
+/* pgDayFr 2014*/
+
+.navbar{
+	background-image: url('../pg_logo.png');
+	background-repeat: no-repeat;
+	background-position: 1%;
+	padding-top: 1%;
+}
+
+.navbar-brand{
+	vertical-align: center;
+	line-height: 1;	
+}
+
+.navbar-brand #btitle{
+	font-size: 2.3em;
+}
+.navbar-brand #binfo{
+	font-size: 1.6em;
+}
+
+.navbar-brand img{
+	float: left;
+	margin-left: 5px;
+}
+.home_bloc{
+	border-radius: 10px;
+	text-align: center;
+	padding: 15px 4px 3px 4px;
+	border: solid 1px #CCC;
+	border-shadow: top;
+	margin: 3%;
+}
+
+.home_bloc h3{
+	color: #336791;
+	font-variant: small-caps;
+	text-decoration: underline;	
+}
+
+.home_bloc .fa{
+	font-size: 6em;
+	color: #336791;
+}
+
+.textcenter{
+	text-align: center;	
+}
+
+.twitter{
+	float: right;	
+}
+/* Responsive Styles */
+@media (max-width: 767px) {
+
+.carousel {
+  height: 70%; /* increases the carousel height so it looks good on phones */
+}
+
+}
