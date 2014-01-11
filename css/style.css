@@ -27,7 +27,7 @@ body {
 /* Page Sections */
 .section,
 .section-colored {
-  padding: 50px 0;
+  padding: 20px 0;
 }
 
 .section-colored {
@@ -105,29 +105,6 @@ body {
 
 /* pgDayFr 2014*/
 
-.navbar{
-	background-image: url('../pg_logo.png');
-	background-repeat: no-repeat;
-	background-position: 1%;
-	padding-top: 1%;
-}
-
-.navbar-brand{
-	vertical-align: center;
-	line-height: 1;	
-}
-
-.navbar-brand #btitle{
-	font-size: 2.3em;
-}
-.navbar-brand #binfo{
-	font-size: 1.6em;
-}
-
-.navbar-brand img{
-	float: left;
-	margin-left: 5px;
-}
 .home_bloc{
 	border-radius: 10px;
 	text-align: center;
@@ -152,14 +129,20 @@ body {
 	text-align: center;	
 }
 
-.twitter{
-	float: right;	
-}
 /* Responsive Styles */
+@media (max-width: 367px) {
+
+}
+
 @media (max-width: 767px) {
+.navbar-nav{
+font-size: 13px;
+}
 
 .carousel {
-  height: 70%; /* increases the carousel height so it looks good on phones */
+  /*height: 70%;  increases the carousel height so it looks good on phones */
+}
 }
 
-}
+
+
