@@ -141,6 +141,10 @@ body {
 	color: #336791;
 }
 
+.brand-info{
+	font-size: 0.7em;	
+}
+
 
 /* Responsive Styles */
 @media (max-width: 500px) {
