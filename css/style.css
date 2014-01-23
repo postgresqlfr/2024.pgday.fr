@@ -143,13 +143,22 @@ body {
 
 
 /* Responsive Styles */
-@media (max-width: 367px) {
-
+@media (max-width: 500px) {
+	
+.img-xs-50{
+	width: 50px;
+	height: 50px;		
+}
+	
 }
 
 @media (max-width: 767px) {
 .navbar-nav{
 font-size: 13px;
+}
+
+#flying-twitter-icon {
+	top: 45%;
 }
 
 .navbar-nav li .disabled{
