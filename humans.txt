@@ -1,0 +1,22 @@
+/* TEAM */
+	Chef:Juanjo Bernabeu
+	From: France
+
+	Web designer: BAILLY G
+	From: France
+
+/* THANKS */
+
+	Photography: Tomas VONDRA
+	FlickR: http://www.flickr.com/photos/tomas_vondra/   
+	From: Belgique
+
+        Photography: Sneaky Pie
+	FlickR: http://www.flickr.com/photos/sneaky-pie/
+
+
+/* SITE */
+	Last update:2014/01/25
+	Language: French
+	Doctype:HTML5
+	Tools: Netbeans, Bluefish, Git
