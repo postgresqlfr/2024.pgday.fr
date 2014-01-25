@@ -1,5 +1,6 @@
 ==TODO==
 - Add brand image
+- Bloquer taille minim 292px
 - add logo / image on carousel
 - add diapo for invited
 - fix carroussel controls
@@ -8,7 +9,6 @@
 - add contribuer page
 - add appel-orateur page
 - add contact page
-- find new font
 - link to RSS
 - virer useless css
 

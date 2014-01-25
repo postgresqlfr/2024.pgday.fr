@@ -147,7 +147,10 @@ body {
 
 .navbar-header{
     background-image: url('img/pgday_logo.png');
-    color: red;
+    font-family: 'Gen';
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.1;
 }
 
 
