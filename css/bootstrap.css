@@ -4801,7 +4801,19 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-inverse .navbar-brand {
   color: #ffffff;
-  padding: 2px 2px 2px 4px;
+  background-image: url('../img/pg_logo_60.png');
+  background-repeat: no-repeat;
+  background-position: left center;
+  width: 280px;
+}
+
+.navbar-brand a, navbar-brand .brand-info{
+    color: #ffffff;
+    padding: 2px 2px 2px 60px;
+}
+
+.navbar-brand a:hover{
+    text-decoration: none;
 }
 
 .navbar-inverse .navbar-brand:hover,

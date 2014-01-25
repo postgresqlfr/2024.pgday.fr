@@ -122,27 +122,32 @@ body {
 }
 
 .home_bloc{
-	border-radius: 10px;
-	text-align: center;
-	padding: 15px 4px 3px 4px;
-	border: solid 1px #CCC;
-	border-shadow: top;
-	margin: 3%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px 4px 3px 4px;
+    border: solid 1px #CCC;
+    border-shadow: top;
+    margin: 3%;
 }
 
 .home_bloc h3{
-	color: #336791;
-	font-variant: small-caps;
-	text-decoration: underline;	
+    color: #336791;
+    font-variant: small-caps;
+    text-decoration: underline;	
 }
 
 .home_bloc .fa{
-	font-size: 6em;
-	color: #336791;
+    font-size: 6em;
+    color: #336791;
 }
 
 .brand-info{
-	font-size: 0.7em;	
+    font-size: 0.7em;	
+}
+
+.navbar-header{
+    background-image: url('img/pgday_logo.png');
+    color: red;
 }
 
 
@@ -150,23 +155,28 @@ body {
 @media (max-width: 500px) {
 	
 .img-xs-50{
-	width: 50px;
-	height: 50px;		
+    width: 47px;
+    height: 47px;		
+}
+
+.brand-info{
+    font-size: 0.6em;
+    font-weight: bold;
 }
 	
 }
 
 @media (max-width: 767px) {
 .navbar-nav{
-font-size: 13px;
+    font-size: 13px;
 }
 
 #flying-twitter-icon {
-	top: 45%;
+    top: 45%;
 }
 
 .navbar-nav li .disabled{
-	display: none;
+    display: none;
 }
 
 .carousel {
