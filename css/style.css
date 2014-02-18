@@ -130,6 +130,10 @@ body {
     margin: 3%;
 }
 
+h5{
+    font-weight: bold;
+    font-style: italic;
+}
 .home_bloc h3{
     color: #336791;
     font-variant: small-caps;
