@@ -1,13 +1,178 @@
----
-layout: default
-title: PG DAY France
----
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PgDay France 2014 - Toulon">
+    <meta name="author" content="Jeff" >
+    <title>PgDay France</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" media="screen" href="fonts/Gen-Light.otf" rel="stylesheet" type="text/css"/> 
+    <link rel="shortcut icon" href="http://wiki.postgresql.fr/lib/tpl/tortoise/images/favicon.ico" />
+    <link type="text/plain" rel="author" href="https://www.pgday.fr/humans.txt" />
+  </head>
 
-<div id="home">
-  <h1>Derniers billets</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+            <div class="navbar-brand"> <a href="index.html">PgDay France</a>
+          	<a href="index.html" class="brand-info">Toulon - 7 juin 2014</a>
+              </div>
+        </div>
+
+
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="presentation.html">Présentation</a></li>
+            <li><a href="appel.html">Appel à orateurs</a></li>
+            <li><a href="contribuer.html">Contribuer</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+    <div id="myCarousel" class="carousel slide">
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <div class="carousel-inner">
+          <div class="item active">
+            <div class="carousel-caption">
+              <h2>Venez rencontrer la communauté PostgreSQL</h2>
+              <p>L'évènement rassemblera les membres de l'association PostgreSQL-France, des entreprise et amateurs comme professionnels pouvant vous faire part de leur expérience sur Postgresql au cours de la journée
+              </p>
+            </div>
+          </div>
+          
+          <div class="item">
+            <div class="carousel-caption">
+              <h2>Découvrez et apprenez davantage</h2>
+              <p>Au cours de la première journée découvrez les nouvelles fonctionnalités, outils et usages de PostgreSQL afin d'adapter votre base de données à vos besoins</p>
+            </div>
+          </div>
+          
+          <div class="item">
+            <div class="carousel-caption">
+              <h2>Expérimentez et formez vous</h2>
+              <p>Des ateliers seront organisés durant la seconde journée afin de mettre en pratique les différentes fonctionnalités et outils</p>
+            </div>
+          </div>
+             
+        </div>
+
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+          <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+          <span class="icon-next"></span>
+        </a>
+    </div>
+
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 home_bloc">
+          	<i class="fa fa-microphone"></i>
+            <h3>Conférences</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet urna a enim convallis tempus. Nulla facilisi. Cras porta magna elit, et placerat mauris auctor eget. Ut bibendum eleifend euismod. Phasellus commodo molestie nulla.</p>
+			<a class="btn btn-default" href="#" role="button">En savoir plus</a>
+          </div>
+          <div class="col-lg-3 col-md-3 home_bloc">
+          	<i class="fa fa-laptop"></i>
+            <h3>Ateliers</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet urna a enim convallis tempus. Nulla facilisi. Cras porta magna elit, et placerat mauris auctor eget. Ut bibendum eleifend euismod. Phasellus commodo molestie nulla.</p>
+          	<a class="btn btn-default" href="#" role="button">En savoir plus</a>
+          </div>
+          <div class="col-lg-3 col-md-3 home_bloc">
+          	<i class="fa fa-coffee"></i>
+            <h3>Repas</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet urna a enim convallis tempus. Nulla facilisi. Cras porta magna elit, et placerat mauris auctor eget. Ut bibendum eleifend euismod. Phasellus commodo molestie nulla.</p>
+			<a class="btn btn-default" href="#" role="button">En savoir plus</a>          
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-colored text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <p>Le PG Day France est un moment de rencontres et de conférence pour la communauté francophone de PostgreSQL. Les conférences s'adresses à tous les utilisateurs du logiciel : étudiants, administrateur systèmes, DBA, développeurs, chefs de Projets, décideurs, etc</p>
+            <hr>
+          </div>
+        </div>
+        <div class="row">
+            <p>Sponsorisé par</p>
+                <div class="col-xs-6 col-md-3">
+                    <a href="#" class="thumbnail">
+                        <img data-src="holder.js/50%x180" alt="Sponsor">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <a href="#" class="thumbnail">
+                        <img data-src="holder.js/100%x180" alt="Sponsor">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <a href="#" class="thumbnail">
+                        <img data-src="holder.js/100%x180" alt="Sponsor">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <a href="#" class="thumbnail">
+                        <img data-src="holder.js/100%x180" alt="Sponsor" >
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+<br/>
+    <div class="container">
+      <div class="row well">
+        <div class="col-xs-2 col-md-2">
+                <img src="img/assoc_logo_75.png" alt="PostgreSQL-Fr" title="Communauté francophone de PostgreSQL" class="img-xs-50"/>
+        </div>	  
+        <div class="col-xs-10 col-md-10">
+          <h4>PgDay est un évènement communautaire</h4>
+          <p>Vous pouvez vous aussi contribuer à la préparation de l'évenement. Pour plus d'information merci de consulter la page <a href="contribuer.html">Contribuer</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <footer>
+        <div class="row">
+          <div class="col-lg-12 text-center">
+		<p>Suivez notre actualité sur <a href="https://twitter.com/PGDAY_Fr" data-lang="fr" title="Page Twitter du PgDay-Fr">Twitter [@PGDAY_Fr]</a> ou abonnez vous à notre <a href="/rss.xml">flux RSS</a></p>
+            <hr>
+            <small>PgDay France 2014 est un évènement de <a href="http://www.postgresql.fr" title="Site de la communauté PostgreSQL francophone"> la communauté francophone de PostgreSQL</a> - <a href="mentionslegales.html">Mentions légales</a></small>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/modern-business.js"></script>
+	<script type='text/javascript'>
+    </script>
+
+  </body>
+</html>
