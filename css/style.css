@@ -170,7 +170,7 @@ h5{
     font-size: 0.6em;
     font-weight: bold;
 }
-	
+
 }
 
 @media (max-width: 767px) {
@@ -185,10 +185,10 @@ h5{
 .navbar-nav li .disabled{
     display: none;
 }
+}
 
 .carousel {
-  /*height: 70%;  increases the carousel height so it looks good on phones */
-}
+  height: 75%;
 }
 
 
