@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="PGDay France 2014 - Toulon">
+    <title>PGDay France - {{ page.title }}</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" media="screen" href="fonts/Gen-Light.otf" rel="stylesheet" type="text/css"/>
+    <link rel="shortcut icon" href="http://wiki.postgresql.fr/lib/tpl/tortoise/images/favicon.ico" />
+    <link type="text/plain" rel="author" href="https://www.pgday.fr/humans.txt" />
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+            <div class="navbar-brand"> <a href="index.html">PGDay France</a>
+            <a href="index.html" class="brand-info">Toulon - 5-6 juin 2014</a>
+              </div>
+        </div>
+
+
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="programme.html">Programme</a></li>
+            <li><a href="inscription.html">Inscription</a></li>
+            <li><a href="contribuer.html">Contribuer</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+
+
+<br/>
+<br/>
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+<div class="row">
+<div class="col-md-2"></div>
+<div class="col-md-8">
+<ul class="list-group">
+    <li class="list-group-item"><a href="#Postgresql-past-present-futur">
+        <strong>PostgreSQL : Past, Present and Future</strong> - Bruce Momjian</a>
+    </li>
+    <li class="list-group-item"><a href="#2TB-of-RAM-ought-to-be-enough-for-anybody">
+        <strong>2TB of RAM ought to be enough for anybody!</strong> - Jean-Louis Bergamo</a>
+    </li>
+    <li class="list-group-item"><a href="#Les-nouveautés-de-PostgreSQL-9-4">
+      <strong>Les nouveautés de PostgreSQL 9.4</strong> - Damien Clochard</a>
+  </li>
+  <li class="list-group-item"><a href="#Gestion-du-cache-en-lecture-écriture">
+      <strong>Gestion du cache en lecture / écriture</strong> - Cédric Villemain</a>
+  </li>
+  <li class="list-group-item"><a href="#Adoption-de-PostgreSQL-dans-les-grandes-entreprises">
+      <strong>Adoption de PostgreSQL dans les grandes entreprises</strong> - Jean-Paul Argudo</a>
+  </li>
+  <li class="list-group-item"><a href="#Aller-plus-loin-avec-VACUUM">
+      <strong>Aller plus loin avec VACUUM</strong> - Julien Rouhaud</a>
+  </li>
+  <li class="list-group-item"><a href="#Cartes-Sanitaire-Universitaire-et-des-Cantines-Scolaires-de-Côte-d-Ivoire">
+      <strong>Carte Sanitaire, Carte Universitaire, Carte des Cantines Scolaires de Côte d’Ivoire</strong> - Solange NIAMKE</a>
+  </li>
+  <li class="list-group-item"><a href="#Intégrer-des-données-dans-PostgreSQL">
+      <strong>Intégrer des données dans PostgreSQL</strong> - Dimitri Fontaine</a>
+  </li>
+  <li class="list-group-item"><a href="#La-réplication-avec-PostgreSQL-9-4">
+      <strong>La réplication avec PostgreSQL 9.4</strong> - Thomas Reiss</a>
+  </li>
+  <li class="list-group-item"><a href="#Principales-avancées-et-nouveautés-de-PostGIS">
+      <strong>Principales avancées et nouveautés de PostGIS</strong> - Olivier Courtin</a>
+  </li>
+  <li class="list-group-item"><a href="#Expérience-du-3ème-type">
+      <strong>Expérience du 3ème type</strong> - Grégoire Hubert</a>
+  </li>
+  <li class="list-group-item">
+      <strong>Conférence de clôture</strong>
+  </li><!--
+  <li class="list-group-item"><a href="#Python-et-Postgresql-a-love-story">
+      <strong>Python & Postgresql, a love story</strong> - Laurent Paoletti</a>
+  </li>
+  <li class="list-group-item"><a href="#Ecrire-des-Foreign-Data-Wrappers-en-Python">
+      <strong>Écrire des Foreign Data Wrappers en Python</strong> - Ronan Dunklau</a>
+  </li>-->
+</ul>
+</div>
+<div class="col-md-2"></div>
+</div>
+
+<div id="Postgresql-past-present-futur"></div><br/><br/>
+<div class="row" >
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>PostgreSQL : Past, Present and Future</h3>
+        <h4>Bruce Momjian, EnterpriseDB</h4>
+        <p>
+            <blockquote class="small">
+             Bruce est un des pères fondateur de du projet PostgreSQL. Il fait partie de l'équipe qui a récupéré, stabilisé et diffusé le code de PostgreSQL 
+             en 1996 sous licence open source. Depuis bientot 20 ans, Bruce est membre du PostgreSQL Global Development Group (PGDG) qui pilote les développements
+             de la communauté PostgreSQL
+            </blockquote>
+        </p>
+        <p>This presentation covers  PostgreSQL  history, current usage, and future plans. It also contains a secton on why users choose PostgreSQL 
+            over proprietary databases.
+        </p>
+    </div>
+</div>
+
+<div id="2TB-of-RAM-ought-to-be-enough-for-anybody"></div><br/><br/>
+<div class="row" >
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>2TB of RAM ought to be enough for anybody!</h3>
+        <h4>Jean-Louis Bergamo, Leboncoin.fr / 45 min</h4>
+        <p>
+            <blockquote class="small">
+            Après la gestion de différentes grosses plates-formes web (Skyblog, Winamax), j'ai rejoins leboncoin.fr en 2013 où
+            j'ai pu faire mes premières expériences avec PG sur une des plus grosses instances françaises.
+            </blockquote>
+        </p>
+        <p> Leboncoin.fr, une filiale de Schibsted Classified Media, est une des success story de l'internet français.
+            1/3 de la population française utilise ce site chaque mois. La croissance a été spectaculaire et rapide, 
+            et a été rendue possible par une plate-forme logicielle robuste et performante. Une infrastructure PostgreSQL 
+            est au cœur de cette plate-forme, dont une partie s’exécute sur les serveurs les plus puissants de la gamme x86.
+            Dans cette présentation, nous montrerons comment nous avons fait grandir notre infrastructure. En particulier,
+            l'évolutivité verticale étonnante de PG sera présentée avec des chiffres concrets (IOPS, transactions / 
+            secondes, etc.). Nous allons aussi couvrir une partie des leçons apprises, parfois dans la douleur, au cours 
+            de cette croissance. Enfin, nous nous pencherons sur la façon dont les caractéristiques innovantes de l'écosystème
+            de PostgreSQL permettent de nouvelles approches à notre défi de l'évolutivité. 
+        </p>
+    </div>
+</div>
+
+<div id="Les-nouveautés-de-PostgreSQL-9-4"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Les nouveautés de PostgreSQL 9.4</h3>
+        <h4>Damien Clochard, Dalibo / 45 min</h4>
+        <p>
+            <blockquote class="small">
+            Damien est le créateur de PostgreSQL Magazine, un des administrateurs de la plateforme www.postgresql.fr et président 
+            de l'association PostgreSQLFr. Il est également Directeur des Opérations de DALIBO. 
+            </blockquote>
+        </p>
+        <p> Comme chaque année, la nouvelle mouture de PostgreSQL fera son apparition en septembre. Le nombre d'améliorations et de nouvelles
+            fonctionnalités est trop grand pour que l'on puisse être exhaustif en moins d'une heure !<br>
+Pour la version 9.4, on retrouve évidement de nombreuses avancées sur des fonctionnalités existantes : vues matérialisées, le support de JSON, la réplication.<br>
+Et bien sur une pluie de nouveautés notamment: l'outil pg_prewarm, les ALTER SYSTEM SET, FILTER et WITHIN GROUP
+        </p>
+    </div>
+</div>
+
+<div id="Gestion-du-cache-en-lecture-écriture"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Gestion du cache en lecture / écriture</h3>
+        <h4>Cédric Villemain, 2ndQuadrant / 45 min</h4>
+        <p> Après une description du fonctionnement des deux systèmes de cache, les extensions pg_buffercache, pg_prewarm et pgfincore sont 
+            présentées, avec leurs usages, leurs points communs et leurs différences d'implémentation. <br>
+Cette conférence présente aussi les modifications apportées au noyau linux pour optimiser les performances d'analyse du cache et étendre 
+son analyse au cache en écriture. Il s'agit du point de départ pour une optimisation des algorithmes de pré-lecture et d'écritures différées de PostgreSQL. 
+        </p>
+    </div>
+</div>
+
+<div id="Adoption-de-PostgreSQL-dans-les-grandes-entreprises"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Adoption de PostgreSQL dans les grandes entreprises</h3>
+        <h4>Jean-Paul Argudo, Dalibo / 45 min</h4>
+        <p>
+            <blockquote class="small">
+            Jean-Paul Argudo est le co-fondateur du site www.postgresql.fr, de l'association PostgreSQLFr et de l'association PostgreSQL Europe. Depuis plus de 10 ans, il œuvre à
+            différents niveaux pour la promotion de PostgreSQL en France et en Europe. Il est également gérant de la société DALIBO. 
+            </blockquote>
+        </p>
+        <p> Cette présentation est en fait double:
+        <ul>
+    <li>elle donne les informations-clé sur PostgreSQL pour les néophytes;</li>
+    <li>puis aborde le sujet de PostgreSQL dans les grandes entreprises et présente l'état des choses dans l'administration, en conclusion</li>
+        </ul>
+
+    - Pourquoi les grandes entreprises passent à PostgreSQL?<br>
+        (Qu'est-ce que PostgreSQL ? Que couvre PostgreSQL exactement ? Est-ce pour l'argent uniquement?<br>
+    - Comment font-elles cette transition ?<br>
+        (études, plan formation, aspects documentaires, migration de l'existant, support)<br>
+    - Quel est le coût “du changement” ?<br>
+        (Y-a-t-il un ROI ? Comment le TCO se modifie ? Quelques études de cas réels )<br>
+    - Et dans l'administration ?
+        </p>
+    </div>
+</div>
+
+<div id="Aller-plus-loin-avec-VACUUM"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Aller plus loin avec VACUUM</h3>
+        <h4>Rouhaud Julien, Dalibo / 45 min</h4>
+        <p>
+            <blockquote class="small">
+            Développeur devenu DBA en découvrant PostgreSQL, travaille maintenant chez Dalibo.
+            </blockquote>
+        </p>
+        <p> Quelle que soit votre architecture, votre utilisation du moteur, votre volumétrie… certaines tâche de maintenance sont indispensables. 
+            Vacuum est une opération qu'il convient de convenablement comprendre et planifier. Nous verrons donc quels sont les principaux paramètres 
+            à prendre en compte pour paramétrer son autovacuum, comment bien planifier ses vacuum mais aussi les pièges qui peuvent se poser selon les 
+            cas d'utilisation. 
+        </p>
+    </div>
+</div>
+
+<div id="Cartes-Sanitaire-Universitaire-et-des-Cantines-Scolaires-de-Côte-d-Ivoire"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+    <div class="col-md-10">
+        <h3></h3>
+        <h4></h4>
+        <p>
+            <blockquote class="small">
+            Je travaille au Bureau National d’Etude Technique et de Développement Côte d’Ivoire, où j’occupe actuellement le poste de chef du Service Informatique 
+            et Base de données au Centre de Cartographie et de Télédétection du BNETD.
+            </blockquote>
+        </p>
+        <p> Dans le cadre du projet de mise en place d’un nouveau système de sécurité par géo -localisation de véhicules exécuté en collaboration avec SILS 
+            Technology, filiale du BNETD, Il a été développé au le Centre de Cartographie et de télédétection un système de cartographie Web avec une base de 
+            données de navigation. La base de données Géographiques pour la navigation (BD-Navigation) est une base de données réalisée principalement avec la 
+            base de données géographique multi- échelles (BDGéoME©) en cours d’implémentation au BNETD/CCT et d’autres sources telles que les plans guides de 
+            plusieurs villes de Côte d’Ivoire. SIG-Navigation comporte trois le Système de Gestion de la Base de données Relationnelles (SGBD) contenant la BD-Navigation 
+            est PostgreSQL ; le serveur Web qui gère l’affichage Web et les accès à la base de données est Apache ; 
+            le serveur de cartographie Web qui gère la cartographie et les outils de manipulation de la carte ainsi que la légende est MapServer avec le Layout Pmapper.
+        </p>
+    </div>
+</div>
+
+<div id="Intégrer-des-données-dans-PostgreSQL"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Intégrer des données dans PostgreSQL</h3>
+        <h4>Dimitri Fontaine, 2ndQuadrant / 45 min</h4>
+        <p>
+            <blockquote class="small">
+            Dimitri Fontaine est Contributeur Majeur de PostgreSQL (conception, revue de code, 
+            Extensions, Event Triggers, etc). Il contribue également aux Skytools et développe pgloader, prefix et d'autres logiciels. 
+            </blockquote>
+        </p>
+        <p> Qu'il s'agisse de données au format CSV, dBase SQLite ou MySQL, et bientôt JSON ou XML, pgloader 3.1 est fait pour vous aider à normaliser 
+            et importer vos données externes dans PostgreSQL. Cette présentation détaille comment utiliser pgloader afin de résoudre les problèmes habituels
+            de chargement de données. 
+        </p>
+    </div>
+</div>
+
+<div id="La-réplication-avec-PostgreSQL-9-4"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>La réplication avec PostgreSQL 9.4</h3>
+        <h4>Thomas Reiss, Dalibo / 30 min</h4>
+        <p>
+            <blockquote class="small">
+            DBA dans l'administration puis dans Dalibo. Utilisateur de PostgreSQL depuis plusieurs années. 
+            </blockquote>
+        </p>
+        <p> Après une rapide présentation des solutions de réplication de PostgreSQL, nous allons aborder les nouveautés liés à la réplication 
+            dans PostgreSQL 9.4 (replication slots, réplication logique).<br>
+Cette présentation s'étendra sur la réplication logique, qui est la nouveauté majeure dans la version 9.4. Tout cela sera bien entendu illustré 
+par une démonstration de ces nouveautés. 
+        </p>
+    </div>
+</div>
+
+<div id="Principales-avancées-et-nouveautés-de-PostGIS"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Principales avancées et nouveautés de PostGIS</h3>
+        <h4>Olivier Courtin, Oslandia / 45 min</h4>
+        <p>
+            <blockquote class="small">
+Olivier est contributeur et commiter PostGIS depuis de nombreuses années et intervient dans de diverses actions de conseil sur ces technologies.<br>
+Il a cofondé, avec Vincent Picavet, en 2009, la société Oslandia, spécialisée en solutions SIG Open Source, avec un focus particulier sur PostGIS. 
+            </blockquote>
+        </p>
+        <p> Si vous en êtes resté à la notion de stockage et manipulation de géométries 2D dans PostGIS, c'est bien, mais figurez vous que depuis lors cette 
+            solution fournit de nombreuses autres fonctionnalités !<br>
+
+Cette présentation se conçoit comme un tour d'horizon abordant par le menu les principales familles de fonctions et évolutions majeures de PostgreSQL/PostGIS 
+ces deux dernières années.<br>
+
+Les thématiques abordées couvrent: PostGIS Raster, PostGIS Topology, Analyse spatiale 3D, du SQL avancé au service de l'analyse spatiale, l'extension PointCloud
+et données LIDAR, sans oublier l'Administration de PostgreSQL/PostGIS. <br>
+        </p>
+    </div>
+</div>
+
+<div id="Expérience-du-3ème-type"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Expérience du 3ème type</h3>
+        <h4>Grégoire HUBERT, PragmaFabrik </h4>
+        <p>
+            <blockquote class="small">
+            Utilisateur de PHP et de Postgresql depuis le XXème siècle, le parcours professionnel de Grégoire HUBERT va l'emmener 
+            des premières SS2L aux web agencies en passant par l'hébergement. Auteur de Pomm, il fonde PragmaFabrik en 2013. 
+            </blockquote>
+        </p>
+        <p> Les développement web adressent aujourd'hui des problématiques métier de plus en plus complexes. PostgreSQL est parfaitement outillé 
+            pour répondre à ces problématiques mais de l'autre coté, les frameworks de développement ne proposent pas souvent d'en utiliser les fonctionnalités.
+            L'utilisation des types de PostgreSQL est pourtant un atout majeur dans la structuration des données. À quoi peuvent bien servir HStore, LTree, 
+            les types composites ? Comment utiliser les fonctionnalités objet de PostgreSQL ? Cette conférence sera l'occasion de faire un retour d'expérience 
+            sur les services rendus par la richesse des types de PostgreSQL. 
+        </p>
+    </div>
+</div>
+
+<!--
+<div id="Python-et-Postgresql-a-love-story"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Python & Postgresql, a love story</h3>
+        <h4>Laurent Paoletti, Freelance</h4>
+        <p>
+            <blockquote class="small">
+             Développeur web sur technos python et django, Postgres est le SGBD que j'utilise prioritairement. En dehors de développer des applis pour mes clients, 
+             je co-organise différents événements TEDX Toulon, les rencontres Django francophones, Djangocon Europe 2014, Pytong et les soirées /dev/var.
+             Je suis président de l'association Toulonux et enseignant vacataire (Python) à l'Isen de Toulon. 
+            </blockquote>
+        </p>
+        <p> Python et postgre forment un couple solide et performant, comme de nombreux projets l'ont démontré: Autolib, Pinterest, Instagram Uber et bien 
+            d'autres. Non content de s'interfacer avec Postgres, Python dispose d'une grande quantité de librairies pour le web, l'analyse de données, le 
+            machine learning, la création d'APIs REST, la mise en place d'interface graphiques etc… Après avoir présenté succintement Python et ses différentes
+            capacités, je propose de passer en revue quelques projets Python et comment ils s'intègrent avec Postgres et Postgis, notamment Django (dont le 
+            support des features de Postgres va prochainement être étendu) et Geodjango, mais aussi Sqlalchemy et Peewee (des ORM Python). 
+        </p>
+    </div>
+</div>
+
+<div id="Ecrire-des-Foreign-Data-Wrappers-en-Python"></div><br/><br/>
+<div class="row">
+    <div class="col-md-2">
+      <img class="img-thumbnail" data-src="holder.js/100%x180" alt="...">
+    </div>
+
+    <div class="col-md-10">
+        <h3>Multicorn: Écrire des Foreign Data Wrappers en Python</h3>
+        <h4>Dunklau Ronan, Dalibo / 45 min</h4>
+        <p>
+            <blockquote class="small">
+            Développeur devenu DBA chez Dalibo, Ronan s'investit dans l'open source autant sur PostgreSQL que sur des projets Python. 
+            </blockquote>
+        </p>
+        <p> Après une présentation des foreign data wrappers en général, et de l'extension Multicorn en particulier, nous ferons le tour des FDWs inclus dans
+            l'extension.<br>
+Ensuite, nous ferons un tour de l'API Multicorn pour vous apprendre à écrire un FDW en Python, avec les fonctionnalités suivantes:
+        <ul>
+            <li>utilisation de la définition de la table</li>
+    <li>évaluation des clauses WHERE sur le serveur distant</li>
+    <li>omission les colonnes non nécessaires</li>
+    <li>influence sur l'optimiseur</li>
+    <li>accès en écriture</li>
+    <li>gestion les transactions</li>
+        </ul>
+Tout ceci sera illustré par un exemple simple mais concret pouvant vous servir de base pour un écrire votre propre FDW. 
+        </p>
+    </div>
+</div>
+-->
+
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+      <footer>
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <p>Suivez notre actualité sur <a href="https://twitter.com/PGDAY_Fr" data-lang="fr" title="Page Twitter du PGDay France">Twitter [@PGDAY_Fr]</a><!-- ou abonnez vous à notre <a href="/rss.xml">lettre d'information</a>-->.</p>
+            <p>Retrouvez également le même type d'événement organisé en Suisse : <a href="http://www.postgres-conference.ch/fr/" data-lang="fr" title="Swiss Postgres Conference 2014">Swiss Postgres Conference 2014</a>.</p>
+            <hr>
+            <small>Le PGDay France 2014 est un évènement de <a href="http://www.postgresql.fr" title="Site de la communauté PostgreSQL francophone"> la communauté francophone de PostgreSQL</a></small>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/modern-business.js"></script>
+    <script type='text/javascript'>
+    </script>
+
+  </body>
+</html>
