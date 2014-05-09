@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+PRODID:-//PGDAY2014-ICS-V1
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:PG Day 2014
+X-WR-TIMEZONE:Europe/Paris
+X-WR-CALDESC:Calendrier du PG Day 2014
+BEGIN:VEVENT
+DTSTART:20140603T140000Z
+DTEND:20140603T144500Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00001
+CREATED:20140508T222643Z
+DESCRIPTION:Track 2\n\nLes développement web adressent aujourd'hui des prob
+ lématiques métier de plus en plus complexes. PostgreSQL est parfaitement ou
+ tillé pour répondre à ces problématiques mais de l'autre coté\, les framewo
+ rks de développement ne proposent pas souvent d'en utiliser les fonctionnal
+ ités. L'utilisation des types de PostgreSQL est pourtant un atout majeur da
+ ns la structuration des données. À quoi peuvent bien servir HStore\, LTree\
+ , les types composites ? Comment utiliser les fonctionnalités objet de Post
+ greSQL ? Cette conférence sera l'occasion de faire un retour d'expérience s
+ ur les services rendus par la richesse des types de PostgreSQL.
+LAST-MODIFIED:20140508T223227Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Expérience du 3ème type (Grégoire Hubert)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T140000Z
+DTEND:20140603T144500Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00002
+CREATED:20140508T222604Z
+DESCRIPTION:Track 1\n\nSi vous en êtes resté à la notion de stockage et man
+ ipulation de géométries 2D dans PostGIS\, c'est bien\, mais figurez vous qu
+ e depuis lors cette solution fournit de nombreuses autres fonctionnalités !
+ \nCette présentation se conçoit comme un tour d'horizon abordant par le men
+ u les principales familles de fonctions et évolutions majeures de PostgreSQ
+ L/PostGIS ces deux dernières années.\nLes thématiques abordées couvrent: Po
+ stGIS Raster\, PostGIS Topology\, Analyse spatiale 3D\, du SQL avancé au se
+ rvice de l'analyse spatiale\, l'extension PointCloud et données LIDAR\, san
+ s oublier l'Administration de PostgreSQL/PostGIS.
+LAST-MODIFIED:20140508T223158Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Principales avancées et nouveautés de PostGIS (Olivier Courtin)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T124500Z
+DTEND:20140603T133000Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00003
+CREATED:20140508T222519Z
+DESCRIPTION:Track 2\n\nAprès une rapide présentation des solutions de répli
+ cation de PostgreSQL\, nous allons aborder les nouveautés liés à la réplica
+ tion dans PostgreSQL 9.4 (replication slots\, réplication logique).\nCette 
+ présentation s'étendra sur la réplication logique\, qui est la nouveauté ma
+ jeure dans la version 9.4. Tout cela sera bien entendu illustré par une dém
+ onstration de ces nouveautés.
+LAST-MODIFIED:20140508T223149Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:La réplication avec PostgreSQL 9.4 (Thomas Reiss)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T124500Z
+DTEND:20140603T133000Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00004
+CREATED:20140508T222419Z
+DESCRIPTION:Track 1\n\nDans le cadre du projet de mise en place d’un nouvea
+ u système de sécurité par géo -localisation de véhicules exécuté en collabo
+ ration avec SILS Technology\, filiale du BNETD\, Il a été développé au le C
+ entre de Cartographie et de télédétection un système de cartographie Web av
+ ec une base de données de navigation. La base de données Géographiques pour
+  la navigation (BD-Navigation) est une base de données réalisée principalem
+ ent avec la base de données géographique multi- échelles (BDGéoME©) en cour
+ s d’implémentation au BNETD/CCT et d’autres sources telles que les plans gu
+ ides de plusieurs villes de Côte d’Ivoire. SIG-Navigation comporte trois le
+  Système de Gestion de la Base de données Relationnelles (SGBD) contenant l
+ a BD-Navigation est PostgreSQL \; le serveur Web qui gère l’affichage Web e
+ t les accès à la base de données est Apache \; le serveur de cartographie W
+ eb qui gère la cartographie et les outils de manipulation de la carte ainsi
+  que la légende est MapServer avec le Layout Pmapper.
+LAST-MODIFIED:20140508T223140Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Carte Sanitaire\, Carte Universitaire\, Carte des Cantines Scolaire
+ s de Côte d’Ivoire (Solange Niamke)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T120000Z
+DTEND:20140603T124500Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00005
+CREATED:20140508T222306Z
+DESCRIPTION:Track 2\n\n Qu'il s'agisse de données au format CSV\, dBase SQL
+ ite ou MySQL\, et bientôt JSON ou XML\, pgloader 3.1 est fait pour vous aid
+ er à normaliser et importer vos données externes dans PostgreSQL. Cette pré
+ sentation détaille comment utiliser pgloader afin de résoudre les problèmes
+  habituels de chargement de données.
+LAST-MODIFIED:20140508T223131Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Intégrer des données dans PostgreSQL (Dimitri Fontaine)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T120000Z
+DTEND:20140603T124500Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00006
+CREATED:20140508T222230Z
+DESCRIPTION:Track 1\n\n Cette présentation est en fait double:\n\n    elle 
+ donne les informations-clé sur PostgreSQL pour les néophytes\;\n    puis ab
+ orde le sujet de PostgreSQL dans les grandes entreprises et présente l'état
+  des choses dans l'administration\, en conclusion\n\n- Pourquoi les grandes
+  entreprises passent à PostgreSQL?\n(Qu'est-ce que PostgreSQL ? Que couvre 
+ PostgreSQL exactement ? Est-ce pour l'argent uniquement?\n- Comment font-el
+ les cette transition ?\n(études\, plan formation\, aspects documentaires\, 
+ migration de l'existant\, support)\n- Quel est le coût “du changement” ?\n(
+ Y-a-t-il un ROI ? Comment le TCO se modifie ? Quelques études de cas réels 
+ )\n- Et dans l'administration ?
+LAST-MODIFIED:20140508T223124Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Adoption de PostgreSQL dans les grandes entreprises (Jean-Paul Argu
+ do)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T093000Z
+DTEND:20140603T101500Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00007
+CREATED:20140508T222043Z
+DESCRIPTION:Track 1\n\nComme chaque année\, la nouvelle mouture de PostgreS
+ QL fera son apparition en septembre. Le nombre d'améliorations et de nouvel
+ les fonctionnalités est trop grand pour que l'on puisse être exhaustif en m
+ oins d'une heure !\nPour la version 9.4\, on retrouve évidement de nombreus
+ es avancées sur des fonctionnalités existantes : vues matérialisées\, le su
+ pport de JSON\, la réplication.\nEt bien sur une pluie de nouveautés notamm
+ ent: l'outil pg_prewarm\, les ALTER SYSTEM SET\, FILTER et WITHIN GROUP.
+LAST-MODIFIED:20140508T223117Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Les nouveautés de PostgreSQL 9.4 (Damien Clochard)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T093000Z
+DTEND:20140603T101500Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00008
+CREATED:20140508T222120Z
+DESCRIPTION:Track 2\n\nQuelle que soit votre architecture\, votre utilisati
+ on du moteur\, votre volumétrie… certaines tâche de maintenance sont indisp
+ ensables. Vacuum est une opération qu'il convient de convenablement compren
+ dre et planifier. Nous verrons donc quels sont les principaux paramètres à 
+ prendre en compte pour paramétrer son autovacuum\, comment bien planifier s
+ es vacuum mais aussi les pièges qui peuvent se poser selon les cas d'utilis
+ ation. 
+LAST-MODIFIED:20140508T223108Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Aller plus loin avec VACUUM (Vik Fearing)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T080000Z
+DTEND:20140603T091500Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00009
+CREATED:20140508T221921Z
+DESCRIPTION:Track 2\n\nAprès une description du fonctionnement des deux sys
+ tèmes de cache\, les extensions pg_buffercache\, pg_prewarm et pgfincore so
+ nt présentées\, avec leurs usages\, leurs points communs et leurs différenc
+ es d'implémentation.\nCette conférence présente aussi les modifications app
+ ortées au noyau linux pour optimiser les performances d'analyse du cache et
+  étendre son analyse au cache en écriture. Il s'agit du point de départ pou
+ r une optimisation des algorithmes de pré-lecture et d'écritures différées 
+ de PostgreSQL. 
+LAST-MODIFIED:20140508T223049Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Gestion du cache en lecture / écriture (Cédric Villemain)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T080000Z
+DTEND:20140603T091500Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00010
+CREATED:20140508T221830Z
+DESCRIPTION:Track 1\n\nLeboncoin.fr\, une filiale de Schibsted Classified M
+ edia\, est une des success story de l'internet français. 1/3 de la populati
+ on française utilise ce site chaque mois. La croissance a été spectaculaire
+  et rapide\, et a été rendue possible par une plate-forme logicielle robust
+ e et performante. Une infrastructure PostgreSQL est au cœur de cette plate-
+ forme\, dont une partie s’exécute sur les serveurs les plus puissants de la
+  gamme x86. Dans cette présentation\, nous montrerons comment nous avons fa
+ it grandir notre infrastructure. En particulier\, l'évolutivité verticale é
+ tonnante de PG sera présentée avec des chiffres concrets (IOPS\, transactio
+ ns / secondes\, etc.). Nous allons aussi couvrir une partie des leçons appr
+ ises\, parfois dans la douleur\, au cours de cette croissance. Enfin\, nous
+  nous pencherons sur la façon dont les caractéristiques innovantes de l'éco
+ système de PostgreSQL permettent de nouvelles approches à notre défi de l'é
+ volutivité. 
+LAST-MODIFIED:20140508T223039Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:2TB of RAM ought to be enough for anybody! (Jean-Louis Bergamo)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140603T070000Z
+DTEND:20140603T080000Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00011
+CREATED:20140508T221733Z
+DESCRIPTION:This presentation covers PostgreSQL history\, current usage\, a
+ nd future plans. It also contains a secton on why users choose PostgreSQL o
+ ver proprietary databases. 
+LAST-MODIFIED:20140508T223030Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PostgreSQL Past\, Present and Future (Bruce Momjian)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140602T120000Z
+DTEND:20140602T153000Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00012
+CREATED:20140508T221623Z
+DESCRIPTION:Bruce MOMJIAN - EnterpriseDB\nAnglais\n\nCet atelier permettra 
+ d'apprendre au mieux comment configurer PostgreSQL pour optimiser son fonct
+ ionnement en terme de performances\n\nIl traitera de la configuration des b
+ uffers\, de la mémoire\, de l'execution des requêtes (index\, jointures) et
+  des commandes VACUUM\, EXPLAIN ou ANALYZE.
+LAST-MODIFIED:20140508T223021Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:PostgreSQL Performance
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140602T073000Z
+DTEND:20140602T110000Z
+DTSTAMP:20140508T223236Z
+UID:-PGDAY-2014-00013
+CREATED:20140508T221542Z
+DESCRIPTION:Thomas REISS / Julien ROUHAUD - Dalibo\nFrançais\n\nPostgreSQL\
+ , comme tout moteur de base de données\, est généralement un point crucial 
+ du système d'informations. Il nécessite par conséquence une attention toute
+  particulière pour s'assurer de sa bonne santé\, passée présente et future.
+ \n\nDans cet atelier\, vous découvrirez quels sont les indicateurs à survei
+ ller\, que ce soit sur le moteur PostgreSQL ou sur le système l'hébergeant\
+ , afin de s'assurer de la bonne santé de son serveur. Pour ce faire\, plusi
+ eurs outils open sources existant seront présentés. Grâce à eux\, vous sere
+ z capable de mettre en place des alertes\, analyser des problèmes de perfor
+ mances et vous assurer de la pérennité de votre système. 
+LAST-MODIFIED:20140508T223012Z
+LOCATION:83000 Place Georges Pompidou\, Toulon\, France
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Superviser PostgreSQL
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
