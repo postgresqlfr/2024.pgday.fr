@@ -1,7 +1,7 @@
-/* 
-Custom CSS for 
+/*
+Custom CSS for
 Based on 'Modern Business' HTML Theme by Start Bootstrap [http://startbootstrap.com!]
-licensed under Apache 2.0. 
+licensed under Apache 2.0.
 */
 
 /* Global Styles */
@@ -136,7 +136,7 @@ h5{
 .home_bloc h3{
     color: #336791;
     font-variant: small-caps;
-    text-decoration: underline;	
+    text-decoration: underline;
 }
 
 .home_bloc .fa{
@@ -145,11 +145,10 @@ h5{
 }
 
 .brand-info{
-    font-size: 0.7em;	
+    font-size: 0.7em;
 }
 
 .navbar-header{
-    background-image: url('img/pgday_logo.png');
     font-family: 'Gen';
     font-weight: normal;
     font-style: normal;
@@ -159,10 +158,10 @@ h5{
 
 /* Responsive Styles */
 @media (max-width: 500px) {
-	
+
 .img-xs-50{
     width: 47px;
-    height: 47px;		
+    height: 47px;
 }
 
 .brand-info{
