@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 PRODID:-//PGDAY2014-ICS-V1
-VERSION:2.0
+VERSION:3.0
 METHOD:PUBLISH
 X-WR-CALNAME:PG Day 2014
 X-WR-TIMEZONE:Europe/Paris
@@ -20,7 +20,7 @@ DESCRIPTION:Track 2\n\nLes développement web adressent aujourd'hui des prob
  , les types composites ? Comment utiliser les fonctionnalités objet de Post
  greSQL ? Cette conférence sera l'occasion de faire un retour d'expérience s
  ur les services rendus par la richesse des types de PostgreSQL.
-LAST-MODIFIED:20140508T223227Z
+LAST-MODIFIED:20140606T111111Z
 LOCATION:83000 Place Georges Pompidou\, Toulon\, France
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -139,8 +139,8 @@ SUMMARY:Adoption de PostgreSQL dans les grandes entreprises (Jean-Paul Argu
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20140606T093000Z
-DTEND:20140606T101500Z
+DTSTART:20140606T110000Z
+DTEND:20140606T120000Z
 DTSTAMP:20140508T223236Z
 UID:-PGDAY-2014-00007
 CREATED:20140508T222043Z
@@ -151,7 +151,7 @@ DESCRIPTION:Track 1\n\nComme chaque année\, la nouvelle mouture de PostgreS
  es avancées sur des fonctionnalités existantes : vues matérialisées\, le su
  pport de JSON\, la réplication.\nEt bien sur une pluie de nouveautés notamm
  ent: l'outil pg_prewarm\, les ALTER SYSTEM SET\, FILTER et WITHIN GROUP.
-LAST-MODIFIED:20140508T223117Z
+LAST-MODIFIED:20140606T111111Z
 LOCATION:83000 Place Georges Pompidou\, Toulon\, France
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -159,8 +159,8 @@ SUMMARY:Les nouveautés de PostgreSQL 9.4 (Damien Clochard)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20140606T093000Z
-DTEND:20140606T101500Z
+DTSTART:20140606T110000Z
+DTEND:20140606T120000Z
 DTSTAMP:20140508T223236Z
 UID:-PGDAY-2014-00008
 CREATED:20140508T222120Z
@@ -171,7 +171,7 @@ DESCRIPTION:Track 2\n\nQuelle que soit votre architecture\, votre utilisati
  prendre en compte pour paramétrer son autovacuum\, comment bien planifier s
  es vacuum mais aussi les pièges qui peuvent se poser selon les cas d'utilis
  ation. 
-LAST-MODIFIED:20140508T223108Z
+LAST-MODIFIED:20140606T111111Z
 LOCATION:83000 Place Georges Pompidou\, Toulon\, France
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -179,8 +179,8 @@ SUMMARY:Aller plus loin avec VACUUM (Julien Rouhaud)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20140606T080000Z
-DTEND:20140606T091500Z
+DTSTART:20140606T100000Z
+DTEND:20140606T104500Z
 DTSTAMP:20140508T223236Z
 UID:-PGDAY-2014-00009
 CREATED:20140508T221921Z
@@ -192,7 +192,7 @@ DESCRIPTION:Track 2\n\nAprès une description du fonctionnement des deux sys
   étendre son analyse au cache en écriture. Il s'agit du point de départ pou
  r une optimisation des algorithmes de pré-lecture et d'écritures différées 
  de PostgreSQL. 
-LAST-MODIFIED:20140508T223049Z
+LAST-MODIFIED:20140606T111111Z
 LOCATION:83000 Place Georges Pompidou\, Toulon\, France
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -200,8 +200,8 @@ SUMMARY:Gestion du cache en lecture / écriture (Cédric Villemain)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20140606T080000Z
-DTEND:20140606T091500Z
+DTSTART:20140606T100000Z
+DTEND:20140606T101500Z
 DTSTAMP:20140508T223236Z
 UID:-PGDAY-2014-00010
 CREATED:20140508T221830Z
@@ -219,7 +219,7 @@ DESCRIPTION:Track 1\n\nLeboncoin.fr\, une filiale de Schibsted Classified M
   nous pencherons sur la façon dont les caractéristiques innovantes de l'éco
  système de PostgreSQL permettent de nouvelles approches à notre défi de l'é
  volutivité. 
-LAST-MODIFIED:20140508T223039Z
+LAST-MODIFIED:20140606T111111Z
 LOCATION:83000 Place Georges Pompidou\, Toulon\, France
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -235,7 +235,7 @@ CREATED:20140508T221733Z
 DESCRIPTION:This presentation covers PostgreSQL history\, current usage\, a
  nd future plans. It also contains a secton on why users choose PostgreSQL o
  ver proprietary databases. 
-LAST-MODIFIED:20140508T223030Z
+LAST-MODIFIED:20140606T111111Z
 LOCATION:83000 Place Georges Pompidou\, Toulon\, France
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -253,7 +253,7 @@ DESCRIPTION:Bruce MOMJIAN - EnterpriseDB\nAnglais\n\nCet atelier permettra
  ionnement en terme de performances\n\nIl traitera de la configuration des b
  uffers\, de la mémoire\, de l'execution des requêtes (index\, jointures) et
   des commandes VACUUM\, EXPLAIN ou ANALYZE.
-LAST-MODIFIED:20140508T223021Z
+LAST-MODIFIED:20140606T111111Z
 LOCATION:83000 Place Georges Pompidou\, Toulon\, France
 SEQUENCE:0
 STATUS:CONFIRMED
