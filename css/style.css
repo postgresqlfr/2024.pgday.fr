@@ -194,3 +194,7 @@ h5{
     height: 50px;
     padding: 2px 0;
 }
+
+.img-thumbnail {
+  max-width: 70%;
+}
