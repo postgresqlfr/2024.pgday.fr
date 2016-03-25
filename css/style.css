@@ -198,3 +198,7 @@ h5{
 .img-thumbnail {
   max-width: 70%;
 }
+
+.thumbnail > img {
+  height: 120px;
+}
