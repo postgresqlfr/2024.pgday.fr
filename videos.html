@@ -1,0 +1,354 @@
+---
+layout: default
+title: Vidéos 
+---
+      <br>
+
+<div class="row">
+  <div class="col-md-3"></div>
+  <div class="col-md-5">
+    <div id="pgsql-ha-10-min"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-12">
+        <h3>PgSQL + HA + Monitoring en 10 minutes
+          <a alt="Télécharger le support" href="slides/1-pgday_gendarmerie.odp"><i class="glyphicon glyphicon-download"></i></a>
+        </h3>
+        <h4>Mathieu Grzybek, Gendarmerie Nationale</h4>
+        <p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/emH6lPXOLf0" frameborder="0" allowfullscreen></iframe>
+        </p>
+	<a alt="Télécharger le support" href="slides/1-pgday_gendarmerie.odp">Télécharger la présentation</a>
+      </div>
+    </div>
+
+    <div id="structures-internes-donnees"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-2 text-right">
+        <img src="img/orateurs/sebastien_lardiere.jpg" alt="Sébastien Lardière" class="img-thumbnail">
+      </div>
+      <div class="col-md-10">
+        <h3>Structures internes des données sur disque
+          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
+        </h3>
+        <h4>Sébastien Lardière, Loxodata / 10h45 à 11h15</h4>
+        <p>
+        <blockquote class="small">
+          Sébastien Lardière est consultant et formateur au sein de la société
+          Loxodata. Après avoir hébergé une première instance PostgreSQL en 2001,
+          il se spécialise sur PostgreSQL, par intérêt, et pour répondre au besoin
+          de son entourage professionnel. Consultant indépendant, puis DBA de
+          production, il est aussi l'auteur d'un ouvrage technique destiné aux DBAs
+          PostgreSQL, aux Éditions ENI.
+        </blockquote>
+        </p>
+        <p><ul>
+          <li>
+            Comment PostgreSQL stocke-t-il les données sur disque ? Quel outils,
+            quels formats, quel avenir ?  Du fichier au tuple en passant par les
+            WALs et les index, revue de détails du stockage de PostgreSQL.
+          </li>
+          <li>
+            Plongée dans les structures internes du stockage de PostgreSQL :
+            tables, tuples, index, Wals :
+            <ul>
+              <li>
+                Ou sont stockées les données : fichiers, pages, tuples ?
+              </li>
+              <li>
+                Quels outils pour analyser les fichiers ?
+              </li>
+              <li>
+                Que deviennent nos données dans les fichiers ?
+              </li>
+              <li>
+                De quoi sont constitués les index ?
+              </li>
+              <li>
+                Que trouve-t-on dans les journaux de transactions ?
+              </li>
+              <li>
+                À quoi s'attendre à l'avenir : Remise en cause du format,
+                modularisation du stockage ?
+              </li>
+            </ul>
+          </li>
+        </ul>
+        </p>
+
+      </div>
+    </div>
+
+    <div id="comprendre-requete-lente"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-2 text-right">
+        <img src="img/orateurs/pierre_ducroquet.jpg" alt="Pierre Ducroquet" class="img-thumbnail">
+      </div>
+
+      <div class="col-md-10">
+        <h3>Comprendre pourquoi une requête est lente, et comment régler le
+          soucis
+          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
+        </h3>
+        <h4>Pierre Ducroquet, 11h15 à 11h45</h4>
+        <p>
+        <blockquote class="small">
+          Développeur d'applications depuis plusieurs années, Pierre a rencontré
+          PostgreSQL en 2008 et cherche autant que possible à le promouvoir depuis.
+          Il a notamment effectué la migration du SI de son ancien employeur OVH à
+          PostgreSQL et assuré la formation des autres employés.
+        </blockquote>
+        </p>
+        <p>PostgreSQL et son optimiseur arrivent très souvent à d'excellents
+        résultats. Malheureusement, quand le résultat n'est pas le bon, la
+        situation devient compliquée et la compréhension d'explain peut ne pas
+        suffire à trouver la solution. Dans cette présentation, nous verrons
+        différents cas, inspirés de situations réelles, et à travers leur
+        diagnostic et leur résolution, l'objectif est de permettre à tout le monde
+        de comprendre le monde des statistiques de PostgreSQL, mieux écrire ses
+        requêtes, mieux choisir ses index, et améliorer la configuration de la base
+        de données pour aboutir à des performances optimales pour les applications.
+        </p>
+      </div>
+    </div>
+
+    <div id="comprendre-requete-lente"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-2 text-right">
+        <img src="img/orateurs/nicolas_charles.jpg" alt="Nicolas Charles" class="img-thumbnail">
+      </div>
+
+      <div class="col-md-10">
+        <h3>Retour d'expérience de PostgreSQL dans Rudder
+          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
+        </h3>
+        <h4>Nicolas Charles, Normation / 11h45 à 12h15</h4>
+        <p>
+        <blockquote class="small">
+          Nicolas CHARLES est co-fondateur de la société Normation, éditeur open
+          source du logiciel Rudder. Développeur Scala, passionné de base de
+          données, et dans la gestion de configuration depuis 2009, je suis curieux
+          des technologies et de science.
+        </blockquote>
+        </p>
+        <p><a href="http://www.rudder-project.org">Rudder</a> est une solution open
+        source de gestion de configurations des serveurs, qui centralise des
+        informations d’état.  Avec plusieurs milliers de machines gérées, la
+        volumétrie à stocker devient conséquente.<br />
+        <br />
+        Nous avons choisi PostgreSQL (en 2009) comme base de données pour stocker ces
+        logs, mais aussi pour les configurations de l’application, et les données
+        d’historisation (sous forme de XML).<br />
+        <br />
+        Cette présentation sera un retour d’expérience de notre usage de PostgreSQL,
+        les problèmes que nous avons eu et leur résolution, et approfondira les
+        fonctionnalités plus avancées que nous utilisons (requêtage XML et arrays), et
+        nos plans pour le futur (avec du JSON, notamment).
+        </p>
+      </div>
+    </div>
+
+    <div id="pg-mature-grandes-applications"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-2 text-right">
+        <img src="img/orateurs/jl_vuattoux.jpg" alt="Jean-Luc Vuattoux" class="img-thumbnail">
+        <img src="img/orateurs/pj_ditscheid.jpg" alt="Pierre-Jean Ditscheid" class="img-thumbnail">
+      </div>
+
+      <div class="col-md-8">
+        <h3>PostgreSQL mature pour les grandes applications critiques : comment
+          les y migrer
+          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
+        </h3>
+        <h4>Jean-Luc Vuattoux &amp; Pierre-Jean Ditscheid, Eranea / 13h45 à 14h30</h4>
+        <p>
+        <blockquote class="small">
+          Pierre-Jean Ditscheid et Jean-Luc Vuattoux sont tous deux
+          co-fondateurs d'Eranea, éditrice d'une solution de transformation de
+          systèmes "legacy", en particulier mainframes.<br />
+          <br />
+          Pierre-Jean est concepteur, architecte et développeur senior de
+          logiciels d'entreprise en environnement Java. Spécialiste de la
+          migration d'applications critiques de grands systèmes historiques type
+          mainframe vers x86/Linux/Java/PostgreSQL jusqu'à leur mise en
+          production complète. A aussi participé à de nombreux projets complexes
+          (Java / C++) structurants: gestion de production, services mobiles,
+          annuaires en ligne, outil de gestion de parc informatique, etc.<br />
+          <br />
+          Jean-Luc est docteur et ingénieur de formation, passionné
+          d'algorithmie, il a participé en tant que chef de projet, architecte
+          logiciel et développeur à de nombreux projets d'envergure dans des
+          domaines aussi variés que la vidéo numérique, l'analyse graphique et
+          sémantique de documents, le deep crawling auto-adaptatif et la
+          migration d'applications critiques de grands systèmes historiques de
+          type mainframe vers x86/Linux/Java. C'est dans le cadre de plusieurs
+          migrations qu'il a utilisé PostgreSQL pour remplacer de grandes bases
+          de données propriétaires.
+        </blockquote>
+        </p>
+        <p>En 2015, le Gartner Group a validé l'applicabilité des bases de données
+        Open Source, en particulier PostgreSQL, à la gestion des données des
+        grandes applications critiques dans les entreprises et a donc annoncé une
+        forte croissance de son utilisation dans les 3 ans, en particulier pour les
+        nouvelles applications.<br />
+        <br />
+        Mais, comment s'y prendre quand l'application critique de son entreprise
+        fonctionne sur une autre de données ? Cette présentation, à travers de
+        multiples expériences concrètes sur des projets de grande taille décrira
+        les clefs de la réussite d'un projet de migration depuis un sgbd
+        propriétaire (Db2, Oracle, etc.) vers PostgreSQL : iso-fonctionnalité,
+        transparence, incrémentalité, etc. Elle détaillera les meilleures
+        pratiques, la bonne structuration, l'outillage nécessaire à un projet pour
+        le conduire au succès. A travers différents points de compatibilité, elle
+        établira un panorama de la problématique complète à traiter dans un tel
+        projet de transformation vers PostgreSQL.
+        </p>
+      </div>
+    </div>
+
+    <div id="forte-volumetrie"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-2 text-right">
+        <img src="img/orateurs/michel_edwell.jpg" alt="Michel Edwell" class="img-thumbnail">
+      </div>
+
+      <div class="col-md-10">
+        <h3>Fortes volumétries : migration & sauvegardes
+          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
+        </h3>
+        <h4>Michel Edwell, Météo France / 14h30 à 15h00</h4>
+        <p>
+        <blockquote class="small">
+          Michel Edwell est actuellement ingénieur DBA à la direction des systèmes
+          d'information de Météo France. À ce titre, il est responsable technique
+          de la migration des bases de données d'Oracle vers PostGreSQL.  De
+          formation ingénieur météorologue, il a commencé sa carrière sur des
+          frégates météorologiques dans le golfe de Gascogne. Il a également
+          réalisé une mission en Terre Adélie lors de laquelle il a mis en oeuvre
+          les sondages de la couche d'ozone.  En 1994, il a obtenu un master
+          informatique à SupAero Toulouse. En 1999, il a participé au développement
+          du premier site web de Météo France destiné au grand public.
+        </blockquote>
+        </p>
+        <p>
+        L’objectif premier de la migration de la BDM ARCHIVE est de s’assurer que
+        la migration ne provoque pas de régression sensible dans les performances
+        de la base de données actuelle sous oracle 10g RAC, tout en absorbant
+        l’accroissement continu du volume des données.  Le volume initial de cette
+        base de données est de 16 To, correspondant à 20 ans de données archivées,
+        avec un accroissement annuel de 15% et une cible de 30 TO dans 5 ans. Cela
+        est dû aux 5 millions de nouveaux enregistrements par jour d'un volume de
+        25GO.  L’essentiel du volume est constitué par des données de type BYTEA
+        et mis sous forme relationnelle et agrégée.  On compte actuellement 7
+        milliard de lignes, et, à titre d’exemple, la table d’août 2014 pèse
+        environ 100GO.<br />
+        Schéma d'architecture et technologies utilisées :
+        <ul>
+          <li>Migration avec ora2pg</li>
+          <li>Backup physique avec barman et pg_receivexlog (disponibilité du service)</li>
+          <li>Backup logique avec pgbackman (durabilité des données)</li>
+          <li>Replication avec retard de réplication</li>
+        </ul>
+        </p>
+      </div>
+    </div>
+
+    <div id="plus-loin-avec-postgis"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-2 text-right">
+        <img src="img/orateurs/vincent_picavet.jpg" alt="Vincent Picavet" class="img-thumbnail">
+      </div>
+
+      <div class="col-md-10">
+        <h3>Aller plus loin avec PostGIS : plus de spatial !
+          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
+        </h3>
+        <h4>Vincent Picavet, Oslandia / 15h30 à 16h00</h4>
+        <p>
+        <blockquote class="small">
+          Vincent Picavet est ingénieur en mathématiques appliquées. Il est depuis
+          2009 gérant d'Oslandia, qui conçoit et réalise des systèmes d'information
+          géographique. Contributeur PostGIS, il met en place des architectures SIG
+          opensource dont la base de données spatiale est le cœur.
+        </blockquote>
+        </p>
+        <p>Vous connaissez déjà PostGIS, l'extension de PostgreSQL pour gérer la
+        donnée spatiale et tirer parti des données géographiques.<br />
+        <br />
+        Après un rappel rapide des bases de PostGIS, on montrera des cas
+        d'utilisation avancés de PostGIS et de quelques autres composants
+        SIG pour PG.<br />
+        Petite introduction avec des requêtes d'analyse spatiale utilisant de
+        nouvelles fonctionnalités.
+        Ensuite, vous verrez que vous pouvez faire des requêtes d'analyse
+        raster/vecteur.<br />
+        Dans la 3e dimension on analyse les données, en 3D. Pourquoi pas générer
+        des bâtiments directement dans POstgreSQL ?
+        Quelques milliards de points LIDAR ? Intégrez les avec PgPointCloud et
+        requêtez-les pour obtenir la hauteur réelle de votre bâti ! Les indexes
+        BRIN gèreront vos Téras de données.<br />
+        Pour finir, l'horloge PostGIS. Yes you can.
+        </p>
+      </div>
+    </div>
+
+    <div id="index-brin"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-2 text-right">
+        <img src="img/orateurs/adrien_nayrat.jpg" alt="Adrien Nayrat" class="img-thumbnail">
+      </div>
+
+      <div class="col-md-10">
+        <h3>Index BRIN : Fonctionnement et usages possibles
+          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
+        </h3>
+        <h4>Adrien Nayrat, Dalibo / 16h00 à 16h30</h4>
+        <p>
+        <blockquote class="small">
+          Adrien a commencé à travailler avec Postgres en 2013 lorsqu'il gérait
+          l'hébergement de solutions éducatives. Séduit par les fonctionnalités du
+          moteur et la communauté il a rejoint Dalibo en 2015 pour se consacrer à
+          temps plein à PostgreSQL.
+        </blockquote>
+        </p>
+        <p>Sortie en Janvier 2016, la version 9.5 introduit les index BRIN pour
+        Block Ranges Index. Ce type d'index s'annonce prometteur pour les fortes
+        volumétrie où il y a une forte corrélation entre les données et leur
+        emplacement. La première partie sera consacrée à leur fonctionnement et
+        spécificités. A partir de ces informations il sera alors possible d'en
+        déduire les usages.
+        </p>
+      </div>
+    </div>
+
+    <div id="replication-logique"></div><br/><br/>
+    <div class="row" >
+      <div class="col-md-2 text-right">
+        <img src="img/orateurs/cedric_villemain.jpg" alt="Cédric Villemain" class="img-thumbnail">
+      </div>
+
+      <div class="col-md-10">
+        <h3>Réplication « logique » PostgreSQL
+          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
+        </h3>
+        <h4>Cédric Villemain, 2ndQuadrant France / 16h30 à 17h00</h4>
+        <p>
+        <blockquote class="small">
+          Cédric est Principal Consultant PostgreSQL pour 2ndQuadrant en France.
+          Intéressé par les problématiques de Haute-Disponibilité et qualité de
+          service, il contribue aux différents projets qu'il utilise et promeut.
+        </blockquote>
+        </p>
+        <p>
+        Le «Logical Slot» PostgresQL est, entre autre, le support pour les
+        réplications Bi-Directionnal Replication et pglogical. Cela ne se limite
+        pas à ces deux solutions, plusieurs projets existent pour assurer une
+        réplication vers d'autres systèmes d'information.  De plus les
+        améliorations de PostgreSQL dans les versions 9.5 et 9.6 étendent encore
+        les possibilités!
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4"></div>
+</div>
+<br /><br />
