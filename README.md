@@ -1,3 +1,3 @@
-# PGDay France 2014 website
+# PGDay France website
 
-Ce projet a pour but de fournir le template du nouveau site de l'évènement du PGDay France pour l'édition 2014
+Dépôt du site pgday.fr
