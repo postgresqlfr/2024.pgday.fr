@@ -11,6 +11,7 @@ title: Programme
         <th> 08h30 </th>
         <td class="text-center">Ouverture des portes</td>
       </tr>
+      <!--
       <tr>
         <th> 09h00 </th>
         <td class="text-center">
@@ -81,14 +82,16 @@ title: Programme
         <th> 17h00 </th>
         <td class="text-center">  CLOTURE   </td>
       </tr>
+      -->
     </table>
-    <!-- <p class="text-info"><a href="pgday2017.ics"><i class=" glyphicon
-      glyphicon-calendar"></i> Calendrier ICS de l'édition 2017</a></p> -->
+    <!-- <p class="text-info"><a href="pgday2018.ics"><i class=" glyphicon
+      glyphicon-calendar"></i> Calendrier ICS de l'édition 2018</a></p> -->
   </div>
   <div class="col-md-3"></div>
 </div>
 <br/><br/>
 
+<!--
 <div class="row">
   <div class="col-md-3"></div>
   <div class="col-md-5">
@@ -124,254 +127,8 @@ title: Programme
       </div>
     </div>
 
-    <div id="pgsql-buffers"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/v_fearing.jpg" alt="Vik Fearing" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>PostgreSQL Buffers
-          <a alt="Télécharger le support" href="slides/fearing_buffers.pdf"><i class="glyphicon glyphicon-download"></i></a>
-        </h3>
-        <h4>Vik Fearing, 2ndQuandrant Fr / 10h35 à 11h20</h4>
-        <p>
-        <blockquote class="small">
-          Vik Fearing est un consultant PostgreSQL basé à Paris. Il est aussi
-          co-organisateur du pgDay Paris, et participe beaucoup à la communauté
-          française et internationale.
-        </blockquote>
-        </p>
-        <p>
-          PostgreSQL utilise divers tampons mémoire pour gérer ses caches. La
-          plupart peuvent être configurés, mais comment ?<br />
-          <br />
-          Quelle taille doit faire shared_buffers ? Y a-t-il quelque chose à
-          faire si j'ai beaucoup de tables temporaires ? Est-ce qu'un scan
-          séquentiel sur une table volumineuse détruira mon cache ?<br />
-          <br />
-          Nous discuterons aussi des checkpoints et l'écriture en arrière plan
-          et les effets sur la taille idéale des tampons.
-        </p>
-      </div>
-    </div>
-
-    <div id="pgsql-pratiques"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/t_reiss.jpg" alt="Thomas Reiss" class="img-thumbnail">
-        <img src="img/orateurs/p_beaudoin.jpg" alt="Philippe Beaudoin" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>Les pires pratiques PostgreSQL
-          <a alt="Télécharger le support" href="slides/reiss_baudoin_Les_Pires_Pratiques_PostgreSQL_201706.pdf"><i class="glyphicon glyphicon-download"></i></a>
-        </h3>
-        <h4>Thomas Reiss et Philippe Beaudoin, Dalibo / 11h20 à 11h50</h4>
-        <p>
-        <blockquote class="small">
-          Thomas Reiss est consultant PostgreSQL chez Dalibo depuis . Il assure
-          des missions d'expertise, de support et de formation.<br />
-          <br />
-          Philippe Beaudoin participe à l'activité commerciale et projet de
-          Dalibo. Par le passé, il a eu l'occasion de travailler sur
-          d'importants projets de migration vers PostgreSQL.
-        </blockquote>
-        </p>
-        <p>
-          Cette présentation à deux voix des "pires pratiques" PostgreSQL est
-          une façon amusante (nous espérons) de balayer quelques travers
-          rencontrés au fil du temps dans l'usage des SGBDR en général et de
-          PostgreSQL en particulier. Toute ressemblance avec des cas réels
-          serait bien sûr purement le fruit du hasard... Nous tenterons
-          néanmoins de donner quelques pistes de "vraies" bonnes solutions. La
-          présentation s'inspirera d'une conférence analogue donnée en anglais
-          au dernier FOSSDEM par Ilya Kosmodemiansky.
-        </p>
-      </div>
-    </div>
-
-    <div id="pgsql-meteo"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/f_marty.jpg" alt="Fabien Marty" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>PostgreSQL & Synopsis : l'éléphant au service du prévisionnite
-          météo opérationnel
-          <a alt="Télécharger le support" href="slides/marty.pdf"><i class="glyphicon glyphicon-download"></i></a>
-        </h3>
-        <h4>Fabien Marty, Météo France / 11h50 à 12h20</h4>
-        <p>
-        <blockquote class="small">
-          Architecte logiciel à Météo-France depuis plus de 10 ans, j'officie
-          actuellement en tant que responsable technique de Synopsis : un de
-          nos gros projets métier.  A ce titre, je touche à beaucoup de
-          technologies serveur dont une partie significative tourne bien
-          évidemment autour de PostgreSQL.
-        </blockquote>
-        </p>
-          Après une courte description du projet Synopsis qui développe et
-          maintient la nouvelle station de travail du prévisionniste
-          opérationnel à Météo-France, nous détaillerons notre utilisation de
-          l’écosystème PostgreSQL.<br />
-          <br />
-          Nous verrons comment le célèbre éléphant a pu prendre en compte une
-          bonne partie de nos spécificités que ce soit par son fonctionnement
-          natif ou par l'ajout d'extensions comme postgis, hstore ou, plus
-          récemment, pg_partman.<br />
-          <br />
-          Nous terminerons par les limitations auxquelles nous nous sommes
-          heurtés en évoquant les solutions de contournement mises en oeuvre au
-          travers d'autres outils comme nginx, redis ou encore elasticsearch.
-        <p>
-        </p>
-      </div>
-    </div>
-
-    <div id="pgsql-dev"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/d_verite.png" alt="Daniel Vérité" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>La communauté des développeurs de PostgreSQL
-          <a alt="Télécharger le support" href="slides/verite_communaute-dev-pgday.pdf"><i class="glyphicon glyphicon-download"></i></a>
-        </h3>
-        <h4>Daniel Vérité, développeur indépendant / 14h10 à 14h55</h4>
-        <p>
-        <blockquote class="small">
-          Développeur professionnel spécialisé en bases de données depuis 1995,
-          j'ai eu l'occasion d'utiliser divers SGBD: Oracle, Sybase, Mysql,
-          puis j'ai adopté préférentiellement PostgreSQL et les logiciels open
-          source en général depuis une quinzaine d'années.<br />
-          <br />
-          Depuis deux ans, je m'intéresse au développement de PostgreSQL
-          lui-même et essaie d'y contribuer à mon niveau à travers les
-          CommitFest et la liste pgsql-hackers.
-        </blockquote>
-        </p>
-        <p>
-          PostgreSQL évolue via les contributions d'une large communauté de
-          développeurs à travers le monde. Cette présentation montrera
-          dans les grandes lignes comment cet effort commun s'organise,
-          et notamment:<br />
-          <ul>
-            <li>la structure de la communauté et du PostgreSQL Global
-            Development Group.
-            </li>
-            <li>le volume actuel du code source et le rythme des nouvelles
-            contributions.
-            </li>
-            <li>les outils et méthodes utilisés pour collaborer: mailing-list, git,
-            revue de code, commitfest, suivi des bugs, buildfarm.
-            </li>
-            <li>le cycle de vie d'une fonctionnalité contribuée, du patch
-            "proof of concept" jusqu'à l'intégration dans une version diffusée.
-            </li>
-            <li>un retour d'expérience sur quelques items des commitfest de
-            2016-2017.
-            </li>
-          </ul>
-        </p>
-      </div>
-    </div>
-
-    <div id="pgsql-cube"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/c_villemain.jpg" alt="Cédic Villemain" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>Les éléphants mangent-ils des cubes
-          <!-- <a alt="Télécharger le support" href="slides/"><i class="glyphicon glyphicon-download"></i></a> -->
-        </h3>
-        <h4>Cédric Villemain, 2ndQuandrant Fr / 14h55 à 15h25</h4>
-        <p>
-        <blockquote class="small">
-          Cédric est Principal Consultant PostgreSQL pour 2ndQuadrant en
-          France.
-          Intéressé par les problématiques de Haute-Disponibilité et qualité de
-          service, il contribue aux différents projets qu'il utilise et
-          promeut.
-        </blockquote>
-        </p>
-        <p>
-          Le langage SQL est puissant et PostgreSQL implémente des
-          fonctionnalités intéressantes, pour un code plus simple, plus
-          lisible...et aussi plus performant!<br />
-          <br />
-          Explorons ensembles les nouveautés et celles à venir, de TABLESAMPLE
-          à pg_stats en passant par les index BRIN et les données corrélées.
-        </p>
-      </div>
-    </div>
-
-    <div id="pgsql-fts"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/a_nayrat.jpg" alt="Adrien Nayrat" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>Comment fonctionne la recherche plein texte ?
-          <a alt="Télécharger le support" href="slides/nayrat_Le_Full_Text_Search_dans_PostgreSQL.pdf"><i class="glyphicon glyphicon-download"></i></a>
-        </h3>
-        <h4>Adrien Nayrat, Dalibo / 15h55 à 16h30</h4>
-        <p>
-        <blockquote class="small">
-          Adrien a commencé à travailler avec Postgres en 2013 lorsqu'il gérait
-          l'hébergement de solutions éducatives. Séduit par les fonctionnalités
-          du moteur et la communauté il a rejoint Dalibo en 2015 pour se
-          consacrer à temps plein à PostgreSQL.
-        </blockquote>
-        </p>
-        <p>
-          La recherche plein texte est une technique de recherche d'information
-          dans un document. PostgreSQL supporte ce type de recherche sous le
-          nom de “Full Text Search”. Nous allons voir tout le fonctionnement du
-          FTS (parser, dictionnaires, lemmatisation…). Quelles techniques
-          d'indexation utiliser? Ensuite nous verront comment créer notre
-          propre configuration pour requêter un corpus très connu :
-          l'intégralité de Stackoverflow, une base de 135Go!
-        </p>
-      </div>
-    </div>
-
-    <div id="pgsql-geodatascience"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/o_courtin.png" alt="Olivier Courtin" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>GeoDataScience
-          <a alt="Télécharger le support" href="slides/courtin_pgday_fr_2017.pdf"><i class="glyphicon glyphicon-download"></i></a>
-        </h3>
-        <h4>Olivier Courtin / 16h30 à 17h00</h4>
-        <p>
-        <blockquote class="small">
-          Commiteur PostGIS et Co-Fondateur Oslandia 
-        </blockquote>
-        </p>
-        <p>
-          Via un exemple concret basé sur de l'OpenData, cette présentation se
-          propose de montrer comment PostgreSQL est -déjà- un Framework de développement
-          orienté data de tout premier choix.<br />
-          <br />
-          Permettant de mettre en oeuvre toutes les phases d’intégration,
-          consolidation et traitements avancé de données.<br />
-          <br />
-          Et ce dans un environnement très intégré, qui pour le GéoDataScientist,
-          n'implique que SQL et Python comme langages de glue.<br />
-          <br />
-          Associer les fonctions spatiales de PostGIS,
-          les aspects statistiques natifs, et la possibilité d'appeler des API
-          Python depuis PostgreSQL,<br />
-          <br />
-          et last but not least faire de plus appel à du Machine Learning,
-          permettent d’élargir résoluement les possibles !
-        </p>
-      </div>
-    </div>
-
   </div>
   <div class="col-md-4"></div>
 </div>
+-->
 <br /><br />
