@@ -10,7 +10,7 @@ title: Appel à Orateurs
   <div class="row well">
     <div class="col-xs-12 col-md-12">
 
-      <h3><b>Appel à Orateurs.</b></h3>
+### Appel à Orateurs
 
 <!--
       <b>L'Appel à Orateurs est clos</b>
