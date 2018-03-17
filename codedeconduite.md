@@ -3,6 +3,9 @@ layout: default
 title: Code de Conduite
 ---
 
+<div class="container">
+<div class="row well">
+
 # Code de Conduite de PostgreSQLFr
 
 [PostgreSQLFr](https://asso.postgresql.fr) est une association dédiée à la
@@ -35,12 +38,12 @@ ses organisateurs.
 
 ## Contact en cas d'incident lors du PG Day France 2018 à Marseille
 
-Ci-dessous les points de contact pour signaler un problème  pendant ou après 
+Ci-dessous les points de contact pour signaler un problème  pendant ou après
 l'événement :
 
 * 06 74 15 56 78
 * <contact@pgday.fr>
- 
+
 
 ## Version complète
 
@@ -170,3 +173,6 @@ Cette charte anti-harcèlement est basée sur [anti-harassement policy example](
 de [Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki),
 créée par [Ada Initiative](https://adainitiative.org/) et autres volontaires
 ainsi que sur le [code de conduite de PHP UK](http://phpconference.co.uk/conduct/).
+
+</div>
+</div>
