@@ -43,7 +43,16 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>Une conférence, une présentation ou une manifestation similaire ne devrait pas être interrompue pour une légère infraction à cette charte ou des problèmes mineurs, toutefois un membre de l'équipe organisatrice doit aborder le point problématique avec l'orateur suite à l'événement. Par contre, l'équipe organisatrice doit tout mettre en œuvre pour interrompre calmement et poliment toute présentation ou manifestation qui enfreindrait régulièrement ou sérieusement ce code de conduite. Une simple phrase sans justification telle que « Nous sommes désolés mais cette présentation ne peut continuer en l'état actuel. » est suffisante.</p>
 <h3 id="comptes-rendus">Comptes rendus</h3>
 <p>Dans le cas où une personne viendrait rapporter un incident, il est prudent de noter les faits énoncés. Il faut assurer à la victime qu'elle est prise au sérieux en évitant des promesses sur les mesures qui pourraient être prises par l'organisation. Si la personne n'a pas initié la demande, il faut rassembler le maximum d'informations (tels que le moment et le lieu) sans la contraindre si celle-ci est réticente. Même dans le cas où le compte rendu ne contient pas tous les points importants telle que l'identité de la personne à l'origine du harcèlement, il doit être consigné et communiqué à un membre approprié de l'équipe organisatrice. Si la personne le souhaite, il peut être convenu de la faire accompagner par un membre de l'organisation ou une personne de confiance, ou encore de contacter un ami ou les forces de l'ordre. Il ne faut pas forcer la personne ayant subi le harcèlement à prendre des mesures contre son gré. Afin de respecter la vie privée de la personne, la diffusion inutile de détails à des tiers qui n'ont pas été impliqués ou à des membres ne faisant pas partie de l'organisation doit être évitée.</p>
-<p>Dans la mesure du possible, le compte rendu doit contenir : * Les informations permettant l'identification du participant en faute (nom, numéro de badge…) * L'heure où le compte rendu a été établi * Le comportement enfreignant le code de conduite * L'heure approximative de l'incident (si différente de celle du compte rendu) * Les circonstances de l'incident * Votre identité * Les autres personnes impliquées dans l'incident</p>
+<p>Dans la mesure du possible, le compte rendu doit contenir :
+  <ul>
+<li>Les informations permettant l'identification du participant en faute (nom, numéro de badge…) </li>
+<li>L'heure où le compte rendu a été établi </li>
+<li>Le comportement enfreignant le code de conduite </li>
+<li>L'heure approximative de l'incident (si différente de celle du compte rendu) </li>
+<li>Les circonstances de l'incident </li>
+<li>Votre identité </li>
+<li>Les autres personnes impliquées dans l'incident</li>
+ </ul></p>
 <h3 id="exclusion">Exclusion</h3>
 <p>L'organisation se réserve le droit d'exclure tout participant quelque soit la raison. Voici quelques directives générales permettant d'estimer si un participant doit être exclu:</p>
 <ul>
