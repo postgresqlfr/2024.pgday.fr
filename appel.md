@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: 1colonne
 title: Appel à Orateurs
 ---
 
@@ -8,6 +8,8 @@ title: Appel à Orateurs
 <br/>
 <br/>
 <br/>
+
+
 
 
 
@@ -157,6 +159,4 @@ Pour toute question à propos de cet appel à orateurs et du PG Day France en g�
 
 -->
 
-    </div>
-  </div>
-</div>
+
