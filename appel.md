@@ -3,6 +3,8 @@ layout: default
 title: Appel à Orateurs
 ---
 
+{::options parse_block_html="true" /}
+
 <br/>
 <br/>
 <br/>
