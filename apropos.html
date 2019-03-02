@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A propos
+title: "A propos"
 ---
 
 <div class="container">
@@ -16,6 +16,11 @@ tient depuis 2008 et chaque édition à lieu dans une ville différente, avec po
 ambition de faire naître ou faire grandir une communauté locale. Les précédentes
 éditions ont eu lieu à Toulouse, Lille, Toulon .</p>
 
+<h3><i class="fa fa-envelope-o"></i> Contact </h3>
+<p>Pour toute information, adressez vos messages à <a
+  href="mailto:contact@pgday.fr" class="mail"
+  title="contact@pgday.fr">contact@pgday.fr</a>. </p>
+  
 <h3>Finances</h3>
 
 <p>L'organisation d'une journée de conférence ne serait pas possible sans le soutien
@@ -29,210 +34,15 @@ L'équipe organisatrice est quand à elle entièrement constituée de bénévole
 <h3>Comité de sélection</h3>
 
 <p>
-    Le comité de sélection est composé des personnes suivantes (par ordre alphabétique):<p>
+    Le comité de sélection est composé des personnes suivantes :<p>
 <ul>
-    <li>Adrien Nayrat  (Dalibo)</li>
     <li>Anaïs Oberto (CNRS)</li>
-    <li>Anthony Nowocien (Société Générale)</li>
-    <li>Flavie Perette (PeopleDoc)</li>
-    <li>Vik Fearing (2ndQuadrant)</li>
+    <li>Stefan Fercot (Dalibo)</li>
+    <li>Jean-Maris Arsac (Azimut)</li>
+    <li>Raouf Mazouz</li> 
+    <li>Nicolas Berne (Université Lyon 2)</li>
 </ul>
 <p>
-    Les conférences ont été choisies sur la base des propositions reçues lors de l'appel à orateurs.</p>
-
-<h3>
-    Interviews des speakers
-</h3>
-    
-    
-<h4>
-<div id="sebastien-diemer">Sébastien Diemer</div>
-</h4>
-
-<i>Peux-tu te présenter brièvement ?</i>
-
-<p>Ingénieur logiciel avec huit ans d'expérience, je travaille depuis trois ans sur des projets d'auto-partage (ex Autolib' à Paris) et de recharge électrique au sein de Polyconseil, principalement en python Django et PostgreSQL.</p>
-
-<i>Quand et comment as-tu découvert PostgreSQL ?</i>
-
-<p>J'ai découvert PostgreSQL il y a trois ans et demi lorsque j'ai débuté chez Polyconseil.</p>
-
-<i>Est-ce ta première participation à un PGDay (en tant qu'orateur ou spectateur) ?</i>
-
-<p>Oui !</p>
-
-<i>Peux-tu nous en dire un peu plus sur ta conférence, pourquoi avoir choisit ce sujet ?</i>
-
-<p>Chez Polyconseil nous ne faisons rien de révolutionnaire avec PostgreSQL mais nous l'utilisons depuis 6 ans pour faire tourner de manière robuste des services d'auto-partage en 24/7 qui ont atteint une taille conséquente au fil des années. Je voulais partager avec la communauté francophone PostgreSQL notre retour d'expérience, tant via nos réussites que nos erreurs, aussi bien dans l'utilisation de PostgreSQL que dans la façon dont nous interfaçons le framework web python Django avec cet outil.</p>
-
-<i>Une anecdote particulière à partager autour de PostgreSQL ?</i>
-
-<p>Je passe pas mal de temps à lire la documentation en ligne et deux ou trois fois j'ai cru relever une erreur m'amenant à poster une question sur la mailing list. À chaque fois, c'était une erreur de ma part : typiquement je regardais la documentation d'une version et testais sur une autre :facepalm:. Mais je les aurai un jour ^^.</p>
-
-<h4>
-<div id="olivier-courtin">Olivier Courtin</div>
-</h4>
-
-<i>Peux-tu te présenter brièvement ?</i>
-
-<p>Oui.</p>
-
-<i>Quand et comment as-tu découvert PostgreSQL ?</i>
-
-<p>Mon premier contact avec PostgreSQL remonte à 2002, où je devais faire un audit d'une appli Web métier existante, développée par un tiers, et utilisant PostgreSQL (sachant que MySQL était alors, et dans ce contexte, un choix bien plus répandu). Et la surprise fût de constater que PostgreSQL marchait en fait un peu trop bien (sic). Et qu'une erreur de conception flagrante au niveau de l'application Web, générant bien bien plus de requêtes SQL que nécessaire, était compensée par les performances du SGBD, qui absorbait la charge sans sourciller... Ensuite la véritable bascule a eût lieu, pour moi, deux ans plus tard, lorsque j'ai commencé à utiliser et manipuler des données géographiques. Et là il n'y avait pas photo, le bon choix était PostGIS, qui impliquait PostgreSQL...</p>
-
-<i>Est-ce ta première participation à un PGDay (en tant qu'orateur ou spectateur) ?</i>
-
-<p>J'ai participé au premier PGDay à Toulouse en 2008. Conférence qui a fait date, car elle avait permis d'initier une dynamique communautaire large, en France, sur PostgreSQL, et de lancer des premiers ponts entre communautés PostgreSQL et PostGIS. Et si je n'ai pas été de toutes toutes les éditions ensuite, on dira quand même plutôt assidu... A la fois car des visages que j'aime a retrouver, et car il y a toujours une vrai actualité sur et autour de PostgreSQL.</p>
-
-<i>Peux-tu nous en dire un peu plus sur ta conférence, pourquoi avoir choisit ce sujet ?</i>
-
-<p>Les approches Machine et Deep Learning, ouvrent de nouvelles perspectives enthousiasmantes, tant en terme de méthodologie, que par les multiples nouveaux usages qu'elles permettent et promettent. Et je reste convaincu que dans l'immense majorité des cas il est plus pertinent de se baser, pour l'apprentissage, sur le SGBD dans lesquel on a déjà ses données (PostgreSQL donc), plutôt que de rajouter des surcouches applicatives spécifiques et des doublons massifs de data dans son SI.</p>
-
-<i>Une anecdote particulière à partager autour de PostgreSQL ?</i>
-
-<p>Je lisais un tweet l'autre jour qui disait un substance que l'apprentissage du SQL était un très bon 'investissement' car bien des années plus tard il survivait aux effets de mode, et conservait toute sa pertinence. Et pour moi PostgreSQL au vu de sa stabilité en prod, de ses perfs, de son support SQL riche, conforme aux standards, et extensible, est vraiment le SGBD qui permet une (très) forte expressivité SQL. Et par conséquence pour tous ceux qui manipulent des données, de continuer à pouvoir monter en compétence sur une durée longue. Et je prend le pari que dans 5 ans, ce sera toujours aussi pertinent d'être SQL fluent...</p>
-
-<h4>
-<div id="laetitia-avrot">Laetitia Avrot</div>
-</h4>
-
-<i>Peux-tu te présenter brièvement ?</i>
-
-<p>Je m'appelle Lætitia AVROT. Je travaille avec des bases de données PostgreSQL depuis 2007. J'ai été DBA tout d'abord sur PostgreSQL, puis je suis montée en compétences sur Oracle et SQL Server. J'ai eu la chance de travailler chez un hébergeur, ce qui m'a permis d'appréhender des problématiques très diverses comme la haute disponibilité, la répartition de charge, la confidentialité des données, les gros volumes, les incidents de production, les données géographiques...</p>
-
-<i>Quand et comment as-tu découvert PostgreSQL ?</i>
-
-<p>J'ai découvert PostgreSQL sur le projet Géoportail de l'IGN en 2007. À l'époque, PostgreSQL ne possédait pas toutes les fonctionnalités actuelles et nous faisions de la réplication "warm standby" en bricolant du "log shipping" avec du rsync entre les 2 machines. Ça a l'avantage de permettre de bien comprendre comment cela fonctionne.</p>
-
-<i>Est-ce ta première participation à un PGDay (en tant qu'orateur ou spectateur)   ?</i>
-
-<p>C'est ma première participation au PGDay Fr. J'étais allée à la première PG Conf Eu en 2009 et ensuite, je ne m'étais pas vraiment intégrée dans la communauté. Aujourd'hui, je tente de rattraper mon retard. :-D</p>
-
-<i>Peux-tu nous en dire un peu plus sur ta conférence, pourquoi avoir choisit ce sujet ?</i>
-
-<p>Je suis ingénieure. En tant que telle, je suis très pragmatique sur les outils : ils se doivent d'être efficaces. Or, dans mon métier de formatrice et de consultante, je rencontre encore beaucoup de personnes qui restent bloqués sur les outils graphiques (voire qui sont impressionés par l'utilisation d'outils en lignes de commandes). C'est très dommage car je trouve que les outils ligne de commande sont plus efficaces que les outils graphiques, même s'ils ont une courbe d'apprentissage un peu plus longue. Le but de ma présentation, c'est de montrer qu'il n'y a rien de vaudou dans l'utilisation d'outils ligne de commande, de donner des pointeurs pour accélérer la courbe d'apprentissage de psql et de montrer l'efficacité d'un tel outil, trop souvent dédaigné, à tort.</p>
-
-<i>Une anecdote particulière à partager autour de PostgreSQL ?</i>
-
-<p>Je pense que ma révélation sur ce qu'est réellement PostgreSQL a eu lieu quand je suis pour la première fois allée lire le code de PostgreSQL. Le code est extrêmement bien écrit et commenté de manière trés importante, ce qui permet à toute personne, même non développeuse, de le comprendre. Maintenant, quand je croise quelqu'un à événement et que cette personne me dit qu'elle n'a pas encore été voir le code, je suis un peu jalouse car je sais que cette personne va pouvoir vivre cet émerveillement alors qu'il m'est impossible de le vivre une deuxième fois...</p>
-
-<h4>
-<div id="aurelien-morle">Aurélien Morlé</div>
-</h4>
-
-<i>Peux-tu te présenter brièvement ?</i>
-
-<p>Je m'appelle Aurélien, je suis architecte logiciel chez Atol CD depuis plus de 10 ans. Je travaille sur un projet métier dans le domaine de l'agriculture et plus particulièrement sur les problématiques SIG avec des bases PostgreSQL et PostGIS de forte volumétrie : plus de 14 années de données collectées !</p>
-
-<i>Quand et comment as-tu découvert PostgreSQL ?</i>
-
-<p>J'ai découvert PostgreSQLdans sa version 8.0 il y a fort longtemps en arrivant chez Atol CD. Auparavant, j'utilisais plutôt MySQL ou SQLServer et depuis la version 8, je n'ai cessé de travailler sur PostgreSQL en passant par presque toutes les versions jusqu'à la version 10 aujourd'hui. Je me suis intéressé aux nouveautés au fil des versions qui n'ont fait que renforcer mon attrait pour cet SGBD.</p>
-
-<i>Est-ce ta première participation à un PGDay (en tant qu'orateur ou spectateur) ?</i>
-
-<p>C'est la première fois que j'ai la chance de participer au PGDay. Les autres années, je regardais les présentions et vidéos disponibles après l'événement</p>
-
-<i>Peux-tu nous en dire un peu plus sur ta conférence, pourquoi avoir choisit ce sujet ?</i>
-
-<p>Du fait de gros volumes de données et de la complexité du modèle de données lié à la perpétuelle évolution de l'application, l'optimisation des requêtes est devenue presque une nécessité et pour moi un challenge de réduire les temps d'exécution.  Je reste en veille sur les nouveautés de PostgreSQL, je les teste quasi-systématiquement que ce soit pour mettre en œuvre de nouvelles fonctionnalités ou pour améliorer les performances de traitements complexes.  J'ai donc choisi ce sujet pour partager mon expérience de la parallélisation au service de l'optimisation des requêtes</p>
-
-<i>Une anecdote particulière à partager autour de PostgreSQL ?</i>
-
-<p>Je me rappelle le jour où j'ai mis en place dans une de mes revues de code une requête CTE récursive avec des agrégations dans des fonctions de fenêtrage ! Personne n'y comprenait rien, mais tout le monde trouvait ça super ! Et depuis, ils l'utilisent.</p>
-
-<h4>
-<div id="gregory-mantelet">Grégory Mantelet</div>
-</h4>
-
-<i>Peux-tu te présenter brièvement ?</i>
-
-<p>Je suis Ingénieur de Recherche au CDS (Centre de Données astronomiques de Strasbourg). Ma mission consiste à mettre à disposition de la communauté astronomique des services d'accès à des données astronomiques. Cela inclue autant la mise en place de base de données que les services et sites web.</p>  
-
-<i>Quand et comment as-tu découvert PostgreSQL ?</i>
-
-<p>J'ai brièvement découvert PostgreSQL en école d'ingénieur, mais c'est lors de ma première expérience professionnelle au CDS que je l'ai vraiment utilisé. J'ai déjà eu affaire à d'autres systèmes de bases de données, mais c'est PostgreSQL que j'utilise majoritairement et quotidiennement dans mon environnement professionnel. Les raisons en sont simples: stabilité, bonne évolution, bonne communauté, et gratuit.</p> 
-
-<i>Est-ce ta première participation à un PGDay (en tant qu'orateur ou spectateur) ?</i>
-
-<p>Première participation tout court. Je n'ai même encore jamais participé à la moindre conférence PostgreSQL (France ou internationale). Je suis un peu curieux de savoir comment cela va se passer, non seulement pour ma présentation mais aussi pour les autres présentations et l'ambiance globale.</p>
-
-<i>Peux-tu nous en dire un peu plus sur ta conférence, pourquoi avoir choisit ce sujet ?</i>
-
-<p>J'ai récemment travaillé pendant presque 5 ans dans un autre institut astronomique afin de publier les données du satellite Gaia dont l'objectif est de constituer le catalogue d'objets astronomiques le plus précis et le plus complet à l'heure actuelle. C'est cette première expérience avec cet énorme catalogue que je souhaite partager lors de cette PGDay.  Je pense que l'utilisation d'une base de données est quelque peu différent suivant le type de données manipulées. Dans le cas des données Gaia, non seulement nous devons être capable de gérer des recherches positionnelles dans la sphère céleste mais également gérer une volumétrie de plus en plus importante.</p> 
-    
-<h4>
-<div id="sebastien-lardiere">Sébastien Lardière</div>
-</h4>
-
-<i> Peux-tu te présenter brièvement ?</i>
-
-<p>Consultant PostgreSQL chez Loxodata, je travaille avec PostgreSQL depuis 2000. Après avoir été développeur Web, j'ai été DBA de production, consultant, et j'anime de formations sur PostgreSQL depuis 2003. Je suis l'auteur d'un livre sur <a href="https://www.editions-eni.fr/livre/postgresql-administration-et-exploitation-de-vos-bases-de-donnees-4e-edition-9782409011467">l'administration de PostgreSQL</a>, aux éditions ENI, et j'organise des rencontres autour de PostgreSQL à <a href="https://www.meetup.com/PostgreSQL-User-Group-Nantes/">Nantes</a>.</p>
-
-<i> Quand et comment as-tu découvert PostgreSQL ?</i>
-
-<p>Pour le besoin d'application Web en 2000, nous avions sélectionner PostgreSQL pour les qualités qu'il avait déjà : la richesse fonctionnelle et la stabilité !</p>
-
-<i> Est-ce ta première participation à un PGDay (en tant qu'orateur ou spectateur) ?</i>
-
-<p>Non, j'étais à Toulouse pour le premier Pgday.fr, j'ai participé à l'organisation du Pgday.fr à Nantes, et en tant qu'orateur à Lille.</p>
-
-<i> Peux-tu nous en dire un peu plus sur ta conférence, pourquoi avoir choisit ce sujet ?</i>
-
-<p>La sauvegarde est un point important de l'exploitation de PostgreSQL, parce que les données que nous lui confions sont importantes. Et un bon outil de gestion des sauvegardes est l'allié du DBA. PgBackRest est conçu dans ce sens, et dispose de fonctionnalités riches pour protéger et exploiter au mieux les données de nos applications.</p>
-
-<i> Une anecdote particulière à partager autour de PostgreSQL ?</i>
-
-<p>Pas une en particulier, mais ce que j'apprécie avec PostgreSQL, c'est la richesse de la communauté, qui, tout en créant un logiciel d'une qualité incomparable, crée des liens d'une richesse rare. chacun peut y faire des rencontres qui changent sa façon de percevoir les choses, en premier lieu la façon de travailler ; pour l'anecdote, cette communauté m'amène du travail depuis des années, grâce aux rencontres de Dimitri Fontaine et Stéphane Schildknecht !</p>    
-    
-    
-<h4>
-<div id="stefan-fercot">Stefan Fercot</div>
-</h4>
-
-<i>Peux-tu te présenter brièvement ?</i>
-
-<p>Administrateur Linux de formation, je me suis notamment occupé de la gestion des sauvegardes des bases de données et du bon fonctionnement des différents systèmes dans le domaine des soins de santé en Belgique. J'ai ensuite rejoint Dalibo en Juillet 2017 en tant que DBA PostgreSQL (consultance et formation).</p>
-
-<i>Quand et comment as-tu découvert PostgreSQL ?</i>
-
-<p>Le logiciel dont je m'occupais dans mon précédent job était développé sur PostgreSQL. Côté système, nous étions en charge de d'installation et de la maintenance quotidienne des bases de données également. C'est ainsi que j'ai pu découvrir de nombreuses facettes intéressantes de ce formidable SGBD.</p>
-
-<i>Est-ce ta première participation à un PGDay (en tant qu'orateur ou spectateur) ?</i>
-
-<p>Il s'agit effectivement d'une grand première en tant qu'orateur ! J'ai toutefois déjà pu assister à plusieurs PGDay (à Lille, à Varsovie,...) en spectateur.</p>
-
-<i>Peux-tu nous en dire un peu plus sur ta conférence, pourquoi avoir choisit ce sujet ?</i>
-
-<p>De plus en plus de questions entourant la "Haute Disponibilité" apparaissent au sein de la communauté. Depuis de nombreuses années, PostgreSQL permet de s'assurer de la pérennité des données grâce notamment à la Streaming Replication. La continuité de service, elle, repose sur des outils externes. Il convient d'en maîtriser tous les aspects afin de bien choisir. L'utilisation de PAF permet d'atteindre cet objectif, de façon fiable. Toutefois, comme pour n'importe quel outil de bascule automatique, son implémentation n'est pas sans conséquences. J'ai donc choisi ce sujet afin de démystifier ces conséquences.</p>
-
-<i>Une anecdote particulière à partager autour de PostgreSQL ?</i>
-
-<p>Malheureusement rien qui mérite d'être mentionné ici.</p>
-
-<h4>
-<div id="jean-christophe-arnu">Jean-Christophe Arnu</div>
-</h4>
-
-<i>Peux-tu te présenter brièvement ?</i>
-
-<p>Bonjour, je me nomme Jean-Christophe Arnu. Je travaille avec PostgreSQL et le promeus depuis de nombreuses années. Initialement dans le développement, j'ai utilisé et administré PostgreSQL dans divers contextes (projets classiques, mais également critiques) et sur différentes plateformes (s390 notamment). C'est à l'occasion de mes utilisations que j'ai rencontré d'autres passionnés de PostgreSQL et que nous avons à plusieurs lancé l'association PostgreSQLFr en 2005. Mon parcours professionnel a fait que pendant quelques années j'ai été amené à utiliser d'autres moteurs (Oracle mais surtout SQL Server) dans mes développements pour l'industrie. Aujourd'hui, je me focalise essentiellement sur PostgreSQL et son écosystème au sein de la société Loxodata.</p>
-
-<i>Quand et comment as-tu découvert PostgreSQL ?</i>
-
-<p>J'étais à la fac en 1996 et nous devions organiser un socle technique pour faire un projet étudiant sur 6 mois. Déjà très orienté logiciels libres, j'ai fait le tour des propositions de l'époque concernant les bases et j'ai testé les quelques produits libres et mon choix s'est arrêté sur Postgres95 qui est rapidement devenu PostgreSQL. Au fil des ans, je n'ai pu que constater que mon choix était le bon.</p>
-
-<i>Est-ce ta première participation à un PGDay (en tant qu'orateur ou spectateur) ?</i>
-
-<p>Non. La première était un lightening talk lors du premier PGDayFr de 2008 à Toulouse que j'ai organisé avec PostgreSQLFr. J'étais spectateur au PGDayFr de l'an dernier, toujours à Toulouse. J'ai également participé en tant que spectateur à plusieurs PGConf Europe. Je suis très content d'avoir été sélectionné et de venir cette année comme orateur ! Dans tous les cas, la communauté PostgreSQL est une des plus ouvertes et des plus conviviales que j'ai pu côtoyer.</p>
-
-<i>Peux-tu nous en dire un peu plus sur ta conférence, pourquoi avoir choisi ce sujet ?</i>
-
-<p>La version 10 de PostgreSQL a été une grande avancée et un grand nombre de fondations ont été posées ouvrant la voie à de nouvelles possibilités. Je pense que l'attente autour de PostgreSQL 11 est forte, car cette version va apporter un grand nombre d'innovations, d'améliorations fonctionnelles et de la performance. Présenter ce que sera le futur très proche de PostgreSQL était donc évident et concerne toutes les personnes qui utilisent ou souhaitent utiliser notre moteur de base de données favori !</p>
-
-<i>Une anecdote particulière à partager autour de PostgreSQL ?</i>
-
-<p>Il y en a tellement ! Mais peut-être que celle qui est la plus amusante (et inquiétante) se déroule le jour où j'ai rencontré le seul XID wraparound de ma vie. La base ne fonctionnait plus et rien, d'un prime abord, ne laissait entrevoir au jeune ingénieur débutant que j'étais qu'il y avait quelque-chose d'anormal. Nous étions sur des systèmes 32bits avec un flux soutenu d'écritures/modifications. Bien sûr, sur une application critique ! Dans ces moments-là, le stress est intense et nous pensions que les seules données qu'il nous resterait seraient les backups, que les données du moteur seraient inutilisables.  Et je suis tombé sur la ligne de log qui m'a tout de suis indiqué que nous avions atteint un point juste avant un XID wraparound et que PostgreSQL s'était arrêté.  J'ai donc redémarré la base en single user et appliqué la procédure de la documentation. Toutes mes données en production étaient là, intactes, le moteur s'était arrêté proprement, il n'y avait qu'à réparer ces soucis de XID, ce qui fut fait ! Belle frousse, mais surtout très belle démonstration de la robustesse de PostgreSQL, même à cette époque où l'autovacuum n'était pas encore intégré au moteur.</p>
      
     
 </div>
