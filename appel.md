@@ -1,18 +1,7 @@
 ---
-layout: default
-title: Appel à Orateurs
+layout: 1colonne
+title: 'Appel à Orateurs'
 ---
-
-{::options parse_block_html="true" /}
-
-<br/>
-<br/>
-
-
-<div class="container">
-<div class="row well">
-<div class="col-xs-12 col-md-12">
-
 
 
 <!--
@@ -78,6 +67,4 @@ Les orateurs sélectionnés seront avertis par e-mail avant le 31 mars 2019.
 
 Pour toute question à propos de cet appel à orateurs et du PG Day France en général, vous pouvez envoyer un message à l'adresse : contact@pgday.fr.
 
-    </div>
-  </div>
-</div>
+
