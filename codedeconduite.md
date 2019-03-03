@@ -1,30 +1,31 @@
 ---
-layout: default
+layout: 1colonne
 title: Code de Conduite
 ---
 
 
-<div class="container">
-<div class="row well">
 
-<h1 id="code-de-conduite-de-postgresqlfr">Code de Conduite de PostgreSQLFr</h1>
+
+# Code de Conduite de PostgreSQLFr
+
 <p><a href="https://asso.postgresql.fr">PostgreSQLFr</a> est une association dédiée à la promotion de PostgreSQLFr dans la sphère francophone.</p>
 <p>Nous attachons une importance à la participation de tous les membres de la communauté PostgreSQL et souhaitons que chaque participant vive une expérience positive. Dans cette optique, nous attendons de tous les participants qu'ils fassent preuve de respect et de courtoisie envers les autres participants pendant toute la durée des événements de l'association et des événements affiliés à PostgreSQLFr.</p>
 <p>Afin de clarifier nos attentes, tous les représentants/participants, conférenciers, exposants, organisateurs et bénévoles aux événements de PostgreSQLFr doivent se conformer au code de conduite ci-dessous. Ce code de conduite s'applique à tous les événements de l'association.</p>
-<h2 id="version-courte">Version courte</h2>
+
+## Version courte
+
 <p>Les événements PostgreSQLFr se veulent une expérience agréable et conviviale, ouverts à tous quelque soit le sexe, l'orientation sexuelle, le handicap, l'apparence physique, le poids, la race ou la religion des participants. Nous ne tolérons donc aucun harcèlement ou attaque, sous aucune forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors de l'événement. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants qui enfreignent ces règles peuvent être sanctionnés, voire exclus de l'événement sans remboursement, à la discrétion de ses organisateurs.</p>
-<h2 id="contact-en-cas-dincident-lors-du-pg-day-france-2018-à-marseille">Contact en cas d'incident lors du PG Day France 2018 à Marseille</h2>
+
+## Contact en cas d'incident 
+
 <p>Ci-dessous les points de contact pour signaler un problème pendant ou après l'événement :</p>
-<ul>
-<li>06 74 15 56 78</li>
-<li><script type="text/javascript">
-<!--
-h='&#112;&#x67;&#100;&#x61;&#x79;&#46;&#102;&#114;';a='&#64;';n='&#x63;&#x6f;&#110;&#116;&#x61;&#x63;&#116;';e=n+a+h;
-document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
-// -->
-</script><noscript>&#x63;&#x6f;&#110;&#116;&#x61;&#x63;&#116;&#32;&#x61;&#116;&#32;&#112;&#x67;&#100;&#x61;&#x79;&#32;&#100;&#x6f;&#116;&#32;&#102;&#114;</noscript></li>
-</ul>
-<h2 id="version-complète">Version complète</h2>
+
+* 06 74 15 56 78
+* <contact@pgday.fr>
+
+
+## Version complète
+
 <p>Le harcèlement inclut des commentaires oraux sur le sexe, l'orientation sexuelle, le handicap, l'apparence physique, le poids, la race, la religion, les images à connotation sexuelle dans des lieux publics, les intimidations délibérées, la traque, la poursuite, un harcèlement photographique ou vidéo, une suite d'interruption des conférences et des autres événements, un contact physique inapproprié et des avances sexuelles non désirées.</p>
 <p>Les sponsors sont aussi sujets à la politique anti-harcèlement. En particulier, les sponsors ne doivent pas utiliser d'images ou de matériels à connotation sexuelle. Ils ne doivent pas non plus engager d'activités à connotation sexuelle. L'équipe du stand (y compris les volontaires) ne doivent pas utiliser de vêtements, uniformes ou costumes à connotation sexuelle. Ils ne doivent pas non plus créer un environnement sexualisé.</p>
 <p>Si un participant a un comportement de harcèlement, les organisateurs de l'événement peuvent prendre toute décision qui leur semble adéquate. Cela va d'un simple avertissement à l'exclusion du participant de l'événement sans remboursement.</p>
@@ -79,5 +80,3 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <p>Cette charte anti-harcèlement est basée sur <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">anti-harassement policy example</a> de <a href="http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki">Geek Feminism wiki</a>, créée par <a href="https://adainitiative.org/">Ada Initiative</a> et autres volontaires ainsi que sur le <a href="http://phpconference.co.uk/conduct/">code de conduite de PHP UK</a>.</p>
 
 
-</div>
-</div>
