@@ -12,7 +12,12 @@ html, body {
 
 body {
   padding-top: 50px; /* body padding for fixed top nav */
-  font-size: 1.8em; /* damien : améliorer la lisibilité */
+   /* font-size: 1.8em; damien : améliorer la lisibilité */
+}
+
+.pg_content{
+  padding-top: 2em;
+  padding-bottom: 5em;
 }
 
 .img-home-portfolio,
@@ -173,18 +178,19 @@ h5{
 }
 
 @media (max-width: 767px) {
-.navbar-nav{
-    font-size: 13px;
+  .navbar-nav{
+      font-size: 13px;
+  }
+
+  #flying-twitter-icon {
+      top: 45%;
+  }
+
+  .navbar-nav li .disabled{
+      display: none;
+  }
 }
 
-#flying-twitter-icon {
-    top: 45%;
-}
-
-.navbar-nav li .disabled{
-    display: none;
-}
-}
 
 .carousel {
   height: 75%;
@@ -203,3 +209,47 @@ h5{
 .thumbnail > img {
   height: 120px;
 }
+
+
+.pg_speaker h3{
+	color: white;
+	background-color: #336791;
+  padding: 0.2em;
+  margin: 25px 0 0 0; /* because img-thumbnail has a 20px paddingtop +5 margin*/
+}
+
+.pg_speaker .role{
+  padding: 0.2em;
+  font-size: 1.1em;
+  font-variant: small-caps;
+}
+
+.pg_speaker p{
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+
+.pg_speaker img{
+  max-width: 180px;
+  max-height: 180px;
+}
+
+.pg_speaker footer{
+  border-bottom: solid 2px #dddddd;
+  text-align: right;
+  margin-bottom: 1em;
+}
+
+.pg_speaker footer a{
+  background-color: #dddddd;
+  padding: 3px;
+}
+
+
+.pg_speaker .pg_conf{
+  font-size: 1.2em;
+  font-weight: bold;
+  font-style: italic;
+  color: #336791;
+}
+
