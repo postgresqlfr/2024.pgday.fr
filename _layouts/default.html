@@ -56,15 +56,6 @@
 
     <div class="container">
       <footer>
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <p>Suivez notre actualité sur <a href="https://twitter.com/PGDAY_Fr" data-lang="fr" title="Page Twitter du PGDay France">Twitter</a> ou abonnez vous à notre <a href="http://eepurl.com/wqJTP">lettre d'information</a>.</p>
-            <hr>
-            <small>Le PGDay France est un évènement de <a href="http://www.postgresql.fr" title="Communauté PostgreSQL francophone"> la communauté francophone de PostgreSQL</a></small>
-          </div>
-        </div>
-
-
         <h5>Partenaires GOLD de l'événement</h5>
 
         <div class="row text-center container-fluid" id="sponsors">
@@ -125,6 +116,51 @@
         </div>
       </footer>
     </div>
+
+    <footer class="pg_footer">
+        <div class="row">
+            <div class="col-md-2">
+              <ul>
+                <li><a href="/sponsors">Sponsors</a></li>
+                <li><a href="/apropos">Code de conduite</a></li>
+                <li><a href="/apropos">Contact</a></li>
+              </ul>
+  
+            </div>
+            <div class="col-md-8 text-center">
+                <p>Suivez notre actualité sur <a href="https://twitter.com/PGDAY_Fr" data-lang="fr" title="Page Twitter du PGDay France">Twitter</a> 
+                  ou abonnez vous à notre <a href="http://eepurl.com/wqJTP">lettre d'information</a>.</p>
+  
+                  <p>
+                      Le PGDay France est un évènement de <a href="http://www.postgresql.fr" title="Communauté PostgreSQL francophone"> 
+                        la communauté francophone de PostgreSQL</a>
+                  </p>
+  
+                    <img src="img/assoc_logo.png" alt="Association PostgreSQL-Fr" width="70px" height="70px">
+  
+            </div>
+            <div class="col-md-2 text-right">
+                <a href="https://twitter.com/PGDAY_Fr">
+                    <img src="img/twitter.svg" class="pg_icon" alt="Twitter PgDayFr">
+                </a>
+                <a href="https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g">
+                    <img src="img/youtube.svg" class="pg_icon" alt="Chaine Youtube">
+                </a>
+               
+            </div>
+        </div>
+  
+        <p class="pg_sql">
+            Nested Loop  (cost=4.65..49.46 rows=33 width=488)
+            Join Filter: (t1.hundred < t2.hundred)
+            ->  Bitmap Heap Scan on tenk1 t1  (cost=4.36..39.47 rows=10 width=244)
+                  Recheck Cond: (unique1 < 10)
+                  ->  Bitmap Index Scan on tenk1_unique1  (cost=0.00..4.36 rows=10 width=0)
+                        Index Cond: (unique1 < 10)
+            ->  Materialize  (cost=0.29..8.51 rows=10 width=244)
+                  ->  Index Scan using tenk2_unique2 on tenk2 t2  (cost=0.29..8.46 rows=10 width=244)
+        </p>
+  </footer>
 
     <!-- JavaScript -->
     <script src="js/jquery-1.10.2.js"></script>

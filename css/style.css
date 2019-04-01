@@ -253,3 +253,35 @@ h5{
   color: #336791;
 }
 
+
+/* Main footer */
+
+.pg_footer{
+  background-color: #dddddd;
+  padding: 1em 0.5em 0em 0.5em;
+}
+
+.pg_footer a{
+  color: #336791;
+}
+
+.pg_footer ul {
+	list-style: none;
+	line-height: 2em;
+	padding: 1em 2em;
+	border-right: solid 2px  #336791;
+}
+
+.pg_footer img{
+  opacity: 0.5;
+}
+.pg_footer img:hover{
+  opacity: 1;
+}
+
+.pg_sql{
+  opacity: 0.1;
+  font-size: 0.7em;
+  margin: 0;
+}
+
