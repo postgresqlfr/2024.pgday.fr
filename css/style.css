@@ -165,6 +165,10 @@ h5{
 /* Responsive Styles */
 @media (max-width: 500px) {
 
+.schedule_bloc{
+  display: block;
+}
+
 .img-xs-50{
     width: 47px;
     height: 47px;
@@ -189,6 +193,13 @@ h5{
   .navbar-nav li .disabled{
       display: none;
   }
+}
+
+@media (min-width: 501px){
+  .schedule_bloc{
+    display: flex;
+  }
+
 }
 
 
@@ -285,3 +296,59 @@ h5{
   margin: 0;
 }
 
+/* nouveau programme 2019 */
+
+.schedule_bloc{
+  opacity: 0.7;
+}
+
+.schedule_bloc:hover{
+  opacity: 1;
+}
+
+.schedule_time{
+  color: #336791;
+  font-size: 2em;
+  font-variant: small-caps;
+  padding: 25px; /* because thumbnail has one*/
+}
+
+.schedule_speaker{
+  text-align: center;
+  background: linear-gradient(#9b9999, #9b9999) no-repeat center center / 4px calc(99%);
+  
+  min-width: 140px; /* double*/
+}
+
+.schedule_speaker img{
+  max-width: 140px;
+  max-height: 140px;
+}
+
+.schedule_desc{
+  padding-left: 42px;
+  padding-top: 25px; /* because thumbnail has one*/
+}
+
+.schedule_desc h3{
+  background-color: #336791;
+	color:white;
+  padding: 0.2em;
+  margin: 0;
+}
+
+.schedule_desc .pg_speaker_name{ /* duplicate avec role*/
+  padding: 0.2em;
+  font-size: 1.2em;
+  font-variant: small-caps;
+}
+
+.schedule_break {
+  border: solid 2px #9b9999;
+  min-width: 140px;
+	color:#9b9999;
+  font-size: 3em;
+  padding-top: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+}

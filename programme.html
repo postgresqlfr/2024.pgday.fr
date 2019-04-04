@@ -3,352 +3,249 @@ layout: 1colonne
 title: Programme
 ---
       <br>
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-6">
-    <table class="table table-striped table-hover">
-      <tr>
-        <th> 08h30 </th>
-        <td class="text-center">Ouverture des portes</td>
-      </tr>
-     
-      <tr>
-        <th> 09h00 </th>
-        <td class="text-center">
-          Keynote d'ouverture, infos pratiques <!--<a alt="Télécharger le support"
-            href="slides/"><i
-              class="glyphicon glyphicon-download"></i></a>-->
-        </td>
-      </tr>
-      <tr>
-        <th> 09h20 </th>
-        <td><a href="#pgsql-retourexpautolib"><strong>Retour d'expérience : 6 ans d'utilisation de PostgreSQL
-en production sur Autolib</strong> - Sébastien DIEMER</a></td>
-      </tr>
-      <tr>
-        <th> 10h00 </th>
-        <td class="text-center">   PAUSE</td>
-      </tr>
-      <tr>
-        <th> 10h30 </th>
-        <td><a href="#pgsql-pachyderme"><strong>Pachydermes et gros serpents</strong> - Olivier COURTIN</a></td>
-      </tr>
-      <tr>
-        <th> 10h55 </th>
-        <td><a href="#pgsql-utilisezpsql"><strong>Soyez efficace, utilisez psql !</strong> - L&aelig;titia AVROT</a></td>
-      </tr>
-      <tr>
-        <th> 11h30 </th>
-        <td><a href="#pgsql-parallelisation"><strong>La parallélisation au service de l'optimisation</strong> - Aurélien MORLE</a></td>
-      </tr>
-      <tr>
-        <th> 12h05 </th>
-        <td class="text-center">   Pause déjeuner</td>
-      </tr>
-      <tr>
-        <th> 13h40 </th>
-        <td><a href="#pgsql-astronomique"><strong>La base de données qui valait 2 milliards d'objets
-astronomiques</strong> - Grégory MANTELET</a></td>
-      </tr>
-      <tr>
-        <th> 14h15 </th>
-        <td><a href="#pgsql-pgbackrest"><strong>Récupérez vos données : pgBackRest !</strong> - Sébastien LARDIERE</a></td>
-      </tr>
-      <tr>
-        <th> 14h55 </th>
-        <td class="text-center">   PAUSE</td>
-      </tr>
-      <tr>
-        <th> 15h25 </th>
-        <td><a href="#pgsql-bascule"><strong>Et PAF, ça bascule!</strong> - Stefan FERCOT</a></td>
-      </tr>
-      <tr>
-        <th> 16h10 </th>
-        <td><a href="#pgsql-postgres11"><strong>Les futures fonctionnalités de PostgreSQL 11</strong> -
-            Jean-Christophe ARNU</a></td>
-      </tr>
-      <tr>
-        <th> 17h00 </th>
-        <td class="text-center">  discours de clôture   </td>
-      </tr>
-      <tr>
-        <th> 17h20 </th>
-        <td class="text-center">  FIN   </td>
-      </tr>
-    </table>
-    <!-- <p class="text-info"><a href="pgday2018.ics"><i class=" glyphicon
-      glyphicon-calendar"></i> Calendrier ICS de l'édition 2018</a></p> -->
-  </div>
-  <div class="col-md-3"></div>
-</div>
-<br/><br/>
 
-
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-5">
-
-    <div id="pgsql-retourexpautolib"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/s_diemer.jpg" alt="Sébastien DIEMER" class="img-thumbnail">
+ 
+      <div class="container pg_content">
+          <h2>Programme</h2>
+  
+  
+          <div class="schedule_bloc">
+            <div class="schedule_time">08h30</div>
+            <div class="schedule_desc">
+              <h3>Ouverture</h3>
+            </div>
+          </div>
+  
+          <div class="schedule_bloc">
+            <div class="schedule_time">09h00</div>
+            <div class="schedule_break"></div>
+            <div class="schedule_desc">
+              <h3>Bienvenue</h3>
+            </div>
+          </div>
+  
+          <div class="schedule_bloc">
+              <div class="schedule_time">09h00</div>
+              <div class="schedule_speaker">
+                <img src="img/orateurs/zmaltet.png" class="img-thumbnail" alt="">
+              </div>
+              <div class="schedule_desc">
+                <h3>Keynote: Informatique, genre et légitimité</h3>
+                <p>Par <a href="orateurs#zoe_maltet" class="pg_speaker_name">Zoé MALTET</a> - Université de Lille</p>
+    
+                <p>
+                    Cette intervention permettra d’exposer les résultats d’une enquête de trois ans, menée dans deux IUT (Informatique et MMI) ainsi qu’auprès d’une quarantaine de professionnel.les du secteur du numérique. Après avoir présenté les principaux facteurs qui peuvent expliquer la disparition progressive des femmes de ce domaine, ainsi que les conséquences économiques et sociales d’une disparité de genre importante dans ce secteur, nous reviendrons sur l’impact des représentations de « l’informatique » et des compétences (possiblement genrées) qui lui sont associées, dans les choix d’orientation, ainsi que dans la vie quotidienne des personnes interrogées.
+                </p>
+  
+              </div>
+            </div>
+  
+            <div class="schedule_bloc">
+              <div class="schedule_time">10h00</div>
+              <div class="schedule_speaker">
+                <img src="img/orateurs/dverite.png" class="img-thumbnail" alt="">
+              </div>
+              <div class="schedule_desc">
+                <h3>Sécurisez vos transactions concurrentes</h3>
+                <p>Par <a href="orateurs#daniel_verite" class="pg_speaker_name">Daniel VÉRITÉ</a> -Développeur indépendant</p>
+    
+                <p>PostgreSQL propose une réponse adaptée au problème des transactions concurrentes: le niveau d'isolation sérialisable, avec une implémentation moderne et efficace depuis la version 9.1.
+                    Mais ce mode reste mal connu des utilisateurs, alors même que le standard SQL recommande qu'il soit actif par défaut, et que des chercheurs en sécurité montrent qu'il y a des vulnérabilités exploitables liées à cette méconnaissance.
+                    Cette présentation illustrera avec des exemples de quel genre de problème il s'agit, et comment mettre en oeuvre dans PostgreSQL l'isolation des transactions pour avoir des applications fiables et robustes en présence d'écritures concurrentes.
+                    </p>
+  
+              </div>
+            </div>
+  
+  
+            <div class="schedule_bloc">
+                <div class="schedule_time">10h35</div>
+                <div class="schedule_break">
+                  <img src="img/pause.png" alt="Tasse">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Pause</h3>
+                </div>
+              </div>
+  
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">10h55</div>
+                <div class="schedule_speaker">
+                  <img src="img/orateurs/lavrot.png" class="img-thumbnail" alt="">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Merveilleux SQL</h3>
+                  <p>Par <a href="orateurs#laetitia_avrot" class="pg_speaker_name">Lætitia AVROT</a></p>
+      
+                  <p>Si vous avez suivi les évolutions de la norme SQL, vous devriez savoir ce qu'est une CTE (y compris une CTE recursive), les aggrégations avancées (window function, cube, rollup...) et les différents types de jointures (même les jointures latérales). Mais les avez-vous essayées ?
+  
+                      Cette conférence se focalisera sur ces nouvelles fonctionnalités, comment elles sont décrites dans la norme et comment elles sont implémentées dans PostgreSQL avec des exemples concrets.
+                      
+                      À la fin de cette conférence, vous devriez être capable d'utiliser toutes ces merveilles du SQL et de les expliquer à vos collègues pour que leurs yeux à eux aussi se mettent à briller!
+                      </p>
+    
+                </div>
+              </div>
+  
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">11h40</div>
+                <div class="schedule_speaker">
+                  <img src="img/orateurs/gdarold.png" class="img-thumbnail" alt="">
+                </div>
+                <div class="schedule_desc">
+                  <h3>PgBadger: utilisation avancée</h3>
+                  <p>Par <a href="orateurs#gilles_darold" class="pg_speaker_name">Gilles DAROLD</a></p>
+      
+                  <p>Par défaut pgBadger est capable de traiter un log PostgreSQL de manière complète pour peu qu'on utilise le format adapté. Mais certains formats de log sont plus adaptés que d'autres, notamment en terme de performances. Pour pouvoir affiner les rapports certaines options sont indispensables, c'est l'occasion de parler de différents cas d'utilisation. Par exemple comment générer son propre rapport ou extraire seulement les rapports d'erreurs et le top N des requêtes les plus lentes. Les nouvelles fonctionnalités de pgBadger v11.0 seront aussi abordées notamment sur les fonctionnalités orientées Cloud/hébergement de base de données PostgreSQL.
+                    </p>
+    
+                </div>
+              </div>
+  
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">12h10</div>
+                <div class="schedule_break">
+                    <span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+                </div>
+                <div class="schedule_desc">
+                  <h3>Repas</h3>
+                </div>
+              </div>
+  
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">13h40</div>
+                <div class="schedule_speaker">
+                  <img src="img/orateurs/mpavy.png" class="img-thumbnail" alt="">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Partitioning selon le couple longitude/lattitude</h3>
+                  <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Manuel PAVY</a> - CNES</p>
+      
+                  <p>Le CNES utilise postgreSQL pour de nombreux projets, principalement spatiaux avec des exigences de précisions fortes et des enjeux opérationnels réels.
+                      Par ailleurs, le module postgis permet de cataloguer aisément des mesures d’observations spatiales et le CNES a élaboré un démonstrateur permettant le partitionnement de ces données. La version 11 apporte un intérêt très fort grâce au dynamic pruning, permettant d’éliminer le parcours de partitions non correspondantes et la version 12 promet encore plus d’amélioration grâce à une gestion optimisée du calcul du plan d’exécution.
+                      </p>
+    
+                </div>
+              </div>
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">14h15</div>
+                <div class="schedule_speaker">
+                  <img src="img/orateurs/rdunklau.png" class="img-thumbnail" alt="">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Construire un système de réplication logique</h3>
+                  <p>Par <a href="orateurs#ronan_dunklau" class="pg_speaker_name">Ronan DUNKLAU</a> - PeopleDoc</p>
+      
+                  <p>Dans le cadre de notre activité de DBA à PeopleDoc, nous avons dû fédérer un certains nombres de bases de données. La réplication logique fournie par PostgreSQL ne permets pas de répliquer des données dans des tables ou schémas différents de la source. Je souhaite ainsi vous faire partager un retour d'expérience sur la création d'un système de réplication «maison» permettant de répliquer vers des schémas différents. Cela permettra de couvrir les fonctionnalités suivantes de PostgreSQL:</p>
+                  <ul>
+                      <li>slots de réplications</li>
+                      <li>décodeur logique</li>
+                      <li>connexion de réplication</li>
+                      <li>origin de réplication</li>
+                      <li>export de snapshot</li>
+                  </ul>
+  
+                  <p>Vous découvrirez aussi comment nous avons résolu les problématiques de "basebackup" logique et de propagation des DDL.</p>
+    
+                </div>
+              </div>
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">15h00</div>
+                <div class="schedule_break">
+                    <img src="img/pause.png" alt="Tasse">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Pause</h3>
+                </div>
+              </div>
+  
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">15h20</div>
+                <div class="schedule_speaker">
+                  <img src="img/orateurs/anowocien.png" class="img-thumbnail" alt="">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Données en masse, chargez !</h3>
+                  <p>Par <a href="orateurs#anthony_nowocien" class="pg_speaker_name">Anthony NOWOCIEN</a> - Société Générale</p>
+      
+                  <p>lors de phases de chargement de masse, on pense généralement aux performances. S'il existe un certain nombre de bonnes pratiques, il ne faut pas non plus négliger les fonctionnalités que propose l'outil utilisé. Nous comparerons plusieurs de ces outils (INSERT, COPY, pgloader, pg_bulkload, ...), avec leurs points forts et leurs limitations pour comprendre comment adresser au mieux le besoin initial. Plusieurs benchmarks seront réalisés entre les différentes solutions.
+                    </p>
+    
+                </div>
+              </div>
+  
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">16h00</div>
+                <div class="schedule_speaker">
+                  <img src="img/orateurs/rhaubourg.png" class="img-thumbnail" alt="">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Du SIG à une base de données de référence décisionnelle, Quelle architecture de base de données ?</h3>
+                  <p>Par <a href="orateurs#regis_haubourg" class="pg_speaker_name">Régis HAUBOURG</a> - Oslandia</p>
+      
+                  <p>Devançant les catégories marketing depuis 40 ans SIG a toujours été à la frontière entre big data, outil décisionnel et applications de production et saisie de données. PostgreSQL appuyé de l'extension PostGIS devient aujourd'hui la norme pour la réalisation d'entrepôts de données SIG, et autorise une recentralisation des données. A la frontière entre données structurées et stockage de fichiers plats, comment survivre à l'anarchie pour maintenir une base de données de référence sur le long terme? Quelles règles de gestion pour permettre autant à des SIG qu'à des applicatifs n-tiers de s'alimenter de la même base? Attention, cette présentation s'inspire de fait réels :)
+                    </p>
+    
+                </div>
+              </div>
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">16h25</div>
+                <div class="schedule_break">
+                  <img src="img/pause.png" alt="Tasse">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Pause</h3>
+                </div>
+              </div>
+  
+  
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">16h45</div>
+                <div class="schedule_speaker">
+                  <img src="img/orateurs/jriou.png" class="img-thumbnail" alt="">
+                </div>
+                <div class="schedule_desc">
+                  <h3>Dans les coulisses d'une infrastructure hautement disponible</h3>
+                  <p>Par <a href="orateurs#julien_riou" class="pg_speaker_name">Julien RIOU</a> - OVH</p>
+      
+                  <p>Bienvenue dans l’infrastructure interne, et bientôt externe, des bases 
+                      de données relationnelles d’OVH. L'ensemble des applications 
+                      responsables de la continuité de service reposent de près ou de loin sur 
+                      ces SGBD. Nous vous exposerons nos méthodes d'administration d'un tel 
+                      système en abordant la haute disponibilité, la gestion des sauvegardes, 
+                      de leurs restauration et les mises à jours de version. Nous mettons à la 
+                      disposition de nos développeurs un environnement isolé par rapport à la 
+                      production pour effectuer des changements de schéma en toute sécurité.  
+                      Nous extrayons ces données vers des infrastructures de business 
+                      intelligence.
+                      </p>
+    
+                </div>
+              </div>
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">17h30</div>
+                <div class="schedule_break"></div>
+                <div class="schedule_desc">
+                  <h3>Cloture</h3>
+                </div>
+              </div>
+  
+              <div class="schedule_bloc">
+                <div class="schedule_time">17h45</div>
+                <div class="schedule_desc">
+                  <h3>Fin</h3>
+                </div>
+              </div>
+  
       </div>
-      <div class="col-md-10">
-        <h3>Retour d'expérience : 6 ans d'utilisation de PostgreSQL en production sur Autolib'
-          <!--<a alt="Télécharger le support" href="slides/darold_pgday_2017_partitionnement.pdf"><i class="glyphicon glyphicon-download"></i></a>-->
-        </h3>
-        <h4>Sébastien DIEMER, Polyconseil / 09h20 à 10h05</h4>
-        <p>
-        <blockquote class="small">
-          Ingénieur logiciel avec huit ans d'expérience, je travaille depuis 
-          trois ans sur des projets d'auto-partage et de recharge électrique au 
-          sein de Polyconseil, principalement en python Django et PostgreSQL.
-        </blockquote>
-        </p>
-        <p>
-          Nous vous présenterons comment nous utilisons PostgreSQL depuis 6 ans sur
-          Autolib', un service qui a atteint en quelques années plusieurs dizaines de
-          milliers de locations par jour.
-        </p>
-      </div>
-    </div>
-
-  </div>
-  <div class="col-md-4"></div>
-</div>
-
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-5">
-
-    <div id="pgsql-pachyderme"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/o_courtin.png" alt="Olivier COURTIN" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>Pachydermes et gros serpents
-          <!--<a alt="Télécharger le support" href="slides/darold_pgday_2017_partitionnement.pdf"><i class="glyphicon glyphicon-download"></i></a>-->
-        </h3>
-        <h4>Olivier COURTIN, DataPink / 10h30 à 10h55</h4>
-        <p>
-        <blockquote class="small">
-          DataScientist et fondateur DataPink.
-        </blockquote>
-        </p>
-        <p>
-          Analyses de données avancées, couplant PostgreSQL/PostGIS à l'environnement de DataSciences Python
-(Machine et Deep Learning inside)
-        </p>
-      </div>
-    </div>
-
-  </div>
-  <div class="col-md-4"></div>
-</div>
-
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-5">
-
-    <div id="pgsql-utilisezpsql"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/l_avrot.png" alt="Lætitia AVROT" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>Soyez efficace, utilisez psql !
-          <!--<a alt="Télécharger le support" href="slides/darold_pgday_2017_partitionnement.pdf"><i class="glyphicon glyphicon-download"></i></a>-->
-        </h3>
-        <h4>Lætitia AVROT, Loxodata / 10h55 à 11h30</h4>
-        <p>
-        <blockquote class="small">
-          Lætitia est consultante et formatrice PostgreSQL pour Loxodata à Lyon.
-Elle a commencé à travailler sur PostgreSQL en 2007. Rapidement, elle a du apprendre aussi l'administration Oracle et SQL Server.
-Lors de ses différentes expériences, elle a pu travailler sur des projets à fortes contraintes de haute disponibilité et de forte charge, des incidents de prod, des PRA, des données géographiques...
-        </blockquote>
-        </p>
-        <p>
-          Si vous demandez à un expert PostgreSQL quel outil il utilise pour se connecter à PostgreSQL, 
-          il vous répondra invariablement "psql". Découvrez comment configurer et utiliser psql pour devenir plus 
-          efficace avec ce client qu'avec un outil graphique.
-        </p>
-      </div>
-    </div>
-
-  </div>
-  <div class="col-md-4"></div>
-</div>
-
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-5">
-
-    <div id="pgsql-parallelisation"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/a_morle.png" alt="Aurélien Morlé" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>La parallélisation au service de l'optimisation
-          <!--<a alt="Télécharger le support" href="slides/darold_pgday_2017_partitionnement.pdf"><i class="glyphicon glyphicon-download"></i></a>-->
-        </h3>
-        <h4>Aurélien MORL&Eacute;, Atol Conseils et Développements / 11h30 à 12h05</h4>
-        <p>
-        <blockquote class="small">
-          Architecte logiciel chez Atol CD depuis 10 ans, Aurélien est particulièrement 
-          spécialiste des problématiques PostgreSQL et PostGIS sur un important projet métier dans le secteur agricole. 
-          Tombé dans le SQL quand il était petit, son truc c’est l’optimisation ! 
-        </blockquote>
-        </p>
-        <p>
-          A l’heure du big data et des SIG, l’arrivée des requêtes parallélisées dans 
-          PostgreSQL permettent dans certains cas de diviser le temps d'exécution des 
-          traitements par 2 et plus en fonction des usages.
-        </p>
-      </div>
-    </div>
-
-  </div>
-  <div class="col-md-4"></div>
-</div>
-
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-5">
-
-    <div id="pgsql-astronomique"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/g_mantelet.jpg" alt="Grégory MANTELET" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>La base de données qui valait 2 milliards d'objets astronomiques (...à quelques poussières d'étoiles près)
-          <!--<a alt="Télécharger le support" href="slides/darold_pgday_2017_partitionnement.pdf"><i class="glyphicon glyphicon-download"></i></a>-->
-        </h3>
-        <h4>Grégory MANTELET, Centre de Données astronomiques de Strasbourg / 13h40 à 14h15</h4>
-        <p>
-        <blockquote class="small">
-          Après un diplôme d'ingénieur spécialité ""Fouille de Données"" à l'UTC, j'ai travaillé au CDS (Centre de Données astronomiques de Strasbourg) et à l'ARI
-(Astronomisches Rechen-Institut, Allemagne), en tant que développeur de services Web de publication et d'accès à des données astronomiques. 
-        </blockquote>
-        </p>
-        <p>
-          Gaia: un catalogue de 2 milliards d'objets astronomiques au jour d'aujourd'hui. 
-          Voici quelques méthodes utilisées avec PostgreSQL afin d'en permettre une exploration et interrogration plus optimisées.
-        </p>
-      </div>
-    </div>
-
-  </div>
-  <div class="col-md-4"></div>
-</div>
-
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-5">
-
-    <div id="pgsql-pgbackrest"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/s_lardiere.jpg" alt="Sébastien LARDI&Egrave;RE" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>Récupérez vos données : pgBackRest !
-          <!--<a alt="Télécharger le support" href="slides/darold_pgday_2017_partitionnement.pdf"><i class="glyphicon glyphicon-download"></i></a>-->
-        </h3>
-        <h4>Sébastien LARDI&Egrave;RE, Loxodata / 14h15 à 14h55</h4>
-        <p>
-        <blockquote class="small">
-            Sébastien Lardière est consultant et formateur au sein de la société
-            Loxodata. Après avoir hébergé une première instance PostgreSQL en
-            2001, il se spécialise sur PostgreSQL, par intérêt, et pour répondre
-            au besoin de son entourage professionnel. Consultant indépendant, puis
-            DBA de production, il est aussi l'auteur d'un ouvrage technique
-            destiné aux DBAs PostgreSQL, aux Éditions ENI.
-        </blockquote>
-        </p>
-        <p>
-            PgBackRest dispose des capacités à sauvegarder et restaurer
-            efficacement les bases de données PostgreSQL. De la sauvegarde
-            différentielle à la vérification des sommes de contrôle, en passant
-            par l'archivage asynchrone, cette présentation décrit par la pratique
-            les caractéristiques de l'outil.  
-        </p>
-      </div>
-    </div>
-
-  </div>
-  <div class="col-md-4"></div>
-</div>
-
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-5">
-
-    <div id="pgsql-bascule"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/s_fercot.jpg" alt="Stefan FERCOT" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>Et PAF, ça bascule!
-          <!--<a alt="Télécharger le support" href="slides/darold_pgday_2017_partitionnement.pdf"><i class="glyphicon glyphicon-download"></i></a>-->
-        </h3>
-        <h4>Stefan FERCOT, Dalibo / 15h25 à 16h10</h4>
-        <p>
-        <blockquote class="small">
-            DBA PostgreSQL et Administrateur Système Linux depuis 2010
-            Chargé alors notamment de la gestion des sauvegardes des bases de données et du 
-            bon fonctionnement des différents systèmes dans le domaine des soins de santé en Belgique.
-            Travaillant en tant que DBA à Dalibo depuis Juillet 2017.
-        </blockquote>
-        </p>
-        <p>
-            L’utilisation de PAF au sein d’un cluster Pacemaker + Corosync permet 
-            une bascule automatique du service PostgreSQL en cas de défaillance d’un 
-            nœud et en réduit ainsi l’indisponibilité. 
-        </p>
-      </div>
-    </div>
-
-  </div>
-  <div class="col-md-4"></div>
-</div>
-
-<div class="row">
-  <div class="col-md-3"></div>
-  <div class="col-md-5">
-
-    <div id="pgsql-postgres11"></div><br/><br/>
-    <div class="row" >
-      <div class="col-md-2 text-right">
-        <img src="img/orateurs/jc_arnu.jpg" alt="Jean-Christophe ARNU" class="img-thumbnail">
-      </div>
-      <div class="col-md-10">
-        <h3>Les futures fonctionnalités de PostgreSQL 11.
-          <!--<a alt="Télécharger le support" href="slides/darold_pgday_2017_partitionnement.pdf"><i class="glyphicon glyphicon-download"></i></a>-->
-        </h3>
-        <h4>Jean-Christophe ARNU, Loxodata / 16h10 à 17h00</h4>
-        <p>
-        <blockquote class="small">
-            Jean-Christophe Arnu a découvert PostgreSQL en 1998.
-            Dès 2005, il intègre la communauté et fonde avec d'autres passionnés
-            l'association PostgreSQLFr. En 2008, il coorganise le premier PGDay.fr.
-            Aujourd'hui, il poursuit sa vocation de consultant PostgreSQL au sein
-            de la société Loxodata.
-        </blockquote>
-        </p>
-        <p>
-            PostgreSQL est en constant développement, des commitfests passés
-            laissent entrevoir les nouvelles fonctionnalités qui feront le PostgreSQL de
-            demain. Embarquez pour un aperçu !
-        </p>
-      </div>
-    </div>
-
-  </div>
-  <div class="col-md-4"></div>
-</div>
-
-<br /><br />
