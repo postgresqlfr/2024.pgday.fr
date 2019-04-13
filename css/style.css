@@ -352,3 +352,12 @@ h5{
   text-align: center;
   padding-bottom: 10px;
 }
+
+.pg_icon{
+  padding: 1em;
+  margin: 1em;
+  color: white;
+  background-color: #336791;
+  max-width: 58px;
+  max-height: 58px;
+}
