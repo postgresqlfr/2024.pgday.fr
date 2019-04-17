@@ -213,6 +213,11 @@ h5{
     padding: 2px 0;
 }
 
+img.pg_sponsor {
+  height: 50px;
+  padding: 2px 0;
+}
+
 .img-thumbnail {
   margin-top: 20px;
 }
