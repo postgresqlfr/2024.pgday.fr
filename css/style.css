@@ -33,7 +33,7 @@ body {
 /* Page Sections */
 .section,
 .section-colored {
-  padding: 20px 0;
+  padding: 0px 0;
 }
 
 .section-colored {
@@ -48,6 +48,11 @@ body {
   border-radius: 5px;
   padding: 5px;
   border: 1px solid #cccccc;
+}
+
+.section-header,
+.container-header {
+  background: #2c7c99;
 }
 
 /* Half Page Height Carousel Customization */
