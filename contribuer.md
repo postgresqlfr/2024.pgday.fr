@@ -34,7 +34,7 @@ de vos expériences concernant PostgreSQL et ses différents outils.
 En savoir plus 
 </a>
 
-## bénévoles
+## Bénévoles
       
 Nous recherchons également des bénévoles pour différentes activités
 pendant les conférences (accueil, traduction, préparation).
@@ -45,7 +45,6 @@ gouttes d'eau font les grandes rivières.
 <a href="contact.html">Contactez-nous</a> si vous êtes interessés !
   
 Vous pouvez aussi nous rejoindre sur la 
-<a
-         href="http://listes.postgresql.fr/cgi-bin/mailman/listinfo/pgdayfr">liste
+<a href="http://listes.postgresql.fr/cgi-bin/mailman/listinfo/pgdayfr">liste
          de discussion des organisateurs du PGDay</a>.
 
