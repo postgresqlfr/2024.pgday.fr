@@ -397,3 +397,9 @@ ul.polaroid p{
   max-width: 58px;
   max-height: 58px;
 }
+
+.pg_highlight{
+  color: white;
+  background-color: #0b263b;
+  font-weight: bold;
+}
