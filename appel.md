@@ -7,26 +7,26 @@ title: 'Appel à Orateurs'
 <!--
 <b>L'Appel à Orateurs est clos</b>
 -->
-    
-<!--    
+
+<!--
 <h3><b>Prolongation Date limite des propositions.</b></h3>
 <p>
 La date limite de réception des propositions a été repoussée au 2 mars 2018 à 23h59 CEST
 </p>
 -->
 
-## Appel à Oratrices et Orateurs 
+## Appel à Oratrices et Orateurs
 
 Le PG Day France est la conférence annuelle de la communauté francophone de PostgreSQL.
 
-Cette année, l’événement se tiendra le 17 et 18 juin à Nantes. 
+Cette année, l’événement se tiendra le 17 et 18 juin à Nantes.
 Plus de 200 participants sont attendus pour deux jours d'échanges autour de PostgreSQL et de son écosystème.
 
 Retrouvez plus d'informations sur le site de l’événement : https://www.pgday.fr
 
-Vous êtes expert sur un domaine lié aux bases de données libres ? 
+Vous êtes expert sur un domaine lié aux bases de données libres ?
 
-Vous avez utilisé PostgreSQL dans un contexte spécifique (gros volumes, forte charge, client reconnu, projet innovant, etc.) ? 
+Vous avez utilisé PostgreSQL dans un contexte spécifique (gros volumes, forte charge, client reconnu, projet innovant, etc.) ?
 
 Vous participez à un projet libre lié à PostgreSQL ?
 
@@ -60,13 +60,13 @@ Pour soumettre une intervention, il vous suffit d'envoyer un e-mail à l'adresse
 * une description longue (700 caractères max.) ;
 * une photo (200×200 pixels minimum).
 
-Les présentations devront être **en français** et disponibles sous licence libre. 
+Les présentations devront être **en français** et disponibles sous licence libre.
 Les interventions pourront faire l'objet d'une captation audio/vidéo et d'une diffusion en direct ou en différé sur internet.
 
-La date limite de réception des propositions est fixée au 29 février 2020 à 23h59 CEST.
+La date limite de réception des propositions est fixée au 31 mars 2020 à 23h59 CEST.
 
-Le comité de sélection étudiera toutes les propositions valides. Le choix des interventions sera basé sur la présentation de la 
-soumission, son intérêt pour une audience professionnelle, ainsi que la cohérence du programme de la journée. La décision du 
+Le comité de sélection étudiera toutes les propositions valides. Le choix des interventions sera basé sur la présentation de la
+soumission, son intérêt pour une audience professionnelle, ainsi que la cohérence du programme de la journée. La décision du
 comité de sélection sera finale et sans appel.
 
 Les orateurs et oratrices sélectionnés seront avertis par e-mail avant le 7 avril 2020.
