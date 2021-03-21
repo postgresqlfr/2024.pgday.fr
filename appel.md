@@ -15,24 +15,22 @@ La date limite de réception des propositions a été repoussée au 2 mars 2018 
 </p>
 -->
 
+
+
 ## Appel à Oratrices et Orateurs
 
 Le PG Day France est la conférence annuelle de la communauté francophone de PostgreSQL.
 
-Cette année, l’événement se tiendra le 17 et 18 juin à Nantes.
-Plus de 200 participants sont attendus pour deux jours d'échanges autour de PostgreSQL et de son écosystème.
+Cette année, l’événement aura lieu les 16 et 17 juin à Nantes à l'espace Port Beaulieu. En raison des incertitudes liées à la situation
+sanitaire, nous pourrions être amenés à adapter le format de la conférence. Mais bien sûr nous vous tiendrons informés régulièrement.
 
-Retrouvez plus d'informations sur le site de l’événement : https://www.pgday.fr
-
-Vous êtes expert sur un domaine lié aux bases de données libres ?
-
+Vous êtes expert.e sur un domaine lié aux bases de données libres ?
 Vous avez utilisé PostgreSQL dans un contexte spécifique (gros volumes, forte charge, client reconnu, projet innovant, etc.) ?
-
 Vous participez à un projet libre lié à PostgreSQL ?
 
 Alors, n'hésitez pas à proposer une présentation !
 
-Pour l’édition 2020, les thèmes particulièrement mis en lumière sont les suivants :
+Pour l’édition 2021, les thèmes particulièrement mis en lumière sont les suivants :
 
 * Big Data ;
 * Data Mining / Exploration de Données ;
@@ -44,9 +42,7 @@ Pour l’édition 2020, les thèmes particulièrement mis en lumière sont les s
 
 Cette liste n'est pas exhaustive. Il est possible de proposer d'autres sujets liés à PostgreSQL.
 
-La conférence PG Day France est à destination des professionnels, notamment les directeurs informatiques, les décideurs, les
-chefs de projets, les administrateurs de bases de données, les développeurs, les administrateurs systèmes et toutes les personnes
-travaillant avec un système de gestion de bases de données.
+La conférence PG Day France est à destination des professionnels, notamment les directeurs informatiques, les décideurs, les chefs de projets, les administrateurs de bases de données, les développeurs, les administrateurs systèmes et toutes les personnes travaillant avec un système de gestion de bases de données.
 
 Pour soumettre une intervention, il vous suffit d'envoyer un e-mail à l'adresse contact@pgday.fr, en précisant les éléments suivants :
 
@@ -60,17 +56,15 @@ Pour soumettre une intervention, il vous suffit d'envoyer un e-mail à l'adresse
 * une description longue (700 caractères max.) ;
 * une photo (200×200 pixels minimum).
 
-Les présentations devront être **en français** et disponibles sous licence libre.
-Les interventions pourront faire l'objet d'une captation audio/vidéo et d'une diffusion en direct ou en différé sur internet.
+Les présentations devront être **en français** et disponibles sous licence libre. Les interventions pourront faire l'objet d'une captation audio/vidéo et d'une diffusion en direct ou en différé sur internet.
 
-La date limite de réception des propositions est fixée au 31 mars 2020 à 23h59 CEST.
+La date limite de réception des propositions est fixée au 15 avril 2021 à 23h59 CEST.
 
-Le comité de sélection étudiera toutes les propositions valides. Le choix des interventions sera basé sur la présentation de la
-soumission, son intérêt pour une audience professionnelle, ainsi que la cohérence du programme de la journée. La décision du
-comité de sélection sera finale et sans appel.
+Le comité de sélection étudiera toutes les propositions valides. Le choix des interventions sera basé sur la présentation de la soumission, son intérêt pour une audience professionnelle, ainsi que la cohérence du programme de la journée. La décision du comité de sélection sera finale et sans appel.
 
-Les orateurs et oratrices sélectionnés seront avertis par e-mail avant le 7 avril 2020.
+Les orateurs sélectionnés seront avertis par e-mail avant le 21 avril 2021.
 
 Pour toute question à propos de cet appel à orateurs et du PG Day France en général, vous pouvez envoyer un message à l'adresse : contact@pgday.fr.
+
 
 
