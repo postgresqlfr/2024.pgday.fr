@@ -19,6 +19,9 @@ La date limite de réception des propositions a été repoussée au 2 mars 2018 
 
 ## Appel à Oratrices et Orateurs
 
+> **ATTENTION ! La date limite de l'appel est reportée au 28 avril !**
+
+
 Le PG Day France est la conférence annuelle de la communauté francophone de PostgreSQL.
 
 Cette année, l’événement aura lieu les 16 et 17 juin à Nantes à l'espace Port Beaulieu. En raison des incertitudes liées à la situation
@@ -58,11 +61,11 @@ Pour soumettre une intervention, il vous suffit d'envoyer un e-mail à l'adresse
 
 Les présentations devront être **en français** et disponibles sous licence libre. Les interventions pourront faire l'objet d'une captation audio/vidéo et d'une diffusion en direct ou en différé sur internet.
 
-La date limite de réception des propositions est fixée au 15 avril 2021 à 23h59 CEST.
+La date limite de réception des propositions est fixée au 28 avril 2021 à 23h59 CEST.
 
 Le comité de sélection étudiera toutes les propositions valides. Le choix des interventions sera basé sur la présentation de la soumission, son intérêt pour une audience professionnelle, ainsi que la cohérence du programme de la journée. La décision du comité de sélection sera finale et sans appel.
 
-Les orateurs sélectionnés seront avertis par e-mail avant le 21 avril 2021.
+Les orateurs sélectionnés seront avertis par e-mail avant le  15 mai 2021.
 
 Pour toute question à propos de cet appel à orateurs et du PG Day France en général, vous pouvez envoyer un message à l'adresse : contact@pgday.fr.
 
