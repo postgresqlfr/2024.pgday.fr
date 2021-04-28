@@ -19,11 +19,32 @@ title: Accueil
 
 <!-- <a href='/appel'>l'appel à orateur est ouvert</a> !-->
 
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.fr/e/billets-pg-day-france-2021-59197191393" rel="noopener noreferrer" target="_blank"></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-59197191393" type="button">Acheter des billets</button>
+<noscript></a>Buy Tickets on Eventbrite</noscript>
 
-\
+<script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
 
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '59197191393',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-59197191393',
+        onOrderComplete: exampleCallback
+    });
+</script>
+
+<!--
 Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
+-->
 
 <!--
 
