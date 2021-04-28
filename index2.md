@@ -3,7 +3,9 @@ layout: 1colonne
 title: Accueil
 ---
 
+<center>
 <img src="img/header.png" width="950" alt="" class="img-responsive"/>
+</center>
 
 Le PG Day France est un moment de rencontres et de conférences pour la
 communauté francophone de PostgreSQL. Les conférences s'adressent à tous
