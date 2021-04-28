@@ -4,26 +4,31 @@ title: Accueil
 ---
 
 <center>
-<img src="img/header.png" width="950" alt="" class="img-responsive"/>
+<img src="img/header.png" alt="" class="img-responsive"/>
 </center>
 
-Le PG Day France est un moment de rencontres et de conférences pour la
-communauté francophone de PostgreSQL. Les conférences s'adressent à tous
-les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
-développeurs, chefs de projets, décideurs, etc
+# Le rendez-vous annuel de la communauté PostgreSQL !
+
+> Le PG Day France est un moment de rencontres et de conférences pour la
+> communauté francophone de PostgreSQL. Les conférences s'adressent à tous
+> les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
+> développeurs, chefs de projets, décideurs, etc
 
 
-<b>L'édition 2021 se tiendra le 16-17 juin à Nantes</b>
+**L'édition 2021 se tiendra le 16-17 juin à Nantes**
 
 <!-- <a href='/appel'>l'appel à orateur est ouvert</a> !-->
 
-<br/>
-Vous pouvez consulter les vidéos des éditions précédentes sur
-<a href="https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g">notre chaine Youtube</a>.
 
-<h3>Nos partenaires</h3>
+\
+
+Vous pouvez consulter les vidéos des éditions précédentes sur
+[notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
+
+<!--
+
+### Nos partenaires
 <div class="container">
- <!--
         <div class="col-xs-12 col-md-6">
           <a href="https://www.atolcd.com/" class="thumbnail">
             <img src="img/atolcd.png" alt="Atol CD" class="pg_sponsor">
@@ -86,15 +91,7 @@ Vous pouvez consulter les vidéos des éditions précédentes sur
         </div>
       </div>
 
--->
 
 </div>
-<br/>
-
-<h4>Le PGDay France est un évènement de la communauté francophone de PostgreSQL</h4>
-
-<p>Vous pouvez vous aussi contribuer à la préparation de l'évenement. Pour
-      plus d'information merci de consulter la page <a
-      href="contribuer.html">Contribuer</a>
-      </p>
+-->
 
