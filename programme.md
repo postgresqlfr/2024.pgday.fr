@@ -3,11 +3,23 @@ layout: 1colonne
 title: Programme
 ---
 
-<br>
 
-<div class="container pg_content">
 
-<h2>Programme</h2>
+# Programme
+
+## Mercredi 16 juin 2021
+
+La première journée du PG Day France est réservée aux adhérent.e.s de l'[association PostgreSQLFR]
+et aux membres du [Groupe de Travail Inter-Entreprises].
+
+[association PostgreSQLFR]: https://www.postgresql.fr/asso:accueil
+[Groupe de Travail Inter-Entreprises]: https://www.postgresql.fr/entreprises:accueil
+
+
+
+## Jeudi 17 juin 2021
+
+Le seconde journée est ouverte au public.
 
 Le programme sera publié dans quelques jours !
 
