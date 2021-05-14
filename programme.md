@@ -1,5 +1,4 @@
 ---
-layout: 1colonne
 title: Programme
 ---
 
