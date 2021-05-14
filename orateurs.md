@@ -11,36 +11,41 @@ title: Orateurs
 </div>
 
 <div class="col-md-8">
-
-## Damien Clochard
-
-`DBA PostgreSQL - DALIBO`
-
+<h3>Damien Clochard</h3>
+<span class="role">DBA PostgreSQL - DALIBO</span>
+<p>
 Damien Clochard est actif au sein de la communauté PostgreSQL à
 différents niveaux, notamment en tant que président de l'association
 PostgreSQLFr et développeur principal du projet PostgreSQL Anonymizer.
 Il est DBA chez DALIBO, une société qu'il a co-fondé en 2005.
-
-> Présentation: [Estimer l'empreinte écologique de PostgreSQL](/programme)
-
+</p>
+<p>
+Présentation:
+<a href='/programme'>Estimer l'empreinte écologique de PostgreSQL</a>
+</p>
 </div>
 </div>
 
 
 
-<div class="row pg_speaker" id="gilles_darold">
+<div class="row pg_speaker" id="vincent_graillot">
 <div class="col-md-2">
-<img src="img/orateurs/gdarold.png" class="img-thumbnail" alt="">
+<img src="img/orateurs/v_graillot.jpg" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
-<h3>Gilles DAROLD</h3>
-<span class="role">Expert PostgreSQL - Auteur de pgBadger</span>
-
-<p>Expert PostgreSQL, utilisateur de PostgreSQL depuis 1995, créateur d'outils très connus comme pgBadger pour l'analyse des logs, Ora2Pg pour migrer la base de données Oracle et plus récemment pgCluu pour l'audit d'instances PostgreSQL ou pgFormatter pour le formatage du SQL/PLPGSQL.</p>
-
-<p>Présentera: <span class="pg_conf">pgBadger utilisation avancée</span></p>
-
+<h3>Vincent Graillot</h3>
+<span class="role">Responsable Recherche et Innovation - UMANIT</span>
+<p>
+Avec un fort goût du challenge, Vincent aime quitter sa zone de confort pour
+des projets innovants et complexes. Adorateur de PostgreSQL depuis des années,
+il l'utilise au quotidien, l'enseigne et le partage à ses collègues et à
+l'école centrale de Nantes.
+</p>
+<p>
+Présentation:
+<a href='/programme'>Heu, il faut chiffrer les données de la base ! On fait comment ?</a>
+</p>
 </div>
 </div>
 
