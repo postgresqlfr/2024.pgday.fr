@@ -239,7 +239,7 @@ Exemple en utilisant des outils issus du monde Open Source (Prometheus/Grafana/A
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">15h45</div>
+  <div class="schedule_time">15h35</div>
   <div class="schedule_speaker">
   <img src="img/orateurs/f_boudehen.jpg" class="img-thumbnail" alt="">
   </div>
@@ -282,7 +282,7 @@ Nous décrirons une architecture possible sur la base d'un système de configura
 <div class="schedule_bloc">
   <div class="schedule_time">16h25</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/c_villemain.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/c_villemain_2.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Partitionnement automatique avec PostgreSQL</h3>
@@ -311,7 +311,7 @@ et suppression des partitions.
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">17h10</div>
+  <div class="schedule_time">16h55</div>
   <div class="schedule_desc">
   <h3>Cloture</h3>
   </div>
