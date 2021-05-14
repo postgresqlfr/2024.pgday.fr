@@ -26,31 +26,25 @@ pour leur aide et leur présence à nos cotés.
 
 </div>
 
+<!--
 ### Nos partenaires SILVER
 
 <div class="container">
 
-<!--
 <div class="col-xs-12 col-md-6">
             <a href="https://www.enterprisedb.com/" class="thumbnail">
               <img src="img/enterprisedb.jpg" alt="EnterpriseDB">
             </a>
           </div>
 
-      <div class="col-xs-12 col-md-6">
-        <a href="http://www.evolix.fr/" class="thumbnail">
-          <img src="img/evolix.png" alt="Evolix">
-        </a>
-      </div>
-      <div class="col-xs-12 col-md-6">
-          <a href="https://leboncoin.fr" class="thumbnail">
-            <img src="img/leboncoin.png" alt="Le Bon Coin">
-          </a>
-        </div>
-    </div>
--->
+<div class="col-xs-12 col-md-6">
+<a href="https://leboncoin.fr" class="thumbnail">
+<img src="img/leboncoin.png" alt="Le Bon Coin">
+</a>
 </div>
 
+</div>
+-->
 
 ### Nos partenaires BRONZE
 
