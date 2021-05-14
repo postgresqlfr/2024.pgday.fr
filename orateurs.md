@@ -2,25 +2,31 @@
 title: Orateurs
 ---
 
-## Oratrices & Orateurs
+# Oratrices & Orateurs
 
 
-<div class="row pg_speaker" id="laetitia_avrot">
+<div class="row pg_speaker" id="damien_clochard">
 <div class="col-md-2">
-<img src="img/orateurs/lavrot.png" class="img-thumbnail" alt="">
+<img src="img/orateurs/d_clochard" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
-<h3>Lætitia AVROT</h3>
-<span class="role">Experte PostgreSQL</span>
 
-<p>Lætitia est experte PostgreSQL. Elle a rencontré PostgreSQL pour la première fois en 2007. Pour parfaire ses connaissances de DBA, elle a aussi appris Oracle et SQL Server. Lætitia contribue à la communauté PostgreSQL de différentes façons (patches, Postgres Women, code de conduite..)
-</p>
+## Damien Clochard
 
-<p>Présentera: <span class="pg_conf">Merveilleux SQL</span></p>
+`DBA PostgreSQL - DALIBO`
+
+Damien Clochard est actif au sein de la communauté PostgreSQL à
+différents niveaux, notamment en tant que président de l'association
+PostgreSQLFr et développeur principal du projet PostgreSQL Anonymizer.
+Il est DBA chez DALIBO, une société qu'il a co-fondé en 2005.
+
+> Présentation: [Estimer l'empreinte écologique de PostgreSQL](/programme)
 
 </div>
 </div>
+
+
 
 <div class="row pg_speaker" id="gilles_darold">
 <div class="col-md-2">
