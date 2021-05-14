@@ -105,7 +105,7 @@ Je vous propose de parcourir les solutions possibles de chiffrement avec les ava
 <div class="schedule_bloc">
   <div class="schedule_time">11h10</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/f_delacourt.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Règles de paramétrage de PostgreSQL</h3>

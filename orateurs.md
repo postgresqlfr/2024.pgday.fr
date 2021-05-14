@@ -7,7 +7,7 @@ title: Orateurs
 
 <div class="row pg_speaker" id="damien_clochard">
 <div class="col-md-2">
-<img src="img/orateurs/d_clochard" class="img-thumbnail" alt="">
+<img src="img/orateurs/d_clochard.jpg" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
@@ -49,60 +49,72 @@ Présentation:
 </div>
 </div>
 
-<div class="row pg_speaker" id="ronan_dunklau">
+<div class="row pg_speaker" id="frederic_delacourt">
 <div class="col-md-2">
-<img src="img/orateurs/rdunklau.png" class="img-thumbnail" alt="">
+<img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
-<h3>Ronan Dunklau</h3>
-<span class="role">DBA - PeopleDoc</span>
+<h3>Frédéric Delacourt</h3>
+<span class="role">Consultant - Data Bene</span>
 
-<p>Ronan Dunklau travaille comme DBA PostgreSQL à PeopleDoc. Il a également contribué à PostgreSQL et à son éco-système depuis 2011.
+<p>
+De 2006 à 2016, dans un contexte centre de R&D Télécoms, Frédéric a adressé les problèmes de performances,
+de sauvegarde, de fail over automatique,... PostgreSQL pour des clients comme Softbank, Bezeq ou Orange.
+Actuellement, Frédérique est consultant PostgreSQL chez Data bene, anciennement 2ndQuadrant France.
+
+</p>
+<p>
+Présentation:
+<a href='/programme'>Règles de paramétrage de PostgreSQL</a>
+</p>
+</div>
+</div>
+
+<div class="row pg_speaker" id="david_baffaleuf">
+<div class="col-md-2">
+<img src="img/orateurs/d_baffaleuf.jpg" class="img-thumbnail" alt="">
+</div>
+
+<div class="col-md-8">
+<h3>David Baffaleuf</h3>
+<span class="role">Responsable AllDB - CAP DATA CONSULTING</span>
+
+<p>
+ David est expert SQL Server, MySQL / MariaDB et PostgreSQL, avec une touche de MongoDB. Il est product owner et développeur back end de la plateforme DBA à distance de Cap Data, et manage l'équipe. Il est également ancien SQL Server MVP, consultant, formateur et speaker.
 </p>
 
-<p>Présentera: <span class="pg_conf">Construire un système de réplication logique</span></p>
+<p>
+Présentation:
+<a href='/programme'>pg_stat_statements ou comment savoir où ça fait mal</a>
+</p>
 
 </div>
 </div>
 
-<div class="row pg_speaker" id="regis_haubourg">
+<div class="row pg_speaker" id="Laure-Hélène Bruneton">
 <div class="col-md-2">
-<img src="img/orateurs/rhaubourg.png" class="img-thumbnail" alt="">
+<img src="img/orateurs/lh_bruneton.jpg" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
-<h3>Régis HAUBOURG</h3>
-<span class="role">Expert SIG - Oslandia</span>
+<h3>Laure-Hélène Bruneton</h3>
+<span class="role">Ingénieure Etudes et Développement - CAMPTOCAMP</span>
 
-<p>Agronome, géomaticien, ex administrateur de données géographiques d'un établissement public, expert SIG open-source chez Oslandia, président de l'OSGeo-FR, charter member OSGeo; amoureux de PostgreSQL</p>
+<p>
+Géomaticienne de formation, Laure-Hélène a travaillé 10 ans dans une société d'édition
+de logiciels d'urbanisme, domaine où le SIG est une thématique forte. Elle arejoint l'an
+dernier la société Camptocamp, sur le projet NexSIS, pour lequel elle est en charge de
+l'étude et du développement du service de calcul d'itinéraires.
+</p>
 
-<p>Présentera: <span class="pg_conf">Du SIG à une base de données de référence décisionnelle - Quelle architecture de base de données ?</span></p>
-
-<footer>
-<a href="https://twitter.com/RegisHaubourg">Twitter</a>
-</footer>
-
+<p>
+Présentation:
+<a href='/programme'>pgRouting comme aide à la décision des Services d'Incendie et de Secours</a>
+</p>
 </div>
 </div>
 
-<div class="row pg_speaker" id="zoe_maltet">
-<div class="col-md-2">
-<img src="img/orateurs/zmaltet.png" class="img-thumbnail" alt="">
-</div>
-
-<div class="col-md-8">
-<h3>Zoé MALTET</h3>
-<span class="role">Ingénieure/Doctorante - Université de Lille</span>
-
-<p> Après s’être intéressée à la reproduction des inégalités à l’école, lors d’une étude menée auprès de la communauté Rom, Zoé Maltet participe depuis trois ans à un projet portant sur l’insertion professionnelle des femmes dans le numérique. Son objectif est de mesurer la prégnance de représentations genrées des compétences.</p>
-
-<p>Présentera: <span class="pg_conf">Informatique, genre et légitimité</span></p>
-
-
-
-</div>
-</div>
 
 <div class="row pg_speaker" id="anthony_nowocien">
 <div class="col-md-2">
