@@ -12,7 +12,7 @@ title: Orateurs
 
 <div class="col-md-8">
 <h3>Damien Clochard</h3>
-<span class="role">DBA PostgreSQL - DALIBO</span>
+<span class="role">DBA PostgreSQL chez DALIBO</span>
 <p>
 Damien Clochard est actif au sein de la communauté PostgreSQL à
 différents niveaux, notamment en tant que président de l'association
@@ -35,7 +35,7 @@ Présentation:
 
 <div class="col-md-8">
 <h3>Vincent Graillot</h3>
-<span class="role">Responsable Recherche et Innovation - UMANIT</span>
+<span class="role">Responsable Recherche et Innovation chez UMANIT</span>
 <p>
 Avec un fort goût du challenge, Vincent aime quitter sa zone de confort pour
 des projets innovants et complexes. Adorateur de PostgreSQL depuis des années,
@@ -56,7 +56,7 @@ Présentation:
 
 <div class="col-md-8">
 <h3>Frédéric Delacourt</h3>
-<span class="role">Consultant - Data Bene</span>
+<span class="role">Consultant chez Data Bene</span>
 
 <p>
 De 2006 à 2016, dans un contexte centre de R&D Télécoms, Frédéric a adressé les problèmes de performances,
@@ -78,7 +78,7 @@ Présentation:
 
 <div class="col-md-8">
 <h3>David Baffaleuf</h3>
-<span class="role">Responsable AllDB - CAP DATA CONSULTING</span>
+<span class="role">Responsable AllDB chez CAP DATA CONSULTING</span>
 
 <p>
  David est expert SQL Server, MySQL / MariaDB et PostgreSQL, avec une touche de MongoDB. Il est product owner et développeur back end de la plateforme DBA à distance de Cap Data, et manage l'équipe. Il est également ancien SQL Server MVP, consultant, formateur et speaker.
@@ -99,7 +99,7 @@ Présentation:
 
 <div class="col-md-8">
 <h3>Laure-Hélène Bruneton</h3>
-<span class="role">Ingénieure Etudes et Développement - CAMPTOCAMP</span>
+<span class="role">Ingénieure Etudes et Développement chez CAMPTOCAMP</span>
 
 <p>
 Géomaticienne de formation, Laure-Hélène a travaillé 10 ans dans une société d'édition
@@ -116,80 +116,66 @@ Présentation:
 </div>
 
 
-<div class="row pg_speaker" id="anthony_nowocien">
+<div class="row pg_speaker" id="guenael_gonnord">
 <div class="col-md-2">
-<img src="img/orateurs/anowocien.png" class="img-thumbnail" alt="">
+<img src="img/orateurs/g_gonnord.jpg" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
-<h3>Anthony NOWOCIEN</h3>
-<span class="role">DBA - Société Générale</span>
-
-<p>Après avoir commencé en tant que développeur, je me suis orienté vers l'administration des bases de données. J'ai été DBA SQL Server, MySQL et me consacre désormais à plein temps à PostgreSQL.</p>
-
-<p>Présentera: <span class="pg_conf">Données en masse, chargez !</span></p>
-
-<footer>
-<a href="https://twitter.com/nthonynowocien">Twitter</a>
-</footer>
-
-</div>
-</div>
-
-<div class="row pg_speaker" id="manuel_pavy">
-<div class="col-md-2">
-<img src="img/orateurs/mpavy.png" class="img-thumbnail" alt="">
-</div>
-
-<div class="col-md-8">
-<h3>Manuel PAVY</h3>
-<span class="role">Architecte SI - Centre National d’Etudes Spatiales (CNES)</span>
-
-<p>Après huit année en société de services informatiques où je me suis spécialisé sur les bases de données et en particulier Oracle, j’ai rejoint le CNES en 2014 alors que la politique d’utilisation de postgresql venait d’être adoptée. Depuis, je suis responsable des problématiques bases de données pour les projets que mène l’entreprise et je contribue à la promotion de postgreSQL en son sein.</p>
-
-<p>Présentera: <span class="pg_conf">Partitionnions selon le couple longitude/lattitude : étude de cas sur des mesures issues de données spatiales.
-</span></p>
-
-</div>
-</div>
-
-<div class="row pg_speaker" id="julien_riou">
-<div class="col-md-2">
-<img src="img/orateurs/jriou.png" class="img-thumbnail" alt="">
-</div>
-
-<div class="col-md-8">
-<h3>Julien RIOU</h3>
-<span class="role">TechLead - OVH</span>
-
-<p>Sysadmin depuis 2010 puis DBA en 2012 dans le monde de l’hébergement
-web. Spécialiste des SGBD libres tels que MySQL et PostgreSQL.
-Actuellement Tech Lead dans l’équipe databases à OVH, leader européen du Cloud computing.</p>
-
-<p>Présentera: <span class="pg_conf">Dans les coulisses d’une infrastructure hautement disponible</span></p>
-
-</div>
-</div>
-
-<div class="row pg_speaker" id="daniel_verite">
-<div class="col-md-2">
-<img src="img/orateurs/dverite.png" class="img-thumbnail" alt="">
-</div>
-
-<div class="col-md-8">
-<h3>Daniel VÉRITÉ</h3>
-<span class="role">Développeur indépendant</span>
-
-<p>Développeur spécialisé en bases de données depuis 1995, j'ai opté pour PostgreSQL et le logiciel libre en général depuis
-plus d'une quinzaine d'années. Je participe à la communauté via les mailing-lists/forums et les CommitFests pour tester et parfois soumettre des évolutions à Postgres.
+<h3>Guenaël Gonnord</h3>
+<span class="role">Ingénieur système chez Loxodata</span>
+<p>
+Guénaël est tombé dans l'informatique quand il était petit. Professionnel de l'informatique
+depuis plus de 20 ans, il bascule du monde propriétaire vers l'Open Source dès 2004.
+Convaincu par ce modèle, il rejoint LOXODATA en 2019 en tant qu'ingénieur système.
 </p>
 
-<p>Présentera: <span class="pg_conf">Sécurisez vos transactions concurrentes</span></p>
+<p>
+Présentation:
+<a href='/programme'>REX PostgreSQL managé (Google Cloud SQL)</a>
+</p>
 
-<footer>
-<a href="https://twitter.com/DanielVerite">Twitter</a>
-<a href="https://blog-postgresql.verite.pro/">Site</a>
-</footer>
+</div>
+</div>
+
+<div class="row pg_speaker" id="franck_boudehen">
+<div class="col-md-2">
+<img src="img/orateurs/f_boudehen.jpg" class="img-thumbnail" alt="">
+</div>
+
+<div class="col-md-8">
+<h3>Franck BOUDEHEN</h3>
+<span class="role">DBA Consultant chez DALIBO</span>
+
+<p>
+</p>
+<p>
+Présentation:
+<a href='/programme'>Haute disponibilité multi sites avec PostgreSQL</a>
+</p>
+
+</div>
+</div>
+
+<div class="row pg_speaker" id="cedric_villemain">
+<div class="col-md-2">
+<img src="img/orateurs/c_villemain_2.jpg" class="img-thumbnail" alt="">
+</div>
+
+<div class="col-md-8">
+<h3>Cédric Villemain</h3>
+<span class="role">Expert PostgreSQL chez Data bene</span>
+
+<p>
+Intéressé par les problématiques
+de Haute-Disponibilité et de qualité de service, il contribue aux différents
+projets qu'il utilise et promeut.
+</p>
+
+<p>
+Présentation:
+<a href='/programme'>Partitionnement automatique avec PostgreSQL</a>
+</p>
 
 </div>
 </div>
