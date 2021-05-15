@@ -10,18 +10,15 @@ title: Information
 
 ## Lieu de l'événement
 
-> Espace Port Beaulieu
-> 9 Boulevard Vincent Gâche,
-> 44200 Nantes
-> FRANCE
+```
+Espace Port Beaulieu
+9 Boulevard Vincent Gâche,
+44200 Nantes
+FRANCE
+```
 
-<a href="https://osm.org/go/eq2sLxgK--?m=&node=1648532545">Plan</a>
+» [Plan](https://osm.org/go/eq2sLxgK--?m=&node=1648532545)
 
-\
-
-\
-
-\
 
 
 <!--
