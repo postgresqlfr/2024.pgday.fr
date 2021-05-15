@@ -1,13 +1,13 @@
 ---
-title: Bénénvoles
+title: Bénévoles
 ---
 
-    <div class="container">
-      <div class="row well">
 
-        <h2>Bénévoles</h2>
+# Bénévoles
 
-        <p>Le PG-Day France est un événement organisé par une équipe entièrement bénévole. Cette liste est non-exhaustive.</p>
+Le PG Day France est un événement organisé par une équipe entièrement bénévole.
+
+Cette liste est non-exhaustive.
 
         <ul class="polaroid">
           <li><img src="img/team/damien2.jpeg" width="150">
@@ -20,7 +20,5 @@ title: Bénénvoles
             <p>Geoffroy BAILLY</p></li>
         </ul>
 
-        <p>Vous aussi vous pouvez aider à l'organisation du PGDay France, n'hésitez pas à <a href="apropos">prendre contact avec l'équipe</a>.</p>
+Vous aussi vous pouvez aider à l'organisation du PGDay France, n'hésitez pas à [prendre contact avec l'équipe](/apropos).
 
-    </div>
-  </div>
