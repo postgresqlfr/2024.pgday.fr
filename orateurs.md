@@ -148,6 +148,9 @@ Présentation:
 <span class="role">DBA Consultant chez DALIBO</span>
 
 <p>
+Franck nage dans le libre depuis 1992. Ancien consultant indépendant et formateur,
+il a pris goût aux problématiques de haute disponibilité pour PostgreSQL.
+Il est DBA Consultant chez Dalibo depuis 2018.
 </p>
 <p>
 Présentation:
