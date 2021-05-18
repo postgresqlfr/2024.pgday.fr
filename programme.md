@@ -110,6 +110,7 @@ Je vous propose de parcourir les solutions possibles de chiffrement avec les ava
   <div class="schedule_desc">
   <h3>Règles de paramétrage de PostgreSQL</h3>
   <p>Par <a href="orateurs#frederic_delacourt" class="pg_speaker_name">Frédéric DELACOURT</a> - Data Bene</p>
+  <p>
 Les aides au paramétrage telles que PGTune, PGConfig, ... proposent des configurations basées sur les règles bien connues de paramétrage de PostgreSQL. Je vous propose une critique de ces règles.
 Il existe une dizaine de règles de paramétrage de PostgreSQL bien connues. Elles adressent shared_buffers, effective_cache_size, max_connections, effective_io_concurrency, ... Elles sont utilisées par les outils comme PGTune qui répondent à un besoin réel : comment paramétrer PostgreSQL pour qu'il offre de bonnes performances. Je vous propose d'expliquer les paramètres concernés puis une critique de ces règles et même une critique des outils d'aide car chacun apporte sa petite différence parfois pitoresque.
   </p>
