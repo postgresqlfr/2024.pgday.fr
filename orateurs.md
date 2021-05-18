@@ -118,7 +118,7 @@ Présentation:
 
 <div class="row pg_speaker" id="guenael_gonnord">
 <div class="col-md-2">
-<img src="img/orateurs/g_gonnord.jpg" class="img-thumbnail" alt="">
+<img src="img/orateurs/g_gonnord.png" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
