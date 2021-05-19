@@ -60,13 +60,13 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
-<!--
 <div class="col-xs-12 col-md-6">
-          <a href="http://microsoft.com" class="thumbnail">
-            <img src="img/microsoft.png" alt="Microsoft">
-          </a>
-        </div>
+<a href="https://www.aukfood.fr/" class="thumbnail">
+<img src="img/aukfood.jpg" alt="Aukfood">
+</a>
+</div>
 
+<!--
         <div class="col-xs-12 col-md-6">
           <a href="https://orachrome.com/" class="thumbnail">
             <img src="img/orachrome.png" alt="Orachrome" class="pg_sponsor">
