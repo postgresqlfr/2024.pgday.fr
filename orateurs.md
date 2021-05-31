@@ -92,20 +92,17 @@ Présentation:
 </div>
 </div>
 
-<div class="row pg_speaker" id="Laure-Hélène Bruneton">
+<div class="row pg_speaker" id="Adrien Van Hamme">
 <div class="col-md-2">
-<img src="img/orateurs/lh_bruneton.jpg" class="img-thumbnail" alt="">
+<img src="img/orateurs/a_van_hamme.jpg" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
-<h3>Laure-Hélène Bruneton</h3>
-<span class="role">Ingénieure Etudes et Développement chez CAMPTOCAMP</span>
+<h3>Adrien Van Hamme</h3>
+<span class="role">Chef de projet - Geospatial Solutions chez CAMPTOCAMP</span>
 
 <p>
-Géomaticienne de formation, Laure-Hélène a travaillé 10 ans dans une société d'édition
-de logiciels d'urbanisme, domaine où le SIG est une thématique forte. Elle arejoint l'an
-dernier la société Camptocamp, sur le projet NexSIS, pour lequel elle est en charge de
-l'étude et du développement du service de calcul d'itinéraires.
+Diplômé en Cartographie et SIG depuis 2010 et développeur autodidacte, Adrien a travaillé près de 7 ans pour le pôle SIG d'une grande ESN. En 2019, il a rejoint la société Camptocamp, pour participer au projet NexSIS 18-112, en tant que responsable de projet SIG. 
 </p>
 
 <p>

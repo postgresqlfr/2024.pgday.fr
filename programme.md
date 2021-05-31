@@ -181,11 +181,11 @@ A l'heure des bases de données en cloud et autres services managés, où la per
 <div class="schedule_bloc">
   <div class="schedule_time">14h00</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/lh_bruneton.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/a_van_hamme.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>pgRouting comme aide à la décision des Services d'Incendie et de Secours</h3>
-  <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Laure-Hélène Bruneton</a> - CAMPTOCAMP</p>
+  <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Adrien Van Hamme</a> - CAMPTOCAMP</p>
 Dans le cadre de la modernisation de leur SI, les Services d'Incendie et de Secours cherchent à identifier les camions qui mettront le moins de temps à se rendre sur place pour intervenir. Ce calcul d'itinéraire doit donc être à la fois performant et flexible, pour une aide à la décision optimale. Ainsi, il faut qu'il puisse tenir compte du gabarit des véhicules, ainsi que des contraintes de circulation (permanentes ou temporaires). La gestion du trafic et les règles de circulation spécifiques aux véhicules d'urgence amènent autant de problématiques que pgRouting est en mesure de résoudre.
   </p>
   <!--
