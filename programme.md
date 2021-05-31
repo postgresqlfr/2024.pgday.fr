@@ -8,18 +8,119 @@ title: Programme
 
 ## Mercredi 16 juin 2021
 
-La première journée du PG Day France est réservée aux adhérent.e.s de l'[association PostgreSQLFR],
-aux membres du [Groupe de Travail Inter-Entreprises]
-et aux partenaires du PG Day France.
+La première journée du PG Day France est composée d'ateliers impromptus et ouverts à
+toutes et tous, sur le principe des [barcamp] (ou [unconference]). Les sujets de
+discussions seront établis en début d'après-midi en fonction des propositions.
+
+[barcamp]: https://fr.wikipedia.org/wiki/BarCamp
+[unconference]: https://en.wikipedia.org/wiki/Unconference
 
 [association PostgreSQLFR]: https://www.postgresql.fr/asso:accueil
 [Groupe de Travail Inter-Entreprises]: https://www.postgresql.fr/entreprises:accueil
 
+<div class="schedule_bloc">
+  <div class="schedule_time">11h00</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Ouverture des portes</h3>
+  </div>
+</div>
 
+<div class="schedule_bloc">
+  <div class="schedule_time">12h30</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Repas</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">14h00</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Définition du programme</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">14h15</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Atelier 1</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">15h00</div>
+  <div class="schedule_break"></div>
+  <div class="schedule_desc">
+  <h3>PAUSE</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">15h30</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Atelier 2</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">16h15</div>
+  <div class="schedule_break"></div>
+  <div class="schedule_desc">
+  <h3>PAUSE</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">16h45</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Atelier 3</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">17h30</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Fin des Ateliers /  Restitution </h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">18h00</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Soirée / Apéritif dinatoire</h3>
+  </div>
+</div>
 
 ## Jeudi 17 juin 2021
 
-**La seconde journée est ouverte au public.**
+**Les conférences seront diffusées en direct et gratuitement sur notre [chaine youtube].**
+Abonnez-vous pour recevoir une notification le jour même !
+
+[chaine youtube]: https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g
+
 
 > Les horaires ci-dessous sont donnés à titre indicatif et pourront est soumis
 > à des changements de dernière minute.
