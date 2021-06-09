@@ -84,18 +84,12 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
-<!--
-        <div class="col-xs-12 col-md-6">
-          <a href="http://www.logilab.fr" class="thumbnail">
-            <img src="img/logilab.png" alt="Logilab">
-          </a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="http://sophiagenetics.com" class="thumbnail">
-            <img src="img/SOPHiA.png" alt="SOPHiA Genetics">
-          </a>
-        </div>
--->
+<div class="col-xs-12 col-md-6">
+<a href="http://www.logilab.fr" class="thumbnail">
+<img src="img/logilab.png" alt="Logilab">
+</a>
+</div>
+
 </div>
 
 <!--
