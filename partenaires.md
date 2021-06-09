@@ -73,13 +73,11 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
-<!--
-        <div class="col-xs-12 col-md-6">
-          <a href="https://orachrome.com/" class="thumbnail">
-            <img src="img/orachrome.png" alt="Orachrome" class="pg_sponsor">
-          </a>
-        </div>
--->
+<div class="col-xs-12 col-md-6">
+<a href="https://www.setra-conseil.com/" class="thumbnail">
+<img src="img/setra.png" alt="Setra Conseil" class="pg_sponsor">
+</a>
+</div>
 
 <div class="col-xs-12 col-md-6">
 <a href="http://oslandia.com" class="thumbnail">
