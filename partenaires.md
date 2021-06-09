@@ -36,18 +36,17 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
+<div class="col-xs-12 col-md-6">
+<a href="https://codelutin.com" class="thumbnail">
+<img src="img/codelutin.png" alt="Code Lutin">
+</a>
+</div>
+
 </div>
 
 ### Nos partenaires SILVER
 
 <div class="container">
-<!--
-<div class="col-xs-12 col-md-6">
-            <a href="https://www.enterprisedb.com/" class="thumbnail">
-              <img src="img/enterprisedb.jpg" alt="EnterpriseDB">
-            </a>
-          </div>
--->
 
 <div class="col-xs-12 col-md-6">
 <a href="https://www.umanit.fr/" class="thumbnail">
