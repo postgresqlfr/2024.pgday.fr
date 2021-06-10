@@ -135,23 +135,23 @@ Présentation:
 </div>
 </div>
 
-<div class="row pg_speaker" id="franck_boudehen">
+<div class="row pg_speaker" id="stephane_schildknecht">
 <div class="col-md-2">
-<img src="img/orateurs/f_boudehen.jpg" class="img-thumbnail" alt="">
+<img src="img/orateurs/s_schildknecht.jpg" class="img-thumbnail" alt="">
 </div>
 
 <div class="col-md-8">
-<h3>Franck BOUDEHEN</h3>
-<span class="role">DBA Consultant chez DALIBO</span>
+<h3>Stéphane SHILDKNECHT</h3>
+<span class="role">Fondateur et dirigeant Loxodata</span>
 
 <p>
-Franck nage dans le libre depuis 1992. Ancien consultant indépendant et formateur,
-il a pris goût aux problématiques de haute disponibilité pour PostgreSQL.
-Il est DBA Consultant chez Dalibo depuis 2018.
+Stéphane Schildknecht a contribué à la fondation de l'association PostgreSQLFr, qu'il a présidé de 2005 à 2010.
+DBA certifié PostgreSQL, consultant en bases de données pendant 20 ans, il a fondé LOXODATA en 2010.
+Stéphane est contact régional PostgreSQL pour l'Europe francophone.
 </p>
 <p>
 Présentation:
-<a href='/programme'>Haute disponibilité multi sites avec PostgreSQL</a>
+<a href='/programme'>Quelques mauvaises pratiques rencontrées, et leur correction</a>
 </p>
 
 </div>
