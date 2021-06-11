@@ -250,13 +250,7 @@ Il existe une dizaine de règles de paramétrage de PostgreSQL bien connues. Ell
   <h3>pg_stat_statements ou comment savoir où ça fait mal</h3>
   <p>Par <a href="orateurs#david_baffaleuf" class="pg_speaker_name">David Baffaleuf</a> - CAP DATA CONSULTING</p>
   <p>
-En tant que société de conseil, nous accompagnons nos clients dans le déploiement et l'optimisation de PostgreSQL. 
-
-Dans ce cadre, nous avons été amenés à intervenir sur de nombreuses solutions « innovantes » mises en place par nos clients.
-
-Si certaines de ces idées sont réellement innovantes et intéressantes, d'autres, contre-productives, apportent plus de problèmes que de solutions.
-
-Dans cette présentation, nous présenterons quelques-unes de ces idées, les analyserons et détaillerons les solutions apportées pour s'assurer que le service rendu soit conforme aux attentes..
+A l'heure des bases de données en cloud et autres services managés, où la performance coûte cher, il peut être intéressant d'investir dans la recherche d'optimisation plutôt que dans la surenchère de moyens. L'extension pg_stat_statements propose une interface pour lister et classer les requêtes ou blocs procéduraux les plus coûteux en temps d'exécution, en nombre de lignes ou en entrées/sorties logiques ou physiques. C'est votre allié principal dans l'analyse SQL sur PostgreSQL. Nous allons voir comment bien comprise et bien utilisée, cette extension peut nous permettre de gagner un temps précieux sur l'identification et le suivi dans le temps de la charge sur un cluster PostgreSQL.
   </p>
   <!--
   <p>
@@ -349,17 +343,15 @@ Exemple en utilisant des outils issus du monde Open Source (Prometheus/Grafana/A
 <div class="schedule_bloc">
   <div class="schedule_time">15h35</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/f_boudehen.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/s_schildknecht.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Quelques mauvaises pratiques rencontrées, et leur correction</h3>
   <p>Par <a href="orateurs#stephane_schildknecht" class="pg_speaker_name">Stéphane SCHILDKNECHT</a> - LOXODATA</p>
-
-Mettre en place une architecture de haute disponibilité multi sites avec PostgreSQL nécessite certains pré-requis et mécanismes pour se prémunir
-de la perte du service et du split-brain.
-
-Nous décrirons une architecture possible sur la base d'un système de configuration distribuée et de Patroni, ainsi que certains aspects théoriques qui régissent ces logiciels.
-
+En tant que société de conseil, nous accompagnons nos clients dans le déploiement et l'optimisation de PostgreSQL. 
+Dans ce cadre, nous avons été amenés à intervenir sur de nombreuses solutions « innovantes » mises en place par nos clients.
+Si certaines de ces idées sont réellement innovantes et intéressantes, d'autres, contre-productives, apportent plus de problèmes que de solutions.
+Dans cette présentation, nous présenterons quelques-unes de ces idées, les analyserons et détaillerons les solutions apportées pour s'assurer que le service rendu soit conforme aux attentes.
   </p>
   <!--
   <p>
