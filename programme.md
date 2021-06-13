@@ -343,17 +343,15 @@ Exemple en utilisant des outils issus du monde Open Source (Prometheus/Grafana/A
 <div class="schedule_bloc">
   <div class="schedule_time">15h35</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/f_boudehen.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/s_schildknecht.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Haute disponibilité multi sites avec PostgreSQL</h3>
-  <p>Par <a href="orateurs#franck_boudehen" class="pg_speaker_name">Franck BOUDEHEN</a> - DALIBO</p>
-
-Mettre en place une architecture de haute disponibilité multi sites avec PostgreSQL nécessite certains pré-requis et mécanismes pour se prémunir
-de la perte du service et du split-brain.
-
-Nous décrirons une architecture possible sur la base d'un système de configuration distribuée et de Patroni, ainsi que certains aspects théoriques qui régissent ces logiciels.
-
+  <h3>Quelques mauvaises pratiques rencontrées, et leur correction</h3>
+  <p>Par <a href="orateurs#stephane_schildknecht" class="pg_speaker_name">Stéphane SCHILDKNECHT</a> - LOXODATA</p>
+En tant que société de conseil, nous accompagnons nos clients dans le déploiement et l'optimisation de PostgreSQL. 
+Dans ce cadre, nous avons été amenés à intervenir sur de nombreuses solutions « innovantes » mises en place par nos clients.
+Si certaines de ces idées sont réellement innovantes et intéressantes, d'autres, contre-productives, apportent plus de problèmes que de solutions.
+Dans cette présentation, nous présenterons quelques-unes de ces idées, les analyserons et détaillerons les solutions apportées pour s'assurer que le service rendu soit conforme aux attentes.
   </p>
   <!--
   <p>
