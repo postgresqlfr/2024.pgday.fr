@@ -44,63 +44,10 @@ discussions seront établis en début d'après-midi en fonction des propositions
   <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
-  <h3>Définition du programme</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">14h15</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
-  </div>
-  <div class="schedule_desc">
-  <h3>Atelier 1</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">15h00</div>
-  <div class="schedule_break"></div>
-  <div class="schedule_desc">
-  <h3>PAUSE</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">15h30</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
-  </div>
-  <div class="schedule_desc">
-  <h3>Atelier 2</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">16h15</div>
-  <div class="schedule_break"></div>
-  <div class="schedule_desc">
-  <h3>PAUSE</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">16h45</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
-  </div>
-  <div class="schedule_desc">
-  <h3>Atelier 3</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">17h30</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
-  </div>
-  <div class="schedule_desc">
-  <h3>Fin des Ateliers /  Restitution </h3>
+  <h3>Barcamp</h3>
+  Un BarCamp est une rencontre, une non-conférence ("unconference") ouverte, qui prend la forme d'ateliers participatifs
+  où le programme est défini collectivement le jour même. Chacun et chacune est invité à contribuer aux échanges selon le
+  principe « pas de spectateur / tous participants ».
   </div>
 </div>
 
@@ -110,7 +57,7 @@ discussions seront établis en début d'après-midi en fonction des propositions
   <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
-  <h3>Soirée / Apéritif dinatoire</h3>
+  <h3>Soirée de la communauté PostgreSQLFr / Apéritif dinatoire</h3>
   </div>
 </div>
 
@@ -348,7 +295,7 @@ Exemple en utilisant des outils issus du monde Open Source (Prometheus/Grafana/A
   <div class="schedule_desc">
   <h3>Quelques mauvaises pratiques rencontrées, et leur correction</h3>
   <p>Par <a href="orateurs#stephane_schildknecht" class="pg_speaker_name">Stéphane SCHILDKNECHT</a> - LOXODATA</p>
-En tant que société de conseil, nous accompagnons nos clients dans le déploiement et l'optimisation de PostgreSQL. 
+En tant que société de conseil, nous accompagnons nos clients dans le déploiement et l'optimisation de PostgreSQL.
 Dans ce cadre, nous avons été amenés à intervenir sur de nombreuses solutions « innovantes » mises en place par nos clients.
 Si certaines de ces idées sont réellement innovantes et intéressantes, d'autres, contre-productives, apportent plus de problèmes que de solutions.
 Dans cette présentation, nous présenterons quelques-unes de ces idées, les analyserons et détaillerons les solutions apportées pour s'assurer que le service rendu soit conforme aux attentes.
