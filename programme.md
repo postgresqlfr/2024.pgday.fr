@@ -69,7 +69,7 @@ Abonnez-vous pour recevoir une notification le jour même !
 [chaine youtube]: https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g
 
 
-> Les horaires ci-dessous sont donnés à titre indicatif et pourront est soumis
+> Les horaires ci-dessous sont donnés à titre indicatif et pourront être soumis
 > à des changements de dernière minute.
 
 <div class="schedule_bloc">
