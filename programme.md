@@ -290,7 +290,7 @@ Exemple en utilisant des outils issus du monde Open Source (Prometheus/Grafana/A
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">15h35</div>
+  <div class="schedule_time">15h30</div>
   <div class="schedule_speaker">
   <img src="img/orateurs/s_schildknecht.jpg" class="img-thumbnail" alt="">
   </div>
@@ -319,7 +319,7 @@ Dans cette présentation, nous présenterons quelques-unes de ces idées, les an
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">16h05</div>
+  <div class="schedule_time">16h10</div>
   <div class="schedule_break">
   <img src="img/pause.png" alt="Tasse">
   </div>
