@@ -61,7 +61,7 @@ Présentation:
 <p>
 De 2006 à 2016, dans un contexte centre de R&D Télécoms, Frédéric a adressé les problèmes de performances,
 de sauvegarde, de fail over automatique,... PostgreSQL pour des clients comme Softbank, Bezeq ou Orange.
-Actuellement, Frédérique est consultant PostgreSQL chez Data bene, anciennement 2ndQuadrant France.
+Actuellement, Frédérique est consultant PostgreSQL chez Data Bene, anciennement 2ndQuadrant France.
 
 </p>
 <p>
@@ -81,7 +81,7 @@ Présentation:
 <span class="role">Responsable AllDB chez CAP DATA CONSULTING</span>
 
 <p>
- David est expert SQL Server, MySQL / MariaDB et PostgreSQL, avec une touche de MongoDB. Il est product owner et développeur back end de la plateforme DBA à distance de Cap Data, et manage l'équipe. Il est également ancien SQL Server MVP, consultant, formateur et speaker.
+ David est expert SQL Server, MySQL / MariaDB et PostgreSQL, avec une touche de MongoDB. Il est product owner et développeur back end de la plateforme DBA à distance de CAP DATA, et manage l'équipe. Il est également ancien SQL Server MVP, consultant, formateur et speaker.
 </p>
 
 <p>
@@ -102,7 +102,7 @@ Présentation:
 <span class="role">Chef de projet - Geospatial Solutions chez CAMPTOCAMP</span>
 
 <p>
-Diplômé en Cartographie et SIG depuis 2010 et développeur autodidacte, Adrien a travaillé près de 7 ans pour le pôle SIG d'une grande ESN. En 2019, il a rejoint la société Camptocamp, pour participer au projet NexSIS 18-112, en tant que responsable de projet SIG. 
+Diplômé en Cartographie et SIG depuis 2010 et développeur autodidacte, Adrien a travaillé près de 7 ans pour le pôle SIG d'une grande ESN. En 2019, il a rejoint la société CAMPTOCAMP, pour participer au projet NexSIS 18-112, en tant que responsable de projet SIG. 
 </p>
 
 <p>
@@ -120,7 +120,7 @@ Présentation:
 
 <div class="col-md-8">
 <h3>Guenaël Gonnord</h3>
-<span class="role">Ingénieur système chez Loxodata</span>
+<span class="role">Ingénieur système chez LOXODATA</span>
 <p>
 Guénaël est tombé dans l'informatique quand il était petit. Professionnel de l'informatique
 depuis plus de 20 ans, il bascule du monde propriétaire vers l'Open Source dès 2004.
@@ -141,8 +141,8 @@ Présentation:
 </div>
 
 <div class="col-md-8">
-<h3>Stéphane SHILDKNECHT</h3>
-<span class="role">Fondateur et dirigeant Loxodata</span>
+<h3>Stéphane Schildknecht</h3>
+<span class="role">Fondateur et dirigeant LOXODATA</span>
 
 <p>
 Stéphane Schildknecht a contribué à la fondation de l'association PostgreSQLFr, qu'il a présidé de 2005 à 2010.
@@ -164,7 +164,7 @@ Présentation:
 
 <div class="col-md-8">
 <h3>Cédric Villemain</h3>
-<span class="role">Expert PostgreSQL chez Data bene</span>
+<span class="role">Expert PostgreSQL chez Data Bene</span>
 
 <p>
 Intéressé par les problématiques
