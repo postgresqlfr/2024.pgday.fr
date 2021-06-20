@@ -1,7 +1,9 @@
 ---
 title: Inscription
 ---
-<br/> <br/>
+
+<br/>
+<br/>
 
 <div class="row">
 
@@ -27,7 +29,7 @@ title: Inscription
 
 -->
 
-<!-- OUVERT -->
+<!-- OUVERT
 <div class="col-md-8 col-md-offset-2 section-colored text-center">
 
 <div style="width:100%; text-align:left;">
@@ -35,7 +37,7 @@ title: Inscription
 </div>
 
 </div>
-<!-- -->
+-->
 
 
 </div> <!-- fin de row -->
