@@ -69,7 +69,7 @@ Abonnez-vous pour recevoir une notification le jour même !
 [chaine youtube]: https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g
 
 
-> Les horaires ci-dessous sont donnés à titre indicatif et pourront est soumis
+> Les horaires ci-dessous sont donnés à titre indicatif et pourront être soumis
 > à des changements de dernière minute.
 
 <div class="schedule_bloc">
@@ -94,7 +94,7 @@ Abonnez-vous pour recevoir une notification le jour même !
   </div>
   <div class="schedule_desc">
   <h3>Estimer l'empreinte écologique de PostgreSQL</h3>
-  <p>Par <a href="orateurs#damien_clochard" class="pg_speaker_name">Damien CLOCHARD</a> - DALIBO</p>
+  <p>Par <a href="orateurs#damien_clochard" class="pg_speaker_name">Damien Clochard</a> - DALIBO</p>
   <p>
   Vos bases de données sont-elles des gouffres énergétiques ? S'il est relativement aisé de calculer le cout financier d'une instance PostgreSQL, la mesure de son impact environnemental est beaucoup plus complexe. C'est pourtant un critère fondamental pour les organisations qui veulent mettre en place d'écoconception de leurs systèmes d'informations
   </p>
@@ -157,7 +157,7 @@ Je vous propose de parcourir les solutions possibles de chiffrement avec les ava
   </div>
   <div class="schedule_desc">
   <h3>Règles de paramétrage de PostgreSQL</h3>
-  <p>Par <a href="orateurs#frederic_delacourt" class="pg_speaker_name">Frédéric DELACOURT</a> - Data Bene</p>
+  <p>Par <a href="orateurs#frederic_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - Data Bene</p>
   <p>
 Les aides au paramétrage telles que PGTune, PGConfig, ... proposent des configurations basées sur les règles bien connues de paramétrage de PostgreSQL. Je vous propose une critique de ces règles.
 Il existe une dizaine de règles de paramétrage de PostgreSQL bien connues. Elles adressent shared_buffers, effective_cache_size, max_connections, effective_io_concurrency, ... Elles sont utilisées par les outils comme PGTune qui répondent à un besoin réel : comment paramétrer PostgreSQL pour qu'il offre de bonnes performances. Je vous propose d'expliquer les paramètres concernés puis une critique de ces règles et même une critique des outils d'aide car chacun apporte sa petite différence parfois pitoresque.
@@ -234,6 +234,7 @@ A l'heure des bases de données en cloud et autres services managés, où la per
   <div class="schedule_desc">
   <h3>pgRouting comme aide à la décision des Services d'Incendie et de Secours</h3>
   <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Adrien Van Hamme</a> - CAMPTOCAMP</p>
+  <p>
 Dans le cadre de la modernisation de leur SI, les Services d'Incendie et de Secours cherchent à identifier les camions qui mettront le moins de temps à se rendre sur place pour intervenir. Ce calcul d'itinéraire doit donc être à la fois performant et flexible, pour une aide à la décision optimale. Ainsi, il faut qu'il puisse tenir compte du gabarit des véhicules, ainsi que des contraintes de circulation (permanentes ou temporaires). La gestion du trafic et les règles de circulation spécifiques aux véhicules d'urgence amènent autant de problématiques que pgRouting est en mesure de résoudre.
   </p>
   <!--
@@ -258,7 +259,8 @@ Dans le cadre de la modernisation de leur SI, les Services d'Incendie et de Seco
   </div>
   <div class="schedule_desc">
   <h3>REX PostgreSQL managé (Google Cloud SQL)</h3>
-  <p>Par <a href="orateurs#guenael_gonnord" class="pg_speaker_name">Guenaël Gonnord</a> - Loxodata</p>
+  <p>Par <a href="orateurs#guenael_gonnord" class="pg_speaker_name">Guenaël Gonnord</a> - LOXODATA</p>
+  <p>
 Comment observer une instance PostgreSQL managée sans passer par l'UI propriétaire d'un Cloud Provider ?
 Exemple en utilisant des outils issus du monde Open Source (Prometheus/Grafana/Airflow/pgBadger).
   </p>
@@ -288,13 +290,14 @@ Exemple en utilisant des outils issus du monde Open Source (Prometheus/Grafana/A
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">15h35</div>
+  <div class="schedule_time">15h30</div>
   <div class="schedule_speaker">
   <img src="img/orateurs/s_schildknecht.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Quelques mauvaises pratiques rencontrées, et leur correction</h3>
-  <p>Par <a href="orateurs#stephane_schildknecht" class="pg_speaker_name">Stéphane SCHILDKNECHT</a> - LOXODATA</p>
+  <p>Par <a href="orateurs#stephane_schildknecht" class="pg_speaker_name">Stéphane Schildknecht</a> - LOXODATA</p>
+  <p>
 En tant que société de conseil, nous accompagnons nos clients dans le déploiement et l'optimisation de PostgreSQL.
 Dans ce cadre, nous avons été amenés à intervenir sur de nombreuses solutions « innovantes » mises en place par nos clients.
 Si certaines de ces idées sont réellement innovantes et intéressantes, d'autres, contre-productives, apportent plus de problèmes que de solutions.
@@ -316,7 +319,7 @@ Dans cette présentation, nous présenterons quelques-unes de ces idées, les an
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">16h05</div>
+  <div class="schedule_time">16h10</div>
   <div class="schedule_break">
   <img src="img/pause.png" alt="Tasse">
   </div>
@@ -333,7 +336,7 @@ Dans cette présentation, nous présenterons quelques-unes de ces idées, les an
   </div>
   <div class="schedule_desc">
   <h3>Partitionnement automatique avec PostgreSQL</h3>
-  <p>Par <a href="orateurs#cedric_villemain" class="pg_speaker_name">Cédric VILLEMAIN</a> - Data Bene</p>
+  <p>Par <a href="orateurs#cedric_villemain" class="pg_speaker_name">Cédric Villemain</a> - Data Bene</p>
   <p>
 PostgreSQL fournit désormais un ensemble de fonctionnalités pour mettre en place,
 utiliser et profiter des optimisations des tables partitionnées.
