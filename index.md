@@ -2,9 +2,11 @@
 title: Accueil
 ---
 
+<!--
 <center>
 <img src="img/header.png" alt="" class="img-responsive"/>
 </center>
+-->
 
 # Le rendez-vous annuel de la communauté PostgreSQL !
 
@@ -14,7 +16,7 @@ title: Accueil
 > développeurs, chefs de projets, décideurs, etc
 
 
-**L'édition 2021 se tiendra le 16-17 juin à Nantes**
+**L'édition 2022 se tiendra le 22-23 juin à Montpellier**
 
 <!-- <a href='/appel'>l'appel à orateur est ouvert</a> !-->
 

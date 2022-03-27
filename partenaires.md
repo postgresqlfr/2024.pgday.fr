@@ -16,7 +16,6 @@ pour leur aide et leur présence à nos cotés.
           <img src="img/capdata.png" alt="CapData">
         </a>
       </div>
--->
 
 <div class="col-xs-12 col-md-6">
 <a href="https://www.cybertec-postgresql.com/en/" class="thumbnail">
@@ -50,12 +49,14 @@ pour leur aide et leur présence à nos cotés.
 
 </div>
 
+-->
+
 </div>
 
 ### Nos partenaires SILVER
 
 <div class="container">
-
+<!--
 <div class="col-xs-12 col-md-6">
 <a href="https://www.umanit.fr/" class="thumbnail">
 <img src="img/umanit.png" alt="UMANIT">
@@ -104,8 +105,8 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
+-->
 
-<!--
 <h3>
   Devenez partenaires du PGDay France
 </h3>
@@ -188,11 +189,10 @@ pour leur aide et leur présence à nos cotés.
 
 <ul>
   <li>
-    <a href="https://postgresqlfr.gitlab.io/contrats/2019.pgday.fr/pgdayfrance_2019_sponsorship_contract_v9_french.pdf">Contrat (FR)</a>
+    <a href="https://postgresqlfr.gitlab.io/contrats/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v11_french.pdf">Contrat (FR)</a>
   </li>
   <li>
-    <a href="https://postgresqlfr.gitlab.io/contrats/2019.pgday.fr/pgdayfrance_2019_sponsorship_contract_v9.pdf">Contrat (EN)</a>
+    <a href="https://postgresqlfr.gitlab.io/contrats/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v11.pdf">Contract (EN)</a>
   </li>
 </ul>
 
--->
