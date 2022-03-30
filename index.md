@@ -16,7 +16,7 @@ title: Accueil
 > développeurs, chefs de projets, décideurs, etc
 
 
-**L'édition 2022 se tiendra le 22-23 juin à Montpellier**
+**L'édition 2022 se tiendra le 21-22 juin à Montpellier**
 
 <!-- <a href='/appel'>l'appel à orateur est ouvert</a> !-->
 
