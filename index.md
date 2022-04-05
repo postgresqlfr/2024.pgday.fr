@@ -13,37 +13,35 @@ title: Accueil
 > les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
 > développeurs, chefs de projets, décideurs, etc
 
-
+<center>
 **L'édition 2022 se tiendra le 21-22 juin à Montpellier**
 
-### <a href='/appel'>l'appel à orateur est ouvert</a>
+**<a href='/appel'>l'appel à orateur est ouvert</a>**
+</center>
 
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://www.eventbrite.fr/e/billets-pg-day-france-2021-59197191393" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-59197191393" type="button">Acheter des billets</button>
-<noscript></a>Buy Tickets on Eventbrite</noscript>
+<!-- Contenu Noscript pour un référencement supplémentaire -->
+<noscript><a href="https://www.eventbrite.fr/e/billets-pg-day-france-2022-314876362677" rel="noopener noreferrer" target="_blank">Acheter des billets sur Eventbrite</a></noscript>
+<!-- Vous pouvez personnaliser ce bouton selon vos souhaits -->
+<button id="eventbrite-widget-modal-trigger-314876362677" type="button">Acheter des billets</button>
 
 <script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
-        console.log('Order complete!');
+        console.log('Commande terminée !');
     };
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '59197191393',
+        eventId: '314876362677',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-59197191393',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-314876362677',
         onOrderComplete: exampleCallback
     });
 </script>
 
-<!--
 Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
--->
 
 <!--
 
