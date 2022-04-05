@@ -14,15 +14,14 @@ title: Accueil
 > développeurs, chefs de projets, décideurs, etc
 
 <center>
-**L'édition 2022 se tiendra le 21-22 juin à Montpellier**
 
-**<a href='/appel'>l'appel à orateur est ouvert</a>**
+<h2>L'édition 2022 se tiendra le 21-22 juin à Montpellier</h2>
+
+<h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>
 </center>
 
-<!-- Contenu Noscript pour un référencement supplémentaire -->
-<noscript><a href="https://www.eventbrite.fr/e/billets-pg-day-france-2022-314876362677" rel="noopener noreferrer" target="_blank">Acheter des billets sur Eventbrite</a></noscript>
-<!-- Vous pouvez personnaliser ce bouton selon vos souhaits -->
-<button id="eventbrite-widget-modal-trigger-314876362677" type="button">Acheter des billets</button>
+
+<div id="eventbrite-widget-container-314876362677"></div>
 
 <script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
 
@@ -32,11 +31,14 @@ title: Accueil
     };
 
     window.EBWidgets.createWidget({
+        // Required
         widgetType: 'checkout',
         eventId: '314876362677',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-314876362677',
-        onOrderComplete: exampleCallback
+        iframeContainerId: 'eventbrite-widget-container-314876362677',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
 
