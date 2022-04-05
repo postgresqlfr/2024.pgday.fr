@@ -35,13 +35,13 @@ Alors, n'hésitez pas à proposer une présentation !
 
 Pour l’édition 2022, les thèmes particulièrement mis en lumière sont les suivants :
 
-* Big Data ;
-* Data Mining / Exploration de Données ;
-* Études de cas / témoignages ;
-* Administration de bases volumineuses ;
-* Industrialisation (tests de performances, matériel, déploiements, etc.) ;
-* Entrepôts de données et systèmes décisionnels ;
-* Systèmes d'Information Géographiques.
+  * Big Data ;
+  * Data Mining / Exploration de Données ;
+  * Études de cas / témoignages ;
+  * Administration de bases volumineuses ;
+  * Industrialisation (tests de performances, matériel, déploiements, etc.) ;
+  * Entrepôts de données et systèmes décisionnels ;
+  * Systèmes d'Information Géographiques.
 
 Cette liste n'est pas exhaustive. Il est possible de proposer d'autres sujets liés à PostgreSQL.
 
@@ -49,17 +49,17 @@ La conférence PG Day France est à destination des professionnels, notamment le
 
 Pour soumettre une intervention, il vous suffit d'envoyer un e-mail à l'adresse contact@pgday.fr, en précisant les éléments suivants :
 
-* vos nom et prénom ;
-* votre société/employeur ;
-* une bio succincte (300 caractères max.) ;
-* votre compte twitter (optionnel) ;
-* le titre de votre intervention ;
-* la durée de votre intervention (30 ou 45 minutes, questions comprises) ;
-* une description courte (200 caractères max.) ;
-* une description longue (700 caractères max.) ;
-* une photo (200×200 pixels minimum).
+  * vos nom et prénom ;
+  * votre société/employeur ;
+  * une bio succincte (300 caractères max.) ;
+  * votre compte twitter (optionnel) ;
+  * le titre de votre intervention ;
+  * la durée de votre intervention (30 ou 45 minutes, questions comprises) ;
+  * une description courte (200 caractères max.) ;
+  * une description longue (700 caractères max.) ;
+  * une photo (200×200 pixels minimum).
 
-Les présentations devront être **en français** et disponibles sous licence libre. Les interventions pourront faire l'objet d'une captation audio/vidéo et d'une diffusion en direct ou en différé sur internet. Les présentations devront être transmises à l'équipe d'organisation quelques jours avant la conférence et dans un format standard ( PDF, HTML, etc. ).
+Les présentations devront être **en français** et disponibles sous licence libre. Les interventions pourront faire l'objet d'une captation audio/vidéo et d'une diffusion en direct ou en différé sur internet. Les présentations devront être transmises à l'équipe organisatrice quelques jours avant la conférence et dans un format standard ( PDF, HTML, etc. ).
 
 La date limite de réception des propositions est fixée au 21 avril 2022 à 23h59 CEST.
 
@@ -70,7 +70,5 @@ Le comité de sélection est composé de : Stefan Fercot (EDB), Maxime Longuet (
 Les orateurs sélectionnés seront avertis par e-mail avant le 28 avril 2022.
 
 Pour toute question à propos de cet appel à orateurs et du PG Day France en général, vous pouvez envoyer un message à l'adresse : contact@pgday.fr.
-
-
 
 
