@@ -2,11 +2,9 @@
 title: Accueil
 ---
 
-<!--
 <center>
-<img src="img/header.png" alt="" class="img-responsive"/>
+<img src="img/montpellier.jpg" alt="" class="img-responsive"/>
 </center>
--->
 
 # Le rendez-vous annuel de la communauté PostgreSQL !
 
@@ -18,7 +16,7 @@ title: Accueil
 
 **L'édition 2022 se tiendra le 21-22 juin à Montpellier**
 
-<!-- <a href='/appel'>l'appel à orateur est ouvert</a> !-->
+### <a href='/appel'>l'appel à orateur est ouvert</a>
 
 <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.fr/e/billets-pg-day-france-2021-59197191393" rel="noopener noreferrer" target="_blank"></noscript>
