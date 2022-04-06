@@ -29,15 +29,30 @@ title: Inscription
 
 -->
 
-<!-- OUVERT
+<!-- OUVERT -->
 <div class="col-md-8 col-md-offset-2 section-colored text-center">
+<div id="eventbrite-widget-container-314876362677"></div>
 
-<div style="width:100%; text-align:left;">
-<iframe src="https://eventbrite.fr/tickets-external?eid=59197191393&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Commande terminée !');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '314876362677',
+        iframeContainerId: 'eventbrite-widget-container-314876362677',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 </div>
 
-</div>
--->
 
 
 </div> <!-- fin de row -->

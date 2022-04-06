@@ -44,9 +44,7 @@
             <!--
             <li><a href="videos">Vidéos</a></li>
             -->
-            <!--
             <li><a href="inscription">Inscrivez-vous !</a></li>
-            -->
             <li><a href="appel">Appel à Orateurs</a></li>
             <li><a href="contribuer">Participez !</a></li>
             <!-- <li><a href="codedeconduite">CoC</a></li> -->
@@ -55,6 +53,25 @@
             <!--<li><a href="contact">Contact</a></li>-->
             <li><a href="apropos">A propos</a></li>
           </ul>
+<!-- Vous pouvez personnaliser ce bouton selon vos souhaits -->
+<button id="eventbrite-widget-modal-trigger-314876362677" type="button">Acheter des billets</button>
+
+<script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Commande terminée !');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '314876362677',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-314876362677',
+        onOrderComplete: exampleCallback
+    });
+</script>
+
         </div>
       </div>
     </nav>
