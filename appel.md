@@ -60,7 +60,7 @@ Pour soumettre une intervention, il vous suffit d'envoyer un e-mail à l'adresse
   * une description longue (700 caractères max.) ;
   * une photo (200×200 pixels minimum).
 
-Les présentations devront être **en français** et disponibles sous licence libre. Les interventions pourront faire l'objet d'une captation audio/vidéo et d'une diffusion en direct ou en différé sur internet. Les présentations devront être transmises à l'équipe organisatrice quelques jours avant la conférence et dans un format standard ( PDF, HTML, etc. ).
+Les présentations devront être **en français** et disponibles sous licence libre. Les interventions pourront faire l'objet d'une captation audio/vidéo et d'une diffusion en direct ou en différé sur internet. Les présentations devront être transmises à l'équipe organisatrice au plus tard le jour J et dans un format standard ( PDF, HTML, etc. ).
 
 La date limite de réception des propositions est fixée au 29 avril 2022 à 23h59 CEST.
 
