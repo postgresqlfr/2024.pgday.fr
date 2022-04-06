@@ -107,9 +107,9 @@ pour leur aide et leur présence à nos cotés.
 
 -->
 
-<h3>
-  Devenez partenaires du PGDay France
-</h3>
+##  Devenez partenaires du PGDay France
+
+**IMPORTANT**: Cette année le nombre de partenaires GOLD est limité à 4.
 
 <div class="table-responsive">
 <table class="table">
@@ -185,14 +185,8 @@ pour leur aide et leur présence à nos cotés.
 </table>
 </div>
 
-<br>
+## Liens
 
-<ul>
-  <li>
-    <a href="https://postgresqlfr.gitlab.io/contrats/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v11_french.pdf">Contrat (FR)</a>
-  </li>
-  <li>
-    <a href="https://postgresqlfr.gitlab.io/contrats/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v11.pdf">Contract (EN)</a>
-  </li>
-</ul>
+* [Contrat (FR)](https://github.com/postgresqlfr/contrats/raw/master/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12_french.pdf)
+* [Contact (EN)](https://github.com/postgresqlfr/contrats/raw/master/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12.pdf)
 
