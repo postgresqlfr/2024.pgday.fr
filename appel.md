@@ -18,6 +18,7 @@ La date limite de réception des propositions a été repoussée au 2 mars 2018 
 
 ## Appel à Oratrices et Orateurs
 
+![](img/audience.jpg)
 
 Le PG Day France est la conférence annuelle de la communauté francophone de PostgreSQL.
 
