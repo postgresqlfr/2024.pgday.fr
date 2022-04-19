@@ -107,6 +107,8 @@ pour leur aide et leur présence à nos cotés.
 
 -->
 
+</div>
+
 ##  Devenez partenaires du PGDay France
 
 **IMPORTANT**: Cette année le nombre de partenaires GOLD est limité à 4.
