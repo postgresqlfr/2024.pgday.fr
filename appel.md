@@ -66,7 +66,7 @@ La date limite de réception des propositions est fixée au 29 avril 2022 à 23h
 
 Le comité de sélection étudiera toutes les propositions valides. Le choix des interventions sera basé sur la présentation de la soumission, son intérêt pour une audience professionnelle, ainsi que la cohérence du programme de la journée. La décision du comité de sélection sera finale et sans appel.
 
-Le comité de sélection est composé de : Stefan Fercot (EDB), Maxime Longuet (Itika), Laura Ricci (Dalibo) et Stéphane Tachoires (Air France).
+Le comité de sélection est composé de : Stefan Fercot (EDB), Maxime Longuet (Itika), Laura Ricci (Dalibo), Jean-Marie Arsac (Azimut) et Stéphane Tachoires (Air France).
 
 Les orateurs sélectionnés seront avertis par e-mail avant le 6 mai 2022.
 
