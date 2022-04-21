@@ -14,7 +14,7 @@ décideurs, etc... suivant les valeurs énoncées dans le Code De Conduite.
 
 Il se tient depuis 2008 et chaque édition à lieu dans une ville différente, avec
 pour ambition de faire naître ou faire grandir une communauté locale. Les précédentes
-éditions ont eu lieu à Toulouse, Lille, Toulon, Marseilles, Lyon.
+éditions ont eu lieu à Toulouse, Lille, Toulon, Marseille, Lyon.
 
 ## Contact
 
@@ -41,15 +41,15 @@ L'organisation d'une journée de conférence ne serait pas possible sans le sout
 des sponsors ou la vente des billets. Si les recettes de l'événement sont
 excédentaires, les bénéfices seront reversés à l'association PostgreSQLFr.
 
-Cette association a but non lucratif vise à la promotion de PostgreSQL dans
+Cette association à but non lucratif vise à la promotion de PostgreSQL dans
 les pays francophones. Aucun conférencier n'est rémunéré pour sa présentation,
 même si ses frais de déplacement peuvent dans certains cas lui être remboursés.
 
-L'équipe organisatrice est quand à elle entièrement constituée de bénévoles.
+L'équipe organisatrice est quant à elle entièrement constituée de bénévoles.
 
 ### Comité de sélection
 
-Le comité de sélection est composé des personnes suivantes :<p>
+Le comité de sélection est composé des personnes suivantes :
 
 * Anaïs Oberto (CNRS)
 * Stefan Fercot (EDB)
