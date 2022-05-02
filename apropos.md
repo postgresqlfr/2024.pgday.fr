@@ -49,12 +49,13 @@ L'équipe organisatrice est quand à elle entièrement constituée de bénévole
 
 ### Comité de sélection
 
-Le comité de sélection est composé des personnes suivantes :<p>
+Le comité de sélection 2022 est composé des personnes suivantes :<p>
 
-* Anaïs Oberto (CNRS)
 * Stefan Fercot (EDB)
-* Jean-Maris Arsac (Azimut)
-* Sébastien Lardière (Loxoxdata)
+* Maxime Longuet (Itika)
+* Laura Ricci (Dalibo)
+* Jean-Marie Arsac (Azimut)
+* Stéphane Tachoires (Air France)
 
 
 
