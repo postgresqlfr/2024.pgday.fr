@@ -3,9 +3,9 @@ title: 'Appel à Orateurs'
 ---
 
 
-<!--
+
 <b>L'Appel à Orateurs est clos</b>
--->
+
 
 <!--
 <h3><b>Prolongation Date limite des propositions.</b></h3>
@@ -15,6 +15,7 @@ La date limite de réception des propositions a été repoussée au 2 mars 2018 
 -->
 
 
+<!--
 
 ## Appel à Oratrices et Orateurs
 
@@ -71,5 +72,6 @@ Le comité de sélection est composé de : Stefan Fercot (EDB), Maxime Longuet (
 Les orateurs sélectionnés seront avertis par e-mail avant le 6 mai 2022.
 
 Pour toute question à propos de cet appel à orateurs et du PG Day France en général, vous pouvez envoyer un message à l'adresse : [contact@pgday.fr](mailto:contact@pgday.fr).
+-->
 
 
