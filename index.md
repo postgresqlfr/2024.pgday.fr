@@ -17,7 +17,10 @@ title: Accueil
 
 <h2>L'édition 2022 se tiendra le 21-22 juin à Montpellier</h2>
 
+<!--
 <h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>
+-->
+
 </center>
 
 

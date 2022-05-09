@@ -3,9 +3,9 @@ title: 'Appel à Orateurs'
 ---
 
 
-<!--
+
 <b>L'Appel à Orateurs est clos</b>
--->
+
 
 <!--
 <h3><b>Prolongation Date limite des propositions.</b></h3>
@@ -15,6 +15,7 @@ La date limite de réception des propositions a été repoussée au 2 mars 2018 
 -->
 
 
+<!--
 
 ## Appel à Oratrices et Orateurs
 
@@ -26,7 +27,7 @@ Cette année, l’événement aura lieu les 21 et 22 juin à Montpellier. En rai
 sanitaire, nous pourrions être amenés à adapter le format de la conférence. Mais bien sûr nous vous tiendrons informés
 régulièrement.
 
-Retrouvez plus d'informations sur le site de l’événement : https://www.pgday.fr
+Retrouvez plus d'informations sur le site de l’événement : [https://www.pgday.fr](https://www.pgday.fr)
 
 Vous êtes expert.e sur un domaine lié aux bases de données libres ? \\
 Vous avez utilisé PostgreSQL dans un contexte spécifique (gros volumes, forte charge, client reconnu, projet innovant, etc.) ? \\
@@ -48,7 +49,7 @@ Cette liste n'est pas exhaustive. Il est possible de proposer d'autres sujets li
 
 La conférence PG Day France est à destination des professionnels, notamment les directeurs informatiques, les décideurs, les chefs de projets, les administrateurs de bases de données, les développeurs, les administrateurs systèmes et toutes les personnes travaillant avec un système de gestion de bases de données.
 
-Pour soumettre une intervention, il vous suffit d'envoyer un e-mail à l'adresse contact@pgday.fr, en précisant les éléments suivants :
+Pour soumettre une intervention, il vous suffit d'envoyer un e-mail à l'adresse [contact@pgday.fr](mailto:contact@pgday.fr), en précisant les éléments suivants :
 
   * vos nom et prénom ;
   * votre société/employeur ;
@@ -70,6 +71,7 @@ Le comité de sélection est composé de : Stefan Fercot (EDB), Maxime Longuet (
 
 Les orateurs sélectionnés seront avertis par e-mail avant le 6 mai 2022.
 
-Pour toute question à propos de cet appel à orateurs et du PG Day France en général, vous pouvez envoyer un message à l'adresse : contact@pgday.fr.
+Pour toute question à propos de cet appel à orateurs et du PG Day France en général, vous pouvez envoyer un message à l'adresse : [contact@pgday.fr](mailto:contact@pgday.fr).
+-->
 
 
