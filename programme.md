@@ -40,7 +40,7 @@ title: Programme
   <h3>Qui a besoin de RAC ?</h3>
   <p>Par <a href="orateurs#karen_jex" class="pg_speaker_name">Karen Jex</a> - CRUNCHY DATA</p>
   <p>
-  
+  Malgré son prix et sa complexité, Oracle RAC est souvent utilisé en réponse à des besoins de haute disponibilité/scalabilité. PostgreSQL n’a pas d’équivalent, mais est-ce qu’on en a vraiment besoin?
   </p>
   <!--
   <p>
@@ -67,7 +67,7 @@ title: Programme
   <h3>Migration vers PostgreSQL : mener de gros volumes de données à bon port (5432)</h3>
   <p>Par <a href="orateurs#philippe_beaudoin" class="pg_speaker_name">Philippe Beaudoin</a> - DALIBO</p>
   <p>
-  
+  Cette conférence présente une méthodologie et des techniques permettant de migrer de gros volumes de données vers PostgreSQL, le tout illustré avec l’outil Data2Pg.
   </p>
   <!--
   <p>
@@ -145,7 +145,7 @@ title: Programme
   <h3>Instrumenter PostgreSQL avec Prometheus</h3>
   <p>Par <a href="orateurs#julien_acroute" class="pg_speaker_name">Julien Acroute</a> - CAMP TO CAMP</p>
   <p>
-  ....
+  Comment instrumenter un cluster PostgreSQL avec Prometheus et Grafana afin de récupérer des métriques sur le cluster, les bases, les tables et les requêtes.
   </p>
   <!--
   <p>
@@ -181,7 +181,7 @@ title: Programme
   <h3>TDE: une autre approche via la création d'un nouveau type de données</h3>
   <p>Par <a href="orateurs#frederic_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - DATA BENE</p>
   <p>
-  ....
+  Pour le compte d'un client, nous avons réalisé une preuve de concept pour offrir un mécanisme de transparent data encryption via la création d'un nouveau type de données chiffrées.
   </p>
   <!--
   <p>
@@ -207,7 +207,7 @@ title: Programme
   <h3>Automatisation d'une mise à jour éléphantesque</h3>
   <p>Par <a href="orateurs#julien_riou" class="pg_speaker_name">Julien Riou</a> - OVH Cloud</p>
   <p>
-  ....
+  Faire le grand écart entre PostgreSQL 9.6 et 14 sur l'une des infrastructures les plus critiques d'OVHcloud en un clic. Un pari osé mais riche en expériences.
   </p>
   <!--
   <p>
@@ -245,7 +245,7 @@ title: Programme
   <h3>Comment mettre un éléphant sur un porte-conteneur en 3 mouvements?</h3>
   <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Laetitia Avrot</a> - EDB</p>
   <p>
-...
+  Postgres peut tourner sur des conteneurs, tout le monde le sait, mais est-ce souhaitable?  Comme toujours en consulting, la réponse est: "ça dépend."
   </p>
   <!--
   <p>
@@ -269,9 +269,10 @@ title: Programme
   </div>
   <div class="schedule_desc">
   <h3>Intégrer la communauté PostgreSQL</h3>
-  <p>Par <a href="orateurs#rigoudy_perik" class="pg_speaker_name">Rigoudy Perik</a> - Etudiant</p>
+  <p>Par <a href="orateurs#rigoudy_perik" class="pg_speaker_name">Rigoudy Perik</a> - Etudiant
+  </p>
   <p>
-  
+  Storytelling sur mon arrivée par hasard au sein de la communauté PostgreSQL. Quelles opportunités, en tant qu’étudiant en master, m’ont permis d’y accéder ? Comment donner la chance à d’autres étudiants de l’intégrer à leur tour.
   </p>
   <!--
   <p>
@@ -307,6 +308,7 @@ title: Programme
   <h3>Protéger les données avec PostgreSQL Anonymizer</h3>
   <p>Par <a href="orateurs#damien_clochard" class="pg_speaker_name">Damien Clochard</a> - DALIBOO </p>
   <p>
+  4 ans après la mise en route du RGPD, l'application du principe "privacy by design" reste un casse-tête... Comment intégrer des règles de protection des données dès la conception d'une application ? Avec un exemple concret, nous verrons comment l'extension PostgreSQL Anonymizer permet de déclarer une politique de masquage directement dans le modèle de données d'une application. 
   </p>
   <!--
   <p>
