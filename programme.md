@@ -40,7 +40,7 @@ title: Programme
   <h3>Qui a besoin de RAC ?</h3>
   <p>Par <a href="orateurs#karen_jex" class="pg_speaker_name">Karen Jex</a> - CRUNCHY DATA</p>
   <p>
-  Malgré son prix et sa complexité, Oracle RAC est souvent utilisé en réponse à des besoins de haute disponibilité/scalabilité. PostgreSQL n’a pas d’équivalent, mais est-ce qu’on en a vraiment besoin?
+  Malgré son prix et sa complexité, Oracle RAC est souvent utilisé en réponse à des besoins de haute disponibilité/scalabilité. PostgreSQL n’a pas d’équivalent, mais est-ce qu’on en a vraiment besoin ?
   </p>
   <!--
   <p>
@@ -106,14 +106,14 @@ title: Programme
 
 ## Mardi 21 juin 2021
 
-**Grande soirée communautaire ouvert à tous et inclus dans le prix de votre billet.**
+**Grande soirée communautaire ouverte à tous et incluse dans le prix de votre billet.**
 
 
 <div class="schedule_bloc">
   <div class="schedule_time">19h00 - 23h00</div>
   <div class="schedule_desc">
   <h3>Ouverture des portes</h3>
-  A 2 pas des plage de Carnon et au bord du port de plaisance tout les participants, sponsors, speaker se retrouve pour une grande soirée de rencontre et de partage autour d'un apéritif dinatoire.
+  A 2 pas des plages de Carnon et au bord du port de plaisance, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.
   </div>
 </div>
 
@@ -139,7 +139,7 @@ title: Programme
 <div class="schedule_bloc">
   <div class="schedule_time">09h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/v_graillot.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/j_acroute.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Instrumenter PostgreSQL avec Prometheus</h3>
@@ -242,8 +242,8 @@ title: Programme
   <img src="img/orateurs/l_avrot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Comment mettre un éléphant sur un porte-conteneur en 3 mouvements?</h3>
-  <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Laetitia Avrot</a> - EDB</p>
+  <h3>Comment mettre un éléphant sur un porte-conteneur en 3 mouvements ?</h3>
+  <p>Par <a href="orateurs#laetitia_avrot" class="pg_speaker_name">Laetitia Avrot</a> - EDB</p>
   <p>
   Postgres peut tourner sur des conteneurs, tout le monde le sait, mais est-ce souhaitable?  Comme toujours en consulting, la réponse est: "ça dépend."
   </p>
@@ -265,7 +265,7 @@ title: Programme
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/g_gonnord.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/r_perik.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Intégrer la communauté PostgreSQL</h3>
@@ -335,7 +335,7 @@ title: Programme
   <h3>Lightning Talk</h3>
   
   <p>
-    Une série de lightning talk de 5 min. Chaque participant au pgdays peut prendre le sujet de son choix (Technique ou non..) et le déroulé en 5min top chrono ! :)
+    Une série de lightning talks de 5 minutes. Chaque participant au PG Day peut choisir le sujet de son choix (technique ou non) et le présenter en 5 minutes top chrono ! :)
     Envoyez vos propositions à <a href="mailto:contact@pgday.fr">contact@pgday.fr</a>
   </p>
   </div>
