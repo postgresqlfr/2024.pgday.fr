@@ -30,24 +30,57 @@ title: Programme
   </div>
 </div>
 
+
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
+  <div class="schedule_speaker">
+  <img src="img/orateurs/k_jex.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Karen Jex</h3>
-  ...
+  <h3>Qui a besoin de RAC ?</h3>
+  <p>Par <a href="orateurs#karen_jex" class="pg_speaker_name">Karen Jex</a> - CRUNCHY DATA</p>
+  <p>
+  
+  </p>
+  <!--
+  <p>
+  <a href="#">
+  <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
+  </a>
+  </p>
+  <p>
+  <a href="#">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
+  </a>
+  </p>
+  -->
   </div>
 </div>
 
+
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
+  <div class="schedule_speaker">
+  <img src="img/orateurs/p_beaudoin.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Philippe Beaudoin</h3>
+  <h3>Migration vers PostgreSQL : mener de gros volumes de données à bon port (5432)</h3>
+  <p>Par <a href="orateurs#philippe_beaudoin" class="pg_speaker_name">Philippe Beaudoin</a> - DALIBO</p>
+  <p>
+  
+  </p>
+  <!--
+  <p>
+  <a href="#">
+  <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
+  </a>
+  </p>
+  <p>
+  <a href="#">
+  <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
+  </a>
+  </p>
+  -->
   </div>
 </div>
 
@@ -99,13 +132,6 @@ title: Programme
   <div class="schedule_time">09h30</div>
   <div class="schedule_break"></div>
   <div class="schedule_desc">
-  <h3>Bienvenue</h3>
-  </div>
-</div>
-
-<div class="schedule_bloc">
-  <div class="schedule_time">09h30</div>
-  <div class="schedule_desc">
   <h3>Mot d'accueil</h3>
   </div>
 </div>
@@ -116,8 +142,8 @@ title: Programme
   <img src="img/orateurs/v_graillot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Titre conf</h3>
-  <p>Par <a href="orateurs#julien_acroute" class="pg_speaker_name">Julien Acroute</a> - societe</p>
+  <h3>Instrumenter PostgreSQL avec Prometheus</h3>
+  <p>Par <a href="orateurs#julien_acroute" class="pg_speaker_name">Julien Acroute</a> - CAMP TO CAMP</p>
   <p>
   ....
   </p>
@@ -152,8 +178,8 @@ title: Programme
   <img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Titre conf</h3>
-  <p>Par <a href="orateurs#frederic_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - societe</p>
+  <h3>TDE: une autre approche via la création d'un nouveau type de données</h3>
+  <p>Par <a href="orateurs#frederic_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - DATA BENE</p>
   <p>
   ....
   </p>
@@ -178,8 +204,8 @@ title: Programme
   <img src="img/orateurs/j_riou.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Titre conf</h3>
-  <p>Par <a href="orateurs#julien_riou" class="pg_speaker_name">Julien Riou</a> - societe</p>
+  <h3>Automatisation d'une mise à jour éléphantesque</h3>
+  <p>Par <a href="orateurs#julien_riou" class="pg_speaker_name">Julien Riou</a> - OVH Cloud</p>
   <p>
   ....
   </p>
@@ -216,8 +242,8 @@ title: Programme
   <img src="img/orateurs/l_avrot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Titre conf</h3>
-  <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Laetitia Avrot</a> - </p>
+  <h3>Comment mettre un éléphant sur un porte-conteneur en 3 mouvements?</h3>
+  <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Laetitia Avrot</a> - EDB</p>
   <p>
 ...
   </p>
@@ -242,8 +268,8 @@ title: Programme
   <img src="img/orateurs/g_gonnord.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Titre</h3>
-  <p>Par <a href="orateurs#rigoudy_perik" class="pg_speaker_name">Rigoudy Perik</a> - </p>
+  <h3>Intégrer la communauté PostgreSQL</h3>
+  <p>Par <a href="orateurs#rigoudy_perik" class="pg_speaker_name">Rigoudy Perik</a> - Etudiant</p>
   <p>
   
   </p>
@@ -278,7 +304,7 @@ title: Programme
   <img src="img/orateurs/d_clochard.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Titre</h3>
+  <h3>Protéger les données avec PostgreSQL Anonymizer</h3>
   <p>Par <a href="orateurs#damien_clochard" class="pg_speaker_name">Damien Clochard</a> - DALIBOO </p>
   <p>
   </p>
