@@ -10,16 +10,10 @@ pour leur aide et leur présence à nos cotés.
 
 <div class="container">
 
-<!--
-<div class="col-xs-12 col-md-6">
-<a href="https://capdata.fr/" class="thumbnail">
-          <img src="img/capdata.png" alt="CapData">
-        </a>
-      </div>
 
 <div class="col-xs-12 col-md-6">
-<a href="https://www.cybertec-postgresql.com/en/" class="thumbnail">
-<img src="img/cybertec.png" alt="Cybertec">
+<a href="https://www.crunchydata.com/" class="thumbnail">
+<img src="img/crunchy.jpg" alt="Crunchy Data">
 </a>
 </div>
 
@@ -35,28 +29,14 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
-<div class="col-xs-12 col-md-6">
-<a href="https://codelutin.com" class="thumbnail">
-<img src="img/codelutin.png" alt="Code Lutin">
-</a>
 </div>
 
-  <div class="col-xs-12 col-md-6">
-<a href="https://www.societegenerale.com/" class="thumbnail">
-<img src="img/societe-generale.png" alt="Société Générale">
-</a>
-</div>
 
-</div>
 
--->
-
-</div>
-
+<!--
 ### Nos partenaires SILVER
 
 <div class="container">
-<!--
 <div class="col-xs-12 col-md-6">
 <a href="https://www.umanit.fr/" class="thumbnail">
 <img src="img/umanit.png" alt="UMANIT">
@@ -64,6 +44,7 @@ pour leur aide et leur présence à nos cotés.
 </div>
 
 </div>
+-->
 
 ### Nos partenaires BRONZE
 
@@ -76,39 +57,23 @@ pour leur aide et leur présence à nos cotés.
 </div>
 
 <div class="col-xs-12 col-md-6">
-<a href="https://www.aukfood.fr/" class="thumbnail">
-<img src="img/aukfood.jpg" alt="Aukfood">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
-<a href="https://www.setra-conseil.com/" class="thumbnail">
-<img src="img/setra.png" alt="Setra Conseil" class="pg_sponsor">
-</a>
-</div>
-
-<div class="col-xs-12 col-md-6">
 <a href="http://oslandia.com" class="thumbnail">
 <img src="img/oslandia.png" alt="Oslandia">
 </a>
 </div>
 
+
 <div class="col-xs-12 col-md-6">
-<a href="http://www.logilab.fr" class="thumbnail">
-<img src="img/logilab.png" alt="Logilab">
+<a href="https://www.umanit.fr/" class="thumbnail">
+<img src="img/umanit.png" alt="UMANIT">
 </a>
 </div>
 
-<div class="col-xs-12 col-md-6">
-<a href="https://data-bene.io" class="thumbnail">
-<img src="img/databene.png" alt="Data Bene">
-</a>
-</div>
 
--->
 
 </div>
 
+<!--
 ##  Devenez partenaires du PGDay France
 
 **IMPORTANT**: Cette année le nombre de partenaires GOLD est limité à 4.
@@ -192,3 +157,5 @@ pour leur aide et leur présence à nos cotés.
 * [Contrat (FR)](https://github.com/postgresqlfr/contrats/raw/master/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12_french.pdf)
 * [Contact (EN)](https://github.com/postgresqlfr/contrats/raw/master/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12.pdf)
 
+
+-->
