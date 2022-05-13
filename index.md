@@ -1,5 +1,6 @@
 ---
 title: Accueil
+layout: default
 ---
 
 <center>
@@ -21,8 +22,15 @@ title: Accueil
 <h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>
 -->
 
+
 </center>
 
+<div class='row'>
+<div class='col-md-6 col-md-offset-3 col-xs-12'>
+<a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme conférences 2022 </a>
+</div>
+</div>
+ 
 
 <div id="eventbrite-widget-container-314876362677"></div>
 
