@@ -3,18 +3,14 @@ title: Programme
 layout: default
 ---
 
-
-
 # Programme
 
-## Mardi 21 juin 2021 - 14h
-
+## Mardi 21 juin 2022
 
 <div class="schedule_bloc">
-  <div class="schedule_time">14h00
-  </div>
+  <div class="schedule_time">14h00</div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
   <h3>Ouverture des portes</h3>
@@ -30,7 +26,6 @@ layout: default
   <h3>Mot d'accueil</h3>
   </div>
 </div>
-
 
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
@@ -57,7 +52,6 @@ layout: default
   -->
   </div>
 </div>
-
 
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
@@ -88,10 +82,10 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
+  <img src="img/pause.png" alt="Tasse" />
   </div>
   <div class="schedule_desc">
-  <h3>Pause café</h3>
+  <h3>Pause</h3>
   </div>
 </div>
 
@@ -105,12 +99,24 @@ layout: default
   </div>
 </div>
 
-## Grande soirée communautaire - 19h
+<div class="schedule_bloc">
+  <div class="schedule_time">17h30</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Mot de clôture</h3>
+  </div>
+</div>
 
 
+## Grande soirée communautaire
 
 <div class="schedule_bloc">
-  <div class="schedule_time">19h00 - 23h00</div>
+  <div class="schedule_time">19h30 - 23h00</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
+  </div>
   <div class="schedule_desc">
   <h3>Grande soirée communautaire ouverte à tous et incluse dans le prix de votre billet.</h3>
   A 2 pas des plages de Carnon et au bord du port de plaisance, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.
@@ -118,11 +124,13 @@ layout: default
 </div>
 
 
-## Mercredi 22 juin 2021 - 9h - 17h
-
+## Mercredi 22 juin 2022
 
 <div class="schedule_bloc">
   <div class="schedule_time">09h00</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+  </div>
   <div class="schedule_desc">
   <h3>Ouverture des portes</h3>
   </div>
@@ -130,7 +138,9 @@ layout: default
 
 <div class="schedule_bloc">
   <div class="schedule_time">09h30</div>
-  <div class="schedule_break"></div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
   <div class="schedule_desc">
   <h3>Mot d'accueil</h3>
   </div>
@@ -160,7 +170,6 @@ layout: default
   -->
   </div>
 </div>
-
 
 <div class="schedule_bloc">
   <div class="schedule_time">10h30</div>
@@ -197,7 +206,6 @@ layout: default
   </div>
 </div>
 
-
 <div class="schedule_bloc">
   <div class="schedule_time">11h30</div>
   <div class="schedule_speaker">
@@ -223,8 +231,6 @@ layout: default
   </div>
 </div>
 
-
-
 <div class="schedule_bloc">
   <div class="schedule_time">12h15</div>
   <div class="schedule_break">
@@ -234,7 +240,6 @@ layout: default
   <h3>Repas</h3>
   </div>
 </div>
-
 
 <div class="schedule_bloc">
   <div class="schedule_time">14h00</div>
@@ -260,7 +265,6 @@ layout: default
   -->
   </div>
 </div>
-
 
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
@@ -325,7 +329,6 @@ layout: default
   </div>
 </div>
 
-
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
   <div class="schedule_break">
@@ -333,7 +336,6 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Lightning Talk</h3>
-  
   <p>
     Une série de lightning talks de 5 minutes. Chaque participant au PG Day peut choisir le sujet de son choix (technique ou non) et le présenter en 5 minutes top chrono ! :)
     Envoyez vos propositions à <a href="mailto:contact@pgday.fr">contact@pgday.fr</a>
@@ -343,7 +345,17 @@ layout: default
 
 <div class="schedule_bloc">
   <div class="schedule_time">17h15</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
   <div class="schedule_desc">
-  <h3>Closing</h3>
+  <h3>Mot de clôture</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">17h30</div>
+  <div class="schedule_desc">
+  <h3>FIN</h3>
   </div>
 </div>
