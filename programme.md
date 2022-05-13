@@ -1,17 +1,14 @@
 ---
 title: Programme
+layout: default
 ---
-
-
 
 # Programme
 
-## Mardi 21 juin 2021 - 14h
-
+## Mardi 21 juin 2022
 
 <div class="schedule_bloc">
-  <div class="schedule_time">14h00
-  </div>
+  <div class="schedule_time">14h00</div>
   <div class="schedule_break">
   <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
   </div>
@@ -23,24 +20,23 @@ title: Programme
 <div class="schedule_bloc">
   <div class="schedule_time">14h30</div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
   <h3>Mot d'accueil</h3>
   </div>
 </div>
 
-
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/k_jex.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/k_jex.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Qui a besoin de RAC ?</h3>
   <p>Par <a href="orateurs#karen_jex" class="pg_speaker_name">Karen Jex</a> - CRUNCHY DATA</p>
   <p>
-  Malgré son prix et sa complexité, Oracle RAC est souvent utilisé en réponse à des besoins de haute disponibilité/scalabilité. PostgreSQL n’a pas d’équivalent, mais est-ce qu’on en a vraiment besoin?
+  Malgré son prix et sa complexité, Oracle RAC est souvent utilisé en réponse à des besoins de haute disponibilité/scalabilité. PostgreSQL n’a pas d’équivalent, mais est-ce qu’on en a vraiment besoin ?
   </p>
   <!--
   <p>
@@ -57,11 +53,10 @@ title: Programme
   </div>
 </div>
 
-
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/p_beaudoin.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/p_beaudoin.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Migration vers PostgreSQL : mener de gros volumes de données à bon port (5432)</h3>
@@ -87,42 +82,55 @@ title: Programme
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
+  <img src="img/pause.png" alt="Tasse" />
   </div>
   <div class="schedule_desc">
-  <h3>Pause café</h3>
+  <h3>Pause</h3>
   </div>
 </div>
 
 <div class="schedule_bloc">
   <div class="schedule_time">16h45</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
+  <div class="schedule_speaker">
+  <img src="/img/2019_PGGTIE-etendu_table3.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Table ronde du PGGTIE</h3>
   </div>
 </div>
 
-## Mardi 21 juin 2021
-
-**Grande soirée communautaire ouvert à tous et inclus dans le prix de votre billet.**
-
-
 <div class="schedule_bloc">
-  <div class="schedule_time">19h00 - 23h00</div>
+  <div class="schedule_time">17h30</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
   <div class="schedule_desc">
-  <h3>Ouverture des portes</h3>
-  A 2 pas des plage de Carnon et au bord du port de plaisance tout les participants, sponsors, speaker se retrouve pour une grande soirée de rencontre et de partage autour d'un apéritif dinatoire.
+  <h3>Mot de clôture</h3>
   </div>
 </div>
 
 
-## Mercredi 22 juin 2021
+## Grande soirée communautaire
 
+<div class="schedule_bloc">
+  <div class="schedule_time">19h30 - 23h00</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Grande soirée communautaire ouverte à tous et incluse dans le prix de votre billet.</h3>
+  A 2 pas des plages de Carnon et au bord du port de plaisance, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.
+  </div>
+</div>
+
+
+## Mercredi 22 juin 2022
 
 <div class="schedule_bloc">
   <div class="schedule_time">09h00</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+  </div>
   <div class="schedule_desc">
   <h3>Ouverture des portes</h3>
   </div>
@@ -130,7 +138,9 @@ title: Programme
 
 <div class="schedule_bloc">
   <div class="schedule_time">09h30</div>
-  <div class="schedule_break"></div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
   <div class="schedule_desc">
   <h3>Mot d'accueil</h3>
   </div>
@@ -139,7 +149,7 @@ title: Programme
 <div class="schedule_bloc">
   <div class="schedule_time">09h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/v_graillot.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/j_acroute.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Instrumenter PostgreSQL avec Prometheus</h3>
@@ -160,7 +170,6 @@ title: Programme
   -->
   </div>
 </div>
-
 
 <div class="schedule_bloc">
   <div class="schedule_time">10h30</div>
@@ -197,7 +206,6 @@ title: Programme
   </div>
 </div>
 
-
 <div class="schedule_bloc">
   <div class="schedule_time">11h30</div>
   <div class="schedule_speaker">
@@ -223,8 +231,6 @@ title: Programme
   </div>
 </div>
 
-
-
 <div class="schedule_bloc">
   <div class="schedule_time">12h15</div>
   <div class="schedule_break">
@@ -235,15 +241,14 @@ title: Programme
   </div>
 </div>
 
-
 <div class="schedule_bloc">
   <div class="schedule_time">14h00</div>
   <div class="schedule_speaker">
   <img src="img/orateurs/l_avrot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Comment mettre un éléphant sur un porte-conteneur en 3 mouvements?</h3>
-  <p>Par <a href="orateurs#manuel_pavy" class="pg_speaker_name">Laetitia Avrot</a> - EDB</p>
+  <h3>Comment mettre un éléphant sur un porte-conteneur en 3 mouvements ?</h3>
+  <p>Par <a href="orateurs#laetitia_avrot" class="pg_speaker_name">Laetitia Avrot</a> - EDB</p>
   <p>
   Postgres peut tourner sur des conteneurs, tout le monde le sait, mais est-ce souhaitable?  Comme toujours en consulting, la réponse est: "ça dépend."
   </p>
@@ -261,11 +266,10 @@ title: Programme
   </div>
 </div>
 
-
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/g_gonnord.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/r_perik.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Intégrer la communauté PostgreSQL</h3>
@@ -325,17 +329,15 @@ title: Programme
   </div>
 </div>
 
-
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
-  <div class="schedule_speaker">
-  <img src="#" class="img-thumbnail" alt="">
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
   <h3>Lightning Talk</h3>
-  
   <p>
-    Une série de lightning talk de 5 min. Chaque participant au pgdays peut prendre le sujet de son choix (Technique ou non..) et le déroulé en 5min top chrono ! :)
+    Une série de lightning talks de 5 minutes. Chaque participant au PG Day peut choisir le sujet de son choix (technique ou non) et le présenter en 5 minutes top chrono ! :)
     Envoyez vos propositions à <a href="mailto:contact@pgday.fr">contact@pgday.fr</a>
   </p>
   </div>
@@ -343,7 +345,17 @@ title: Programme
 
 <div class="schedule_bloc">
   <div class="schedule_time">17h15</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
   <div class="schedule_desc">
-  <h3>Closing</h3>
+  <h3>Mot de clôture</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">17h30</div>
+  <div class="schedule_desc">
+  <h3>FIN</h3>
   </div>
 </div>
