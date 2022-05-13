@@ -310,7 +310,7 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Protéger les données avec PostgreSQL Anonymizer</h3>
-  <p>Par <a href="orateurs#damien_clochard" class="pg_speaker_name">Damien Clochard</a> - DALIBOO </p>
+  <p>Par <a href="orateurs#damien_clochard" class="pg_speaker_name">Damien Clochard</a> - DALIBO </p>
   <p>
   4 ans après la mise en route du RGPD, l'application du principe "privacy by design" reste un casse-tête... Comment intégrer des règles de protection des données dès la conception d'une application ? Avec un exemple concret, nous verrons comment l'extension PostgreSQL Anonymizer permet de déclarer une politique de masquage directement dans le modèle de données d'une application. 
   </p>
