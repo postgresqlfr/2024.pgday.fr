@@ -148,7 +148,7 @@ layout: default
   </div>
   <div class="col-md-8">
     <h3>Julien Riou</h3>
-    <span class="role">Tech Lead chez OVH Cloud</span>
+    <span class="role">Tech Lead chez OVHcloud</span>
     <p>
       Sysadmin depuis 2010 puis DBA en 2012 dans le monde de l’hébergement web.
       Spécialiste des SGBD libres tels que MySQL et PostgreSQL.

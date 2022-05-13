@@ -213,7 +213,7 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Automatisation d'une mise à jour éléphantesque</h3>
-  <p>Par <a href="orateurs#julien_riou" class="pg_speaker_name">Julien Riou</a> - OVH Cloud</p>
+  <p>Par <a href="orateurs#julien_riou" class="pg_speaker_name">Julien Riou</a> - OVHcloud</p>
   <p>
   Faire le grand écart entre PostgreSQL 9.6 et 14 sur l'une des infrastructures les plus critiques d'OVHcloud en un clic. Un pari osé mais riche en expériences.
   </p>
