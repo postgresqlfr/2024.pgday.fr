@@ -106,14 +106,14 @@ title: Programme
 
 ## Mardi 21 juin 2021
 
-**Grande soirée communautaire ouvert à tous et inclus dans le prix de votre billet.**
+**Grande soirée communautaire, ouverte à tous et inclus dans le prix de votre billet.**
 
 
 <div class="schedule_bloc">
-  <div class="schedule_time">19h00 - 23h00</div>
+  <div class="schedule_time">19h00 - 22h00</div>
   <div class="schedule_desc">
   <h3>Ouverture des portes</h3>
-  A 2 pas des plage de Carnon et au bord du port de plaisance tout les participants, sponsors, speaker se retrouve pour une grande soirée de rencontre et de partage autour d'un apéritif dinatoire.
+  A 2 pas des plages de Carnon et au bord du port de plaisance tout les participants, sponsors, speaker se retrouve pour une grande soirée de rencontre et de partage autour d'un apéritif dinatoire.
   </div>
 </div>
 
@@ -308,7 +308,7 @@ title: Programme
   <h3>Protéger les données avec PostgreSQL Anonymizer</h3>
   <p>Par <a href="orateurs#damien_clochard" class="pg_speaker_name">Damien Clochard</a> - DALIBOO </p>
   <p>
-  4 ans après la mise en route du RGPD, l'application du principe "privacy by design" reste un casse-tête... Comment intégrer des règles de protection des données dès la conception d'une application ? Avec un exemple concret, nous verrons comment l'extension PostgreSQL Anonymizer permet de déclarer une politique de masquage directement dans le modèle de données d'une application. 
+  4 ans après la mise en route du RGPD, l'application du principe "privacy by design" reste un casse-tête... Comment intégrer des règles de protection des données dès la conception d'une application ? Avec un exemple concret, nous verrons comment l'extension PostgreSQL Anonymizer permet de déclarer une politique de masquage directement dans le modèle de données d'une application.
   </p>
   <!--
   <p>
@@ -333,7 +333,7 @@ title: Programme
   </div>
   <div class="schedule_desc">
   <h3>Lightning Talk</h3>
-  
+
   <p>
     Une série de lightning talk de 5 min. Chaque participant au pgdays peut prendre le sujet de son choix (Technique ou non..) et le déroulé en 5min top chrono ! :)
     Envoyez vos propositions à <a href="mailto:contact@pgday.fr">contact@pgday.fr</a>
