@@ -1,5 +1,6 @@
 ---
 title: Orateurs
+layout: default
 ---
 
 # Oratrices & Orateurs
@@ -47,7 +48,7 @@ title: Orateurs
 
 <div class="row pg_speaker" id="philippe_beaudoin">
   <div class="col-md-2">
-    <img src="img/orateurs/p_beaudoin.png" class="img-thumbnail" alt="">
+    <img src="img/orateurs/p_beaudoin.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
     <h3>Philippe Beaudoin</h3>
@@ -104,7 +105,7 @@ title: Orateurs
 
 <div class="row pg_speaker" id="karen_jex">
   <div class="col-md-2">
-    <img src="img/orateurs/k_jex.png" class="img-thumbnail" alt="">
+    <img src="img/orateurs/k_jex.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
     <h3>Karen Jex</h3>

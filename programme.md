@@ -1,5 +1,6 @@
 ---
 title: Programme
+layout: default
 ---
 
 
@@ -13,7 +14,7 @@ title: Programme
   <div class="schedule_time">14h00
   </div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
   <h3>Ouverture des portes</h3>
@@ -23,7 +24,7 @@ title: Programme
 <div class="schedule_bloc">
   <div class="schedule_time">14h30</div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
   <h3>Mot d'accueil</h3>
@@ -96,29 +97,28 @@ title: Programme
 
 <div class="schedule_bloc">
   <div class="schedule_time">16h45</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
+  <div class="schedule_speaker">
+  <img src="/img/2019_PGGTIE-etendu_table3.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Table ronde du PGGTIE</h3>
   </div>
 </div>
 
-## Mardi 21 juin 2021
+## Grande soirée communautaire - 19h
 
-**Grande soirée communautaire ouverte à tous et incluse dans le prix de votre billet.**
 
 
 <div class="schedule_bloc">
   <div class="schedule_time">19h00 - 23h00</div>
   <div class="schedule_desc">
-  <h3>Ouverture des portes</h3>
+  <h3>Grande soirée communautaire ouverte à tous et incluse dans le prix de votre billet.</h3>
   A 2 pas des plages de Carnon et au bord du port de plaisance, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.
   </div>
 </div>
 
 
-## Mercredi 22 juin 2021
+## Mercredi 22 juin 2021 - 9h - 17h
 
 
 <div class="schedule_bloc">
@@ -328,8 +328,8 @@ title: Programme
 
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
-  <div class="schedule_speaker">
-  <img src="#" class="img-thumbnail" alt="">
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
   <h3>Lightning Talk</h3>
