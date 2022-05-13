@@ -34,7 +34,7 @@ title: Programme
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/k_jex.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/k_jex.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Qui a besoin de RAC ?</h3>
@@ -61,7 +61,7 @@ title: Programme
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/p_beaudoin.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/p_beaudoin.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Migration vers PostgreSQL : mener de gros volumes de données à bon port (5432)</h3>
