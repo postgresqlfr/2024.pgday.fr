@@ -4,7 +4,7 @@ layout: default
 ---
 
 <center>
-<img src="img/montpellier.jpg" alt="" class="img-responsive"/>
+<img src="img/twitter_2022.png" alt="" class="img-responsive"/>
 </center>
 
 # Le rendez-vous annuel de la communauté PostgreSQL !
@@ -30,7 +30,7 @@ layout: default
 <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme conférences 2022 </a>
 </div>
 </div>
- 
+
 
 <div id="eventbrite-widget-container-314876362677"></div>
 
