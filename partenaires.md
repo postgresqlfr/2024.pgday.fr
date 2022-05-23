@@ -57,6 +57,17 @@ pour leur aide et leur présence à nos cotés.
 </div>
 
 <div class="col-xs-12 col-md-6">
+<a href="https://data-bene.io/" class="thumbnail">
+<img src="img/databene.png" alt="Data Bene">
+</a>
+</div>
+
+<div class="col-xs-12 col-md-6">
+<a href="https://evolix.com/" class="thumbnail">
+<img src="img/evolix.png" alt="Evolix">
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
 <a href="http://oslandia.com" class="thumbnail">
 <img src="img/oslandia.png" alt="Oslandia">
 </a>
