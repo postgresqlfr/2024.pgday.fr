@@ -13,7 +13,7 @@ pour leur aide et leur présence à nos cotés.
 
 <div class="col-xs-12 col-md-6">
 <a href="https://www.crunchydata.com/" class="thumbnail">
-<img src="img/crunchy.jpg" alt="Crunchy Data">
+<img src="img/crunchy2.jpg" alt="Crunchy Data">
 </a>
 </div>
 
