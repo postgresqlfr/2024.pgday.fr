@@ -119,7 +119,8 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Grande soirée communautaire ouverte à tous et incluse dans le prix de votre billet.</h3>
-  A 2 pas des plages de Carnon et au bord du port de plaisance, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.
+  <p>A 2 pas des plages de Carnon et au bord du port de plaisance, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.</p>
+  <p>Rendez-vous au <strong>Clair de Lune</strong> : 1 Place Cassan, 34130 Mauguio.</p>
   </div>
 </div>
 
