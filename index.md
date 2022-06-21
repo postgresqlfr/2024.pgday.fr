@@ -4,11 +4,19 @@ layout: default
 ---
 
 <center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0kXPPgLXJn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<!--
+<center>
+
 <img src="img/twitter_2022.png" alt="" class="img-responsive"/>
 </center>
+-->
 
 # Le rendez-vous annuel de la communauté PostgreSQL !
 
+<!--
 > Le PG Day France est un moment de rencontres et de conférences pour la
 > communauté francophone de PostgreSQL. Les conférences s'adressent à tous
 > les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
@@ -18,13 +26,13 @@ layout: default
 
 <h2>L'édition 2022 se tiendra le 21-22 juin à Montpellier</h2>
 
-<!--
 <h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>
--->
 
 
 </center>
+-->
 
+<!--
 <div class='row'>
 <div class='col-md-6 col-md-offset-3 col-xs-12'>
 <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme conférences 2022 </a>
@@ -55,6 +63,7 @@ layout: default
 
 Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
+-->
 
 <!--
 
