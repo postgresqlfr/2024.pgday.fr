@@ -5,7 +5,7 @@ layout: default
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ukgFHC8HvdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
@@ -16,7 +16,9 @@ layout: default
 </center>
 -->
 
+<center>
 # Le rendez-vous annuel de la communauté PostgreSQL !
+</center>
 
 <!--
 > Le PG Day France est un moment de rencontres et de conférences pour la
