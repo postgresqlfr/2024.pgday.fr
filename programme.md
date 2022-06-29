@@ -38,12 +38,12 @@ layout: default
   <p>
   Malgré son prix et sa complexité, Oracle RAC est souvent utilisé en réponse à des besoins de haute disponibilité/scalabilité. PostgreSQL n’a pas d’équivalent, mais est-ce qu’on en a vraiment besoin ?
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="docs/2022/01-Qui_a_besoin_de_RAC-Karen_Jex.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -64,12 +64,12 @@ layout: default
   <p>
   Cette conférence présente une méthodologie et des techniques permettant de migrer de gros volumes de données vers PostgreSQL, le tout illustré avec l’outil Data2Pg.
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="docs/2022/02-Migration_vers_PostgreSQL-Philipe_Beaudoin.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -158,11 +158,11 @@ layout: default
   <p>
   Comment instrumenter un cluster PostgreSQL avec Prometheus et Grafana afin de récupérer des métriques sur le cluster, les bases, les tables et les requêtes.
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="docs/2022/03-Instrumenter_PostgreSQL_avec_Prometheus-Julien_Acroute.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation</a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -193,11 +193,11 @@ layout: default
   <p>
   Pour le compte d'un client, nous avons réalisé une preuve de concept pour offrir un mécanisme de transparent data encryption via la création d'un nouveau type de données chiffrées.
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="docs/2022/04-Transparent_Data_Encryption-Create_Type_v0.1-Frédéric_Delacour.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation</a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -218,11 +218,11 @@ layout: default
   <p>
   Faire le grand écart entre PostgreSQL 9.6 et 14 sur l'une des infrastructures les plus critiques d'OVHcloud en un clic. Un pari osé mais riche en expériences.
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="docs/2022/05-Automatisation_d_une_mise_a_jour_elephantesque-Julien_Riou.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation</a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -253,12 +253,12 @@ layout: default
   <p>
   Postgres peut tourner sur des conteneurs, tout le monde le sait, mais est-ce souhaitable?  Comme toujours en consulting, la réponse est: "ça dépend."
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="docs/2022/06-Comment_mettre_un_éléphant_sur_un_porte-conteneur_en_3_mouvements-Laetitia_Avrot.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo</a>
@@ -279,12 +279,12 @@ layout: default
   <p>
   Storytelling sur mon arrivée par hasard au sein de la communauté PostgreSQL. Quelles opportunités, en tant qu’étudiant en master, m’ont permis d’y accéder ? Comment donner la chance à d’autres étudiants de l’intégrer à leur tour.
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="docs/2022/07-Intégrer_la_communauté_PostgreSQL-Perik_Rigoudy.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -315,12 +315,12 @@ layout: default
   <p>
   4 ans après la mise en route du RGPD, l'application du principe "privacy by design" reste un casse-tête... Comment intégrer des règles de protection des données dès la conception d'une application ? Avec un exemple concret, nous verrons comment l'extension PostgreSQL Anonymizer permet de déclarer une politique de masquage directement dans le modèle de données d'une application. 
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="docs/2022/08-PostgreSQL_et_le_principe_du_privacy_by_design-Damien_Clochard.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
