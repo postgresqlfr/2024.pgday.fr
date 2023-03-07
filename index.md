@@ -3,14 +3,11 @@ title: Accueil
 layout: default
 ---
 
-<!--
+
 <center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<h1>Le rendez-vous annuel de la communauté PostgreSQL ! </h1>
 </center>
 
--->
 
 <!--
 <center>
@@ -19,9 +16,6 @@ layout: default
 </center>
 -->
 
-<center>
-# Le rendez-vous annuel de la communauté PostgreSQL !
-</center>
 
 > Le PG Day France est un moment de rencontres et de conférences pour la
 > communauté francophone de PostgreSQL. Les conférences s'adressent à tous
@@ -34,6 +28,9 @@ layout: default
 
 <h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
