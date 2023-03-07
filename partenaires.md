@@ -6,6 +6,7 @@ Le PG Day France ne serait pas possible sans le soutien des entreprises de
 la communauté PostgreSQL. Nous remercions chaleureusement nos partenaires
 pour leur aide et leur présence à nos cotés.
 
+<!--
 ### Nos Partenaires GOLD
 
 <div class="container">
@@ -30,7 +31,7 @@ pour leur aide et leur présence à nos cotés.
 </div>
 
 </div>
-
+-->
 
 
 <!--
@@ -46,6 +47,7 @@ pour leur aide et leur présence à nos cotés.
 </div>
 -->
 
+<!--
 ### Nos partenaires BRONZE
 
 <div class="container">
@@ -81,33 +83,34 @@ pour leur aide et leur présence à nos cotés.
 </div>
 
 
-
 </div>
+-->
 
-<!--
-##  Devenez partenaires du PGDay France
+##  Devenez partenaire du PGDay France
 
-**IMPORTANT**: Cette année le nombre de partenaires GOLD est limité à 4.
+**IMPORTANT**: Cette année le nombre de PARTNERS est limité à 5.
 
 <div class="table-responsive">
 <table class="table">
   <thead>
     <tr>
       <th>Avantages</th>
-      <th>Bronze</th>
-      <th>Silver</th>
-      <th>Gold</th>
+      <th>SUPPORTER</th>
+      <th>PARTNER</th>
     </tr>
   </thead>
   <tr>
     <th>Logo sur la page d'accueil du site web</th>
     <td>Oui</td>
     <td>Oui</td>
+  </tr>
+  <tr>
+    <th>Diffusion d'une vidéo promotionnnelle</th>
+    <td>Oui</td>
     <td>Oui</td>
   </tr>
   <tr>
     <th>Logo sur les videos (Youtube)</th>
-    <td></td>
     <td></td>
     <td>Oui</td>
   </tr>
@@ -115,58 +118,41 @@ pour leur aide et leur présence à nos cotés.
     <th>Logo sur toutes les pages du site web</th>
     <td></td>
     <td>Oui</td>
-    <td>Oui</td>
   </tr>
   <tr>
     <th>Invitations VIP</th>
-    <td>1</td>
-    <td>3</td>
-    <td>6</td>
-  </tr>
-
-  <tr>
-    <th>Matériel promotionnel dans le sac de conférence (A4 recto-verso)</th>
-    <td>1 pages</td>
-    <td>2 pages</td>
-    <td>4 pages</td>
-  </tr>
-  <tr>
-    <th>Cadeaux promotionnels dans le sac de conférences</th>
-    <td></td>
-    <td>1</td>
     <td>2</td>
+    <td>4</td>
   </tr>
   <tr>
     <th>Bandeau promotionnel (2mx1m max.) dans la salle de conférence</th>
-    <td></td>
     <td></td>
     <td>Oui</td>
   </tr>
   <tr>
     <th>Stand</th>
     <td></td>
-    <td></td>
-    <td>Oui</td>
-  </tr>
-  <tr>
-    <th>Liste des adresses e-mail des participants (en opt-in)</th>
-    <td></td>
-    <td></td>
     <td>Oui</td>
   </tr>
   <tr>
       <th>Tarif</th>
-      <td>400€</td>
-      <td>1500€</td>
+      <td>750€</td>
       <td>3000€</td>
     </tr>
 </table>
 </div>
 
+Les PARTNERS pourront distribuer leur matériel promotionnel sur leur stand.
+
+Les SUPPORTERS pourront mettre à disposition sur le stand d'accueil une page A4 et 1 cadeau promotionnels.
+
+
 ## Liens
 
-* [Contrat (FR)](https://github.com/postgresqlfr/contrats/raw/master/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12_french.pdf)
-* [Contact (EN)](https://github.com/postgresqlfr/contrats/raw/master/2022.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12.pdf)
-
-
+<!--
+* [Contrat (FR)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12_french.pdf)
 -->
+
+* [Contact (EN)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2023_sponsorship_contract_v13.pdf)
+
+

@@ -3,9 +3,9 @@ title: 'Appel à Orateurs'
 ---
 
 
-
+<!--
 <b>L'Appel à Orateurs est clos</b>
-
+-->
 
 <!--
 <h3><b>Prolongation Date limite des propositions.</b></h3>

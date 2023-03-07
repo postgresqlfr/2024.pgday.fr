@@ -3,11 +3,14 @@ title: Accueil
 layout: default
 ---
 
+<!--
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
+
+-->
 
 <!--
 <center>
@@ -20,7 +23,6 @@ layout: default
 # Le rendez-vous annuel de la communauté PostgreSQL !
 </center>
 
-<!--
 > Le PG Day France est un moment de rencontres et de conférences pour la
 > communauté francophone de PostgreSQL. Les conférences s'adressent à tous
 > les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
@@ -28,13 +30,13 @@ layout: default
 
 <center>
 
-<h2>L'édition 2022 se tiendra le 21-22 juin à Montpellier</h2>
+<h2>L'édition 2023 se tiendra le 19-20 juin à Strasbourg</h2>
 
 <h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>
 
 
 </center>
--->
+
 
 <!--
 <div class='row'>
@@ -64,10 +66,10 @@ layout: default
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+-->
 
 Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
--->
 
 <!--
 

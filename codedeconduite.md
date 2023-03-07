@@ -15,11 +15,12 @@ title: Code de Conduite
 
 <p>Les événements PostgreSQLFr se veulent être une expérience agréable et conviviale, ouverts à tous quelque soit le sexe, l'orientation sexuelle, le handicap, l'apparence physique, le poids, la race ou la religion des participants. Nous ne tolérons donc aucun harcèlement ou attaque, sous aucune forme. Les expressions et les images à connotation sexuelle ne sont pas appropriées lors de l'événement. Ceci inclut les conférences, les ateliers, les soirées, Twitter et les autres médias en ligne. Les participants qui enfreignent ces règles peuvent être sanctionnés, voire exclus de l'événement sans remboursement, à la discrétion de ses organisateurs.</p>
 
+
 ## Contact en cas d'incident
 
-<p>Ci-dessous les points de contact pour signaler un problème pendant ou après l'événement :</p>
+Ci-dessous les points de contact pour signaler un problème pendant ou après l'événement :
 
-* 06 74 15 56 78
+* Jean-Marie Arsac : 06 11 05 88 23
 * <contact@pgday.fr>
 
 
