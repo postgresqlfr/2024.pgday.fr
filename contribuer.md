@@ -4,6 +4,7 @@ title: Contribuer
 
 
 Le PGDay France est un événement à but non lucratif.
+
 Les éventuels profits réalisés lors de cet événement seront réinvestis dans
 les autres activités de l'association.
 
@@ -21,7 +22,7 @@ Si vous voulez nous soutenir, avant ou pendant l'événement, vous pouvez :
 Participez à la réalisation et au bon déroulement de l'évènement en
 soutenant le projet.
 
-[En savoir plus](http://wiki.postgresql.fr/pgday2019:campagne_de_partenariat)
+[En savoir plus](http://wiki.postgresql.fr/pgday2023:campagne_de_partenariat)
 
 
 ## Orateurs
@@ -41,9 +42,8 @@ pendant les conférences (accueil, traduction, préparation).
 La charge de travail n'est pas forcément importante, mais les petites
 gouttes d'eau font les grandes rivières.
 
-<a href="contact.html">Contactez-nous</a> si vous êtes interessés !
+<a href="apropos.html">Contactez-nous</a> si vous êtes interessés !
 
 Vous pouvez aussi nous rejoindre sur la
-<a href="http://listes.postgresql.fr/cgi-bin/mailman/listinfo/pgdayfr">liste
-         de discussion des organisateurs du PGDay</a>.
+[liste de discussion des organisateurs du PGDay](https://framalistes.org/sympa/info/pgdayfr).
 
