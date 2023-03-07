@@ -1,5 +1,5 @@
 ---
-title: 'Appel à Orateurs'
+title: 'Appel à oratrices et orateurs'
 ---
 
 
@@ -18,9 +18,12 @@ La date limite de réception des propositions a été repoussée au 2 mars 2018 
 <!--
 
 ## Appel à Oratrices et Orateurs
+-->
 
 ![](img/audience.jpg)
 
+    <iframe src="https://framaforms.org/appel-a-oratrices-et-orateurs-pg-day-france-2023-1678226625" width="100%" height="800" border="0"></iframe>
+<!--
 Le PG Day France est la conférence annuelle de la communauté francophone de PostgreSQL.
 
 Cette année, l’événement aura lieu les 21 et 22 juin à Montpellier. En raison des incertitudes liées à la situation
