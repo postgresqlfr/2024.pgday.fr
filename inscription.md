@@ -31,7 +31,7 @@ title: Inscription
 
 <!-- OUVERT -->
 <div class="col-md-8 col-md-offset-2 section-colored text-center">
-<div id="eventbrite-widget-container-314876362677"></div>
+<div id="eventbrite-widget-container-583853731227"></div>
 
 <script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
 
@@ -43,14 +43,15 @@ title: Inscription
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '314876362677',
-        iframeContainerId: 'eventbrite-widget-container-314876362677',
+        eventId: '583853731227',
+        iframeContainerId: 'eventbrite-widget-container-583853731227',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+</div>
 </div>
 
 
