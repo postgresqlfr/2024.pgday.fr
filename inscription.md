@@ -47,11 +47,10 @@ title: Inscription
         iframeContainerId: 'eventbrite-widget-container-583853731227',
 
         // Optional
-        iframeContainerHeight: 625,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 825,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-</div>
 </div>
 
 
