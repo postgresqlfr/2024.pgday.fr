@@ -5,18 +5,20 @@ title: Information
 # Informations Pratiques
 
 <div class="col-lg-12">
-<iframe width="825" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.822555541992188%2C43.51668853502909%2C4.049148559570313%2C43.635329724674484&amp;layer=mapnik&amp;marker=43.57603834865632%2C3.93585205078125" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.5760&amp;mlon=3.9359#map=13/43.5760/3.9359">Afficher une carte plus grande</a></small>
+<iframe width="i825" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//umap.openstreetmap.fr/fr/map/new/?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/new/">Voir en plein écran</a></p>
 </div>
 
 ## Lieu de l'événement
 
 ```
-Théatre Odéon Montpellier
-Zac Le Fenouillet,
-34470 Pérols
+Ciarus
+7 rue Finkmatt
+67000 Strasbourg
 FRANCE
+
+Téléphone : +33 (0)3 88 152 788
 ```
-<https://www.odeonmontpellier.com/>
+<https://www.ciarus.com/>
 
 
 
@@ -24,19 +26,28 @@ FRANCE
 
 ### En Train:
 
-* Depuis la Gare Montpellier Sud France,
-* prendre la ligne de Tram 3 pendant 30 min
-* Descendre à l'arrêt EcoPole
+* Strasbourg est accessible en train via les réseaux SNCF Français, TER et TGV et DB Allemand.
+* L’accès au centre est direct depuis la gare centrale en 10 minutes en transport en commun, ou 15 minutes à pieds.
+
+### [TRAM/BUS](https://www.cts-strasbourg.eu/fr/): 
+* via la ligne de tram C à côté de la gare: direction "Neuhof Rodolphe Reussarret", arrêt "Broglie"
+* via la ligne de bus H en face de la gare: direction "Parlement Européen", arrêt "Place de Pierre"
+* Les billets de _tram/bus_ doivent être achetés dans les distributeurs aux l'arrêts. Attention, ils doivent être validés *avant* de monter.
+
 
 ### En voiture
 
-* Prendre l'autoroute A709, Sortie 29
+* Depuis l'autoroute, prendre la sortie 51 vers Strasbourg-Centre/Avenue des Vosges/Robertsau/Institutions européenne
+* Strasbourg et sa communauté urbaine sont une zone de faible émission (ZFE). Les véhicules Crit’Air 5 et sans vignette Crit’Air sont interdits de circulation.
 
 ### En avion
 
-* Le théatre est à 3 minutes de l'aéroport Montpellier Méditerannée.
+* L'aéropport de Strasbourg-Entzheim est situé à la périphérie sud de Strasbourg. Une navette ferroviaire vous permet de rejoindre la gare centrale de Strasbourg en 8 minutes avec jusqu’à 5 dessertes par heure. Tickets en vente sur le quai.
+[Informations navette](https://www.strasbourg.aeroport.fr/passagers/parkings-et-acces/navette-train/)
 
 
 ## Hébergement
 
-`En Préparation`
+* Proche gare: Hotel Mercure, 3 Rue du Maire Kuss, 67000 Strasbourg 
+* Centre: Le Kléber, 29 Pl. Kléber, 67000 Strasbourg
+* Ciarus, sur le lieu de conférence (mode auberge de jeunesse)
