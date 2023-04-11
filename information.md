@@ -5,7 +5,7 @@ title: Information
 # Informations Pratiques
 
 <div class="col-lg-12">
-<iframe width="i825" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//umap.openstreetmap.fr/fr/map/new/?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/new/">Voir en plein écran</a></p>
+<iframe width="825" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=7.744916081428529%2C48.58862505499104%2C7.750232219696046%2C48.59003550526311&amp;layer=mapnik&amp;marker=48.589330285048156%2C7.747574150562286" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.58933&amp;mlon=7.74757#map=19/48.58933/7.74757">Afficher une carte plus grande</a></small>
 </div>
 
 ## Lieu de l'événement
