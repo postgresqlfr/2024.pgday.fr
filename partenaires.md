@@ -153,6 +153,6 @@ Les SUPPORTERS pourront mettre à disposition sur le stand d'accueil une page A4
 * [Contrat (FR)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12_french.pdf)
 -->
 
-* [Contact (EN)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2023_sponsorship_contract_v13.pdf)
+* [Contract (EN)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2023_sponsorship_contract_v13.pdf)
 
 
