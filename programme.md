@@ -63,7 +63,7 @@ layout: default
   <img src="img/orateurs/c_villemain_2.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Qualités des extensions PostgreSQL</h3>
+  <h3>Qualité des extensions PostgreSQL</h3>
   <p>Par <a href="orateurs#cedric_villemain" class="pg_speaker_name">Cédric Villemain</a> - DATA BENE</p>
   <p>
   Présentation des solutions de tests SQL et du framework TAP utilisé par PostgreSQL (à ne pas confondre avec pgTAP !) et comment améliorer la qualité des contributions.
@@ -99,7 +99,7 @@ layout: default
   <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
-  <h3>Table ronde du Groupe Inter-Entreprises</h3>
+  <h3>Table ronde du Groupe de Travail Inter-Entreprises</h3>
   Débats et Retours d'expérience autour de l'actualité du
   <a href='https://www.postgresql.fr/entreprises:accueil'>Groupe de Travail Inter-Entreprises</a>
   : Perspectives et Usages actuels de PostgreSQL, Cloud Public vs. Cloud Privé, Constitution
@@ -136,7 +136,7 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Grande soirée ouverte à tous et incluse dans le prix de votre billet.</h3>
-  <p>A 2 pas de la gare, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.</p>
+  <p>A deux pas de la gare, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.</p>
   <p>Lieu de Rendez-vous :<strong>Le petit tigre</strong>, 5 rue du Faubourg national, 67000. Strasbourg.</p>
   </div>
 </div>
