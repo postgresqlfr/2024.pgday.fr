@@ -21,18 +21,16 @@ layout: default
 
 <!--<h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>-->
 
-
 <div class='row'>
-<div class='col-md-6 col-md-offset-3 col-xs-12'>
-<a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
+  <div class='col-md-6 col-md-offset-3 col-xs-12'>
+    <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
+  </div>
 </div>
-</div>
-
 </center>
 
-<!--
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+</center>
 
 Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
