@@ -6,17 +6,17 @@ Le PG Day France ne serait pas possible sans le soutien des entreprises de
 la communauté PostgreSQL. Nous remercions chaleureusement nos partenaires
 pour leur aide et leur présence à nos cotés.
 
-<!--
-### Nos Partenaires GOLD
+### PARTNERS
 
 <div class="container">
 
-
+<!--
 <div class="col-xs-12 col-md-6">
 <a href="https://www.crunchydata.com/" class="thumbnail">
 <img src="img/crunchy2.jpg" alt="Crunchy Data">
 </a>
 </div>
+-->
 
 <div class="col-xs-12 col-md-6">
 <a href="https://dalibo.com/" class="thumbnail">
@@ -24,6 +24,7 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
+<!--
 <div class="col-xs-12 col-md-6">
 <a href="https://edbpostgres.com" class="thumbnail">
 <img src="img/EDB.png" alt="EDB Postgres">
@@ -86,6 +87,7 @@ pour leur aide et leur présence à nos cotés.
 </div>
 -->
 
+<!--
 ##  Devenez partenaire du PGDay France
 
 **IMPORTANT**: Cette année le nombre de PARTNERS est limité à 5.
@@ -149,10 +151,6 @@ Les SUPPORTERS pourront mettre à disposition sur le stand d'accueil une page A4
 
 ## Liens
 
-<!--
-* [Contrat (FR)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2022_sponsorship_contract_v12_french.pdf)
--->
-
 * [Contract (EN)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2023_sponsorship_contract_v13.pdf)
 
-
+-->
