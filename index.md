@@ -17,44 +17,21 @@ layout: default
 > développeurs, chefs de projets, décideurs, etc
 
 <center>
-
 <h2>L'édition 2023 se tiendra le 19-20 juin à Strasbourg</h2>
 
-<h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>
+<!--<h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class='row'>
+<div class='col-md-6 col-md-offset-3 col-xs-12'>
+<a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
+</div>
+</div>
 
 </center>
 
-
 <!--
-<div class='row'>
-<div class='col-md-6 col-md-offset-3 col-xs-12'>
-<a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme conférences 2022 </a>
-</div>
-</div>
-
-
-<div id="eventbrite-widget-container-314876362677"></div>
-
-<script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Commande terminée !');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '314876362677',
-        iframeContainerId: 'eventbrite-widget-container-314876362677',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -->
 
 Vous pouvez consulter les vidéos des éditions précédentes sur
