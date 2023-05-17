@@ -28,14 +28,13 @@ layout: default
 </div>
 </center>
 
-<div class="container">
+<br/><br/>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
-</div>
 
 <!--
 
