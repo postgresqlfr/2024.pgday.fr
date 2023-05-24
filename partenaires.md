@@ -30,26 +30,12 @@ pour leur aide et leur présence à nos cotés.
 <img src="img/EDB.png" alt="EDB Postgres">
 </a>
 </div>
-
-</div>
 -->
 
-
-<!--
-### Nos partenaires SILVER
-
-<div class="container">
-<div class="col-xs-12 col-md-6">
-<a href="https://www.umanit.fr/" class="thumbnail">
-<img src="img/umanit.png" alt="UMANIT">
-</a>
 </div>
 
-</div>
--->
-
 <!--
-### Nos partenaires BRONZE
+### SUPPORTERS
 
 <div class="container">
 
@@ -70,12 +56,12 @@ pour leur aide et leur présence à nos cotés.
 <img src="img/evolix.png" alt="Evolix">
 </a>
 </div>
+
 <div class="col-xs-12 col-md-6">
 <a href="http://oslandia.com" class="thumbnail">
 <img src="img/oslandia.png" alt="Oslandia">
 </a>
 </div>
-
 
 <div class="col-xs-12 col-md-6">
 <a href="https://www.umanit.fr/" class="thumbnail">
@@ -83,9 +69,9 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
-
 </div>
 -->
+
 
 ##  Devenez partenaire du PGDay France
 
