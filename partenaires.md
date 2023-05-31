@@ -34,11 +34,17 @@ pour leur aide et leur présence à nos cotés.
 
 </div>
 
-<!--
 ### SUPPORTERS
 
 <div class="container">
 
+<div class="col-xs-12 col-md-6">
+<a href="https://www.enterprisedb.com/" class="thumbnail">
+<img src="img/EDB.png" alt="EDB Postgres">
+</a>
+</div>
+
+<!--
 <div class="col-xs-12 col-md-6">
 <a href="https://www.atolcd.com/" class="thumbnail">
 <img src="img/atolcd.png" alt="Atol CD">
@@ -68,9 +74,9 @@ pour leur aide et leur présence à nos cotés.
 <img src="img/umanit.png" alt="UMANIT">
 </a>
 </div>
+-->
 
 </div>
--->
 
 
 ##  Devenez partenaire du PGDay France
