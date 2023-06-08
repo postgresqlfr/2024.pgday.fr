@@ -112,7 +112,8 @@ layout: default
   <ul>
   <li>Anthony Nowocien ( Société Générale )</li>
   <li>Flavio Gurgel ( LeBonCoin )</li>
-  <li>Cédric Duprez  ( IGN ) </li>
+  <li>Cédric Duprez ( IGN )</li>
+  <li>Didier Brugat ( Total Énergies )</li>
   </ul>
   <br/>
   Animé par Jean-Paul Argudo.
