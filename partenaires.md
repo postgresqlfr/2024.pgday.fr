@@ -24,14 +24,6 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
-<!--
-<div class="col-xs-12 col-md-6">
-<a href="https://edbpostgres.com" class="thumbnail">
-<img src="img/EDB.png" alt="EDB Postgres">
-</a>
-</div>
--->
-
 </div>
 
 ### SUPPORTERS
@@ -40,7 +32,7 @@ pour leur aide et leur présence à nos cotés.
 
 <div class="col-xs-12 col-md-6">
 <a href="https://www.enterprisedb.com/" class="thumbnail">
-<img src="img/EDB.png" alt="EDB Postgres">
+<img src="img/EDB-2023.png" alt="EDB Postgres">
 </a>
 </div>
 
