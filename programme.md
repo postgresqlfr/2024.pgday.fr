@@ -60,16 +60,18 @@ layout: default
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/c_villemain_2.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/e_rami.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Qualité des extensions PostgreSQL</h3>
-  <p>Par <a href="orateurs#cedric_villemain" class="pg_speaker_name">Cédric Villemain</a> - Data Bene</p>
+  <h3>Utiliser PostgreSQL dans un environnement Kubernetes avec Minikube</h3>
+  <p>Par <a href="orateurs#emmanuel_rami" class="pg_speaker_name">Emmanuel Rami</a> - CapData</p>
   <p>
-  Il s'agit dune présentation des solutions de tests SQL et du framework TAP utilisé par PostgreSQL (à ne pas confondre avec pgTAP !) et comment améliorer la qualité des contributions.
-  PostgreSQL permet de contribuer à son écosystème en développant de outils, des modules "serveur", des extensions,...
-  En se concentrant sur le mécanisme des extensions et des modules, nous allons explorer les fonctionnalités proposées pour s'assurer de la qualité du code produit et ainsi rassurer les utilisateurs potentiels.
-  Nous nous arrêterons en particulier sur les bibliothèques perl fournies avec les sources de PostgreSQL pour appliquer des tests plus évolués.
+  La présentation décrira les étapes suivantes :
+  - présentation de la containérisation via Kubernetes
+  - les prérequis de la mise en place de la virtualisation
+  - l'installation des packages nécessaires
+  - configuration logiciel
+  - utilisation dans un environnement client - serveur
   </p>
   <!--
   <p>

@@ -39,6 +39,24 @@ layout: default
   </div>
 </div>
 
+<div class="row pg_speaker" id="emmanuel_rami">
+  <div class="col-md-2">
+  <img src="img/orateurs/e_rami.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Emannuel Rami</h3>
+  <span class="role">DBA Oracle, SQL Server, et PostgreSQL chez Capdata</span>
+  <p>
+    Nous utilisons PostgreSQL dans le cadre de notre offre AllDb afin de proposer un suivi de mise en condition opérationnel.
+    Nous effectuons également de la veille technologiques autour des logiciels libres.
+  </p>
+  <p>
+    Présentation:
+    <a href='/programme'>Utiliser PostgreSQL dans un environnement Kubernetes avec Minikube /a>
+  </p>
+  </div>
+</div>
+
 <div class="row pg_speaker" id="frederic_delacourt">
   <div class="col-md-2">
     <img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
