@@ -44,7 +44,7 @@ layout: default
   <img src="img/orateurs/e_rami.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Emannuel Rami</h3>
+  <h3>Emmanuel Rami</h3>
   <span class="role">DBA Oracle, SQL Server, et PostgreSQL chez Capdata</span>
   <p>
     Nous utilisons PostgreSQL dans le cadre de notre offre AllDb afin de proposer un suivi de mise en condition opérationnel.
