@@ -52,7 +52,7 @@ layout: default
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Utiliser PostgreSQL dans un environnement Kubernetes avec Minikube /a>
+    <a href='/programme'>Utiliser PostgreSQL dans un environnement Kubernetes avec Minikube</a>
   </p>
   </div>
 </div>
