@@ -111,12 +111,14 @@ layout: default
 <div class="row pg_speaker" id="Yohann Martin">
   <div class="col-md-2">
   <img src="img/orateurs/y_martin.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/c_paillier.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_augereau.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Yohann Martin</h3>
-  <span class="role">Expert base de données chez MAIF</span>
+  <h3>Yohann Martin, Clément Paillier et Ludovic Augereau</h3>
+  <span class="role">Experts base de données chez MAIF</span>
   <p>
-  Membre actif du PGGTIE depuis 2006, je pratique Postgres depuis la version 9.0.
+  Membre actif du PGGTIE depuis 2006, nous pratiquons PostgreSQL depuis la version 9.0.
   </p>
   <p>
     Présentation:
