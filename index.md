@@ -19,11 +19,11 @@ layout: default
 <center>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UxdeYKdqGkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Le Live est également disponible via Peertube !](https://live.pgday.fr/)
-
-\
-
-sur <https://live.pgday.fr/>
+<p>
+<a href='https://live.pgday.fr/'>Le Live est également disponible via Peertube !</a>
+<br/>
+sur <a href='https://live.pgday.fr/'>https://live.pgday.fr/</a>
+</p>
 
 </center>
 
