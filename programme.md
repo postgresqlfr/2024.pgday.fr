@@ -113,7 +113,6 @@ layout: default
   Intervenants :
   <ul>
   <li>Anthony Nowocien ( Société Générale )</li>
-  <li>Flavio Gurgel ( LeBonCoin )</li>
   <li>Cédric Duprez ( IGN )</li>
   <li>Didier Brugat ( Total Énergies )</li>
   </ul>
@@ -270,10 +269,12 @@ layout: default
   <div class="schedule_time">14h00</div>
   <div class="schedule_speaker">
   <img src="img/orateurs/y_martin.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/c_paillier.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_augereau.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Automatisation « IaaS » du déploiement et du MCO de PostgreSQL pour la MAIF avec Ansible</h3>
-  <p>Par <a href="orateurs#yohann_martin" class="pg_speaker_name">Yohann MARTIN</a> - MAIF</p>
+  <p>Par <a href="orateurs#yohann_martin" class="pg_speaker_name">Yohann MARTIN, Clément PAILLIER et Ludovic AUGEREAU</a> - MAIF</p>
   <p>
   Postgres en IAAS avec Ansible à la MAIF :
   - objectif de l'industrialisation,
