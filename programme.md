@@ -42,12 +42,12 @@ layout: default
   Dans cette présentation, on exposera notamment les fonctionnalités et les performances des collations ICU, et on verra comment paramétrer ses bases de données pour en profiter.
   On parlera aussi des pièges liés aux collations : pourquoi est-ce que les mises à jour du système peuvent poser un problème à certains index, et comment faire ces mises à jour en sécurité.
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="/docs/2023/01_Daniel_Verite_PostgreSQL_et_Unicode_un_tour_des_nouveautes.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -216,11 +216,11 @@ layout: default
   <p>
   La documentation est le meilleur moyen de rassembler le savoir et de rendre les informations disponibles pour le plus grand nombre et de faire progresser tout le monde, des personnes débutantes aux plus avancées dans PostgreSQL. Prenons quelques pages de documentation de votre logiciel préféré, et examinons comment nous pourrions les améliorer. Avec quelques efforts sur le contenu et la présentation, votre documentation pourrait être plus lisible, et plus utile à la communauté. Quelques astuces pour produire directement une bonne documentation sont également au menu, tout comme l'art de relire une documentation existante.
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="/docs/2023/04_Lets-make-it-better-now-together.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation</a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -282,12 +282,12 @@ layout: default
   - description de l'industrialisation sous Ansible,
   - focus sur le projet Ansible.
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="/docs/2023/06_Yohann_Martin_Automatisation_du_deploiement_IAAS.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo</a>
@@ -311,12 +311,12 @@ layout: default
   Cette conférence, à mi-chemin entre une comparaison fonctionnelle et un retour d'expérience, s'adresse à tous les développeurs, DBAs, architectes qui ont déjà eu à choisir entre Mongo et Postgres, et à tout ceux qui essayent de construire un argumentaire sur le moteur à choisir pour les bons cas d'usage.
   Let's make Postgres sexy again!
   </p>
-  <!--
   <p>
-  <a href="#">
+  <a href="/docs/2023/07_Matthieu_Cornillon_De_la-feuille_a_lelephant.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
