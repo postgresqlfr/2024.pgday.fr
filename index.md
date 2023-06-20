@@ -17,7 +17,8 @@ layout: default
 > développeurs, chefs de projets, décideurs, etc
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UxdeYKdqGkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/35oUEFtLcxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <p>
 <a href='https://live.pgday.fr/'>Le Live est également disponible via Peertube !</a>
