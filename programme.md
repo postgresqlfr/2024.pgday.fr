@@ -73,12 +73,13 @@ layout: default
   - configuration logiciel
   - utilisation dans un environnement client - serveur
   </p>
-  <!--
+
   <p>
-  <a href="#">
+  <a href="/docs/2023/02_Emmanuel_Rami_Utiliser_PostgreSQL_dans_un_environnement_Kubernetes_avec_Minikube.pptx">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
   </a>
   </p>
+  <!--
   <p>
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
@@ -181,12 +182,13 @@ layout: default
   Le deuxième temps est consacré aux types de Connection Poolers (applicatif, proxy) et voir à quels "problèmes" ils répondent.
   Enfin, le troisième temps décrit l'évolution des Connection Poolers de pgbouncer vers les nextGens Connection Poolers.
   </p>
-  <!--
+
   <p>
-  <a href="#">
+  <a href="/docs/2023/03_Frederic_Delacourt_Tour_d_horizon_des_Connection_Poolers.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation</a>
   </p>
   <p>
+  <!--
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
