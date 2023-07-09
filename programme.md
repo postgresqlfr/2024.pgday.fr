@@ -187,9 +187,9 @@ layout: default
   <a href="/docs/2023/03_Frederic_Delacourt_Tour_d_horizon_des_Connection_Poolers.pdf">
   <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation</a>
   </p>
-  <p>
   <!--
-  <a href="#">
+  <p>
+    <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
   </p>
