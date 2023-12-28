@@ -7,6 +7,9 @@ title: Bénévoles
 
 Le PG Day France est un événement organisé par une équipe entièrement bénévole.
 
+Vous aussi vous pouvez aider à l'organisation du PGDay France, n'hésitez pas à [prendre contact avec l'équipe](/apropos).
+
+<!--
 Cette liste est non-exhaustive.
 
         <ul class="polaroid">
@@ -20,5 +23,7 @@ Cette liste est non-exhaustive.
             <p>Geoffroy BAILLY</p></li>
         </ul>
 
-Vous aussi vous pouvez aider à l'organisation du PGDay France, n'hésitez pas à [prendre contact avec l'équipe](/apropos).
+</p>
+-->
+
 

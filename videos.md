@@ -4,6 +4,8 @@ title: Vidéos
 
 # Vidéos
 
+<!--
+
 <div class="row">
   <div class="col-md-3"></div>
   <div class="col-md-5">
@@ -134,3 +136,5 @@ title: Vidéos
   <div class="col-md-4"></div>
 </div>
 <br /><br />
+
+-->

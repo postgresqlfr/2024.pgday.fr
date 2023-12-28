@@ -3,7 +3,7 @@ title: 'Appel à oratrices et orateurs'
 ---
 
 
-<b>L'Appel à Orateurs est clos</b>
+<b>L'Appel à Orateurs est n'est pas encore ouvert</b>
 
 <!--
 <h3><b>Prolongation Date limite des propositions.</b></h3>

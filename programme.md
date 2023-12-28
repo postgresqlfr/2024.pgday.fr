@@ -5,7 +5,11 @@ layout: default
 
 # Programme
 
-## Lundi 19 juin 2023
+## Mardi 11 juin 2024
+
+A compléter
+
+<!--
 
 <div class="schedule_bloc">
   <div class="schedule_time">14h00
@@ -53,10 +57,11 @@ layout: default
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
   </p>
-  -->
   </div>
 </div>
+-->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
   <div class="schedule_speaker">
@@ -85,10 +90,11 @@ layout: default
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
   </p>
-  -->
   </div>
 </div>
+ -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
   <div class="schedule_break">
@@ -131,9 +137,11 @@ layout: default
   <h3>Mot de clôture</h3>
   </div>
 </div>
+-->
 
 ## Grande soirée communautaire
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">19h30 - 23h00</div>
   <div class="schedule_break">
@@ -145,9 +153,11 @@ layout: default
   <p>Lieu de Rendez-vous : <strong>Le petit tigre</strong>, 5 rue du Faubourg national, 67000. Strasbourg.</p>
   </div>
 </div>
+-->
 
-## Mardi 20 juin 2023
+## Mercredi 12 juin 2024
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">09h00</div>
   <div class="schedule_break">
@@ -193,10 +203,11 @@ layout: default
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
   </p>
-  -->
   </div>
 </div>
+  -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">10h30</div>
   <div class="schedule_break">
@@ -228,10 +239,11 @@ layout: default
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
   </p>
-  -->
   </div>
 </div>
+  -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">11h30</div>
   <div class="schedule_speaker">
@@ -253,10 +265,11 @@ layout: default
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
   </p>
-  -->
   </div>
 </div>
+  -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">12h15</div>
   <div class="schedule_break">
@@ -294,10 +307,11 @@ layout: default
   <a href="#">
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo</a>
   </p>
-  -->
   </div>
 </div>
+  -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
   <div class="schedule_speaker">
@@ -324,10 +338,11 @@ layout: default
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
   </p>
-  -->
   </div>
 </div>
+  -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">15h15</div>
   <div class="schedule_break">
@@ -363,10 +378,11 @@ layout: default
   <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
   </a>
   </p>
-  -->
   </div>
 </div>
+  -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
   <div class="schedule_break">
@@ -380,7 +396,9 @@ layout: default
   </p>
   </div>
 </div>
+  -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">17h15</div>
   <div class="schedule_break">
@@ -390,10 +408,13 @@ layout: default
   <h3>Mot de clôture</h3>
   </div>
 </div>
+  -->
 
+<!--
 <div class="schedule_bloc">
   <div class="schedule_time">17h30</div>
   <div class="schedule_desc">
   <h3>FIN</h3>
   </div>
 </div>
+  -->
