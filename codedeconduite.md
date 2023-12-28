@@ -20,7 +20,7 @@ title: Code de Conduite
 
 Ci-dessous les points de contact pour signaler un problème pendant ou après l'événement :
 
-* Jean-Marie Arsac : 06 11 05 88 23
+* A compléter
 * <contact@pgday.fr>
 
 

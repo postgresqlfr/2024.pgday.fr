@@ -15,6 +15,7 @@ layout: default
 > communauté francophone de PostgreSQL. Les conférences s'adressent à tous
 > les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
 > développeurs, chefs de projets, décideurs, etc
+<!--
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/35oUEFtLcxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -27,11 +28,10 @@ sur <a href='https://live.pgday.fr/'>https://live.pgday.fr/</a>
 </p>
 
 </center>
-
-<!--
-<center>
-<h2>L'édition 2023 se tiendra le 19-20 juin à Strasbourg</h2>
 -->
+
+<center>
+<h2>L'édition 2024 se tiendra le 11-12 juin à Lille</h2>
 <!--<h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>-->
 <!--
 <div class='row'>
@@ -39,7 +39,9 @@ sur <a href='https://live.pgday.fr/'>https://live.pgday.fr/</a>
     <a href="/programme" type="button" class="btn btn-primary btn-lg btn-block">Programme en ligne !</a>
   </div>
 </div>
+-->
 </center>
+<!--
 
 <br/><br/>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8hcbCbHVHQmSpvAHgPUAz3y-mxEccg0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

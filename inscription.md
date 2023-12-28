@@ -18,7 +18,7 @@ title: Inscription
 
 -->
 
-<!-- PAS ENCORE OUVERT
+<!-- PAS ENCORE OUVERT -->
 
 <div class="row">
   <div class="col-sm-1"></div>
@@ -27,9 +27,9 @@ title: Inscription
   </div>
 </div>
 
--->
+<!-- -->
 
-<!-- OUVERT -->
+<!-- OUVERT
 <div class="col-md-8 col-md-offset-2 section-colored text-center">
 <div id="eventbrite-widget-container-583853731227"></div>
 

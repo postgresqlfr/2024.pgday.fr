@@ -14,11 +14,11 @@ décideurs, etc... suivant les valeurs énoncées dans le Code De Conduite.
 
 Il se tient depuis 2008 et chaque édition à lieu dans une ville différente, avec
 pour ambition de faire naître ou faire grandir une communauté locale. Les précédentes
-éditions ont eu lieu à Toulouse, Lille, Toulon, Marseille, Lyon, Nantes, Montpellier.
+éditions ont eu lieu à Toulouse, Lille, Toulon, Marseille, Lyon, Nantes, Montpellier, Strasbourg.
 
 ## Contact
 
-Pour toute information, adressez vos messages à [contact@pgday.fr](mailto:contact@pgday.fr)
+Pour toute information, adressez vos messages à [contact@pgday.fr](mailto:contact@pgday.fr).
 
 ### Code de Conduite
 
@@ -31,7 +31,7 @@ de l'association et des événements affiliés à PostgreSQLFr.
 
 Tous les représentants/participants, conférenciers, exposants, organisateurs et
 bénévoles aux événements de PostgreSQLFr doivent se conformer à notre
-[code de conduite](/codedeconduite)
+[code de conduite](/codedeconduite).
 
 
 
@@ -49,10 +49,7 @@ L'équipe organisatrice est quant à elle entièrement constituée de bénévole
 
 ### Comité de sélection
 
-Le comité de sélection 2023 est composé des personnes suivantes :
+Le comité de sélection 2024 est composé des personnes suivantes :
 
-* Sylvie Halat (Ministère de l'Education Nationale)
-* Jean-Marie Arsac (Azimut)
-* Stefan Fercot (EDB)
-* Stéphane Tachoires (Air France)
+*  En cours de constitution
 

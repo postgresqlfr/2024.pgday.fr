@@ -18,11 +18,13 @@ pour leur aide et leur présence à nos cotés.
 </div>
 -->
 
+<!--
 <div class="col-xs-12 col-md-6">
 <a href="https://dalibo.com/" class="thumbnail">
 <img src="img/dalibo.png" alt="Dalibo">
 </a>
 </div>
+-->
 
 </div>
 
@@ -30,11 +32,15 @@ pour leur aide et leur présence à nos cotés.
 
 <div class="container">
 
+<!--
+
 <div class="col-xs-12 col-md-6">
 <a href="https://www.enterprisedb.com/" class="thumbnail">
 <img src="img/EDB-2023.png" alt="EDB Postgres">
 </a>
 </div>
+
+-->
 
 <!--
 <div class="col-xs-12 col-md-6">
@@ -134,5 +140,5 @@ Les SUPPORTERS pourront mettre à disposition sur le stand d'accueil une page A4
 
 ## Liens
 
-* [Contract (EN)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2023_sponsorship_contract_v13.pdf)
+* [Contract (EN)](https://github.com/postgresqlfr/contrats/raw/master/2023.pgday.fr/pgdayfrance_2023_sponsorship_contract_v13.pdf) A compléter
 

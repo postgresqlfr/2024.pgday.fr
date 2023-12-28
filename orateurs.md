@@ -5,6 +5,7 @@ layout: default
 
 # Oratrices & Orateurs
 
+<!--
 <div class="row pg_speaker" id="daniel_verite">
   <div class="col-md-2">
   <img src="img/orateurs/d_verite.jpg" class="img-thumbnail" alt="">
@@ -160,3 +161,5 @@ layout: default
   </p>
   </div>
 </div>
+§
+-->
