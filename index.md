@@ -8,13 +8,15 @@ layout: default
 </center>
 
 <center>
-<img src="img/twitter_2023.png" alt="" class="img-responsive"/>
+<!--<img src="img/twitter_2023.png" alt="" class="img-responsive"/> -->
+<img src="img/strasbourg_vue.jpg alt="Vue aérienne Strasbourg - Wikimedia Commons" class="img-responsive"/>
 </center>
 
 > Le PG Day France est un moment de rencontres et de conférences pour la
 > communauté francophone de PostgreSQL. Les conférences s'adressent à tous
 > les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
 > développeurs, chefs de projets, décideurs, etc
+
 <!--
 
 <center>
@@ -40,7 +42,9 @@ sur <a href='https://live.pgday.fr/'>https://live.pgday.fr/</a>
   </div>
 </div>
 -->
+
 </center>
+
 <!--
 
 <br/><br/>
