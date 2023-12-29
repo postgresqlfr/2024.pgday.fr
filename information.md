@@ -31,7 +31,7 @@ FRANCE
 
 * A compléter
 
-### [TRAM/BUS](https://www.cts-strasbourg.eu/fr/):
+### Tram/bus:
 
 * A compléter
 
