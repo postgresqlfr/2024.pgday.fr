@@ -9,7 +9,7 @@ layout: default
 
 <center>
 <!--<img src="img/twitter_2023.png" alt="" class="img-responsive"/> -->
-<img src="img/strasbourg_vue.jpg" alt="Vue aérienne Strasbourg - Wikimedia Commons" class="img-responsive"/>
+<img src="img/lille.jpeg" alt="Lille" class="img-responsive"/>
 </center>
 
 > Le PG Day France est un moment de rencontres et de conférences pour la
