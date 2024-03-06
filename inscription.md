@@ -19,19 +19,19 @@ title: Inscription
 -->
 
 <!-- PAS ENCORE OUVERT -->
-
+<!--
 <div class="row">
   <div class="col-sm-1"></div>
   <div class="col-lg-12 col-md-12 text-center section-colored">
     <h4> Inscriptions : Les inscriptions ne sont pas ouvertes !</h4>
   </div>
 </div>
+-->
 
 <!-- -->
 
-<!-- OUVERT
 <div class="col-md-8 col-md-offset-2 section-colored text-center">
-<div id="eventbrite-widget-container-583853731227"></div>
+<div id="eventbrite-widget-container-858106859717"></div>
 
 <script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
 
@@ -43,8 +43,8 @@ title: Inscription
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '583853731227',
-        iframeContainerId: 'eventbrite-widget-container-583853731227',
+        eventId: '858106859717',
+        iframeContainerId: 'eventbrite-widget-container-858106859717',
 
         // Optional
         iframeContainerHeight: 625,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
@@ -52,7 +52,6 @@ title: Inscription
     });
 </script>
 </div>
-
 
 
 </div> <!-- fin de row -->
