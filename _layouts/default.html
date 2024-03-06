@@ -63,24 +63,27 @@
             <!--<li><a href="contact">Contact</a></li>-->
             <li><a href="apropos">A propos</a></li>
           <li>
-<!--
-<button id="eventbrite-widget-modal-trigger-314876362677" type="button">Acheter des billets</button>
--->
-<script src="https://www.eventbrite.fr/static/widgets/eb_widgets.js"></script>
+<!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.fr/e/billets-pg-day-france-2024-858106859717" rel="noopener noreferrer" target="_blank">Acheter de billets via Eventbrite</a></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-858106859717" type="button">Acheter des billets</button>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
 <script type="text/javascript">
     var exampleCallback = function() {
-        console.log('Commande terminée !');
+        console.log('Order complete!');
     };
 
     window.EBWidgets.createWidget({
         widgetType: 'checkout',
-        eventId: '314876362677',
+        eventId: '858106859717',
         modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-314876362677',
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-858106859717',
         onOrderComplete: exampleCallback
     });
-</script></li>
+</script>
+          </li>
         </ul>
         </div>
       </div>
