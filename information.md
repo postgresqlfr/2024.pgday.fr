@@ -27,23 +27,32 @@ FRANCE
 
 ## Comment Venir ?
 
-### En Train:
+### En train:
 
-* A compléter
+* 2 minutes à pieds depuis la Gare Lille Europe (TGV, métro, bus)
+* 8 minutes à pieds depuis la Gare Lille Flandres (TGV, métro, bus, TRAM)
 
-### Tram/bus:
+### Tram / Bus:
 
-* A compléter
+* TRAM: Descendre à l'arrêt "Gare Lille Flandres" puis 8 minutes à pieds
+* Bus: Les lignes 50, L5, L91, 88, N1 s'arrêtent à la Gare Lille Europe, puis 2 minutes à pieds
+
+### En vélo
+
+* La métropole de Lille est équipée de vélos en libre service appelés V'Lille.
+* La station la plus proche pour laisser votre vélo se trouve à la Gare Lille Europe
+* Toutes les stations sur [Ilevia.fr](https://www.ilevia.fr/v-lille#station)
 
 ### En voiture
 
-* A compléter
+* Bien qu'accessible en voiture, il est conseillé de se garer en dehors de la zone
+* Plusieurs parkings souterrains sont accessibles autour du lieu de l'événement : Onepark Euralille, Indigo Euralille, Euralille Centre Commercial, Casino Barrière
 
 ### En avion
 
-* A compléter
-
+* L'aéroport de Lesquin est à 20~25 minutes en voiture du lieu de l'événement. On peut y arriver depuis notamment Bordeaux, Marseille, Montpellier, Nice, Toulouse.
 
 ## Hébergement
 
-* A compléter
+* Le lieu de l'événement peut lui même accueillir les visiteurs. [Informations et réservation sur leur site.](https://www.cp-lille.com/)
+* De nombreux hôtels se trouvent à quelques minutes à pieds du lieu, entre autres : Novotel Lille Europe, Campanille Lille Europe, Ibis Budget Centre, Mama Shelter, Kyriad Grand Palais

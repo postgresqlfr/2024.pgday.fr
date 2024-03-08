@@ -54,22 +54,22 @@ Le comité de sélection 2024 est composé des personnes suivantes :
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/team/Anais2.jpg" alt="Anaïs Oberto" class="img-responsive" width=100/>
+    <img src="img/team/Anais2.jpg" alt="Anaïs Oberto" class="img-responsive" width=100 style="margin: auto;"/>
     <p>Anaïs Oberto <br/> Software Engineer @ CNRS</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/team/matt.jpeg" alt="Matthieu Cornillon" class="img-responsive" width=100/>
+    <img src="img/team/matt.jpeg" alt="Matthieu Cornillon" class="img-responsive" width=100 style="margin: auto;"/>
     <p>Matthieu Cornillon <br/> Senior Solution Architect @ Aiven</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/team/yoann.png" alt="Yoann La Cancellera" class="img-responsive" width=100/>
+    <img src="img/team/yoann.png" alt="Yoann La Cancellera" class="img-responsive" width=100 style="margin: auto;"/>
     <p>Yoann La Cancellera <br/> Senior Support engineer @ Percona</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="img/team/cedric.jpeg" alt="Cedric Duprez" class="img-responsive" width=100/>
+    <img src="img/team/cedric.jpeg" alt="Cedric Duprez" class="img-responsive" width=100 style="margin: auto;"/>
     <p>Cedric Duprez <br/> Expert bases de données @ IGN</p>
   </div>
 
