@@ -7,10 +7,6 @@ layout: default
 
 ## Mardi 11 juin 2024
 
-A compléter
-
-
-
 <div class="schedule_bloc">
   <div class="schedule_time">14h00
   </div>
@@ -47,8 +43,8 @@ Cette présentation vise à démystifier le processus de "recovery" de PostgreSQ
 
 En s'appuyant sur des scénarios pratiques et diverses cibles de récupération, les participants acquerront des connaissances précieuses afin de maîtriser le processus de restauration.
   </p>
+  </div>
 </div>
-
 
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
@@ -61,6 +57,7 @@ En s'appuyant sur des scénarios pratiques et diverses cibles de récupération,
   <p>
   Vous êtes convié·es à embarquer pour une quête à la découverte des fonctionnalités souvent ignorées, les véritables trésors cachés du monde des bases de données. Explorez avec nous les eaux tumultueuses du traitement transactionnel, cartographiez les îles des données complexes et plongez dans les abysses des techniques de recherche textuelle d'une redoutable efficacité. Alors, hissez le drapeau noir de PostgreSQL et préparez-vous à larguer les amarres pour cette aventure à la recherche des trésors perdus ! Arg !
   </p>
+  </div>
 </div>
 
 
@@ -87,6 +84,7 @@ Prêts à plonger dans le monde passionnant des extensions PostgreSQL ?
 
 Après un tour d'horizon des différents frameworks de developpement disponibles ( PGXS, pg_tle, PGZX ), nous ferons un zoom sur PGRX à travers 4 exemples concrets qui illustrent les avantages du langage Rust dans ce contexte : sécurité, puissance et performances... Grace aux avancées récentes dans le domaine, il n'a jamais été aussi simple de créer une extension et déployer du code robuste et flexible au plus près de la donnée.
   </p>
+  </div>
 </div>
 
 <div class="schedule_bloc">
@@ -166,6 +164,7 @@ c'est facile!
 Inévitable pour votre projet avec des téraoctets de données à stocker, traiter, 
 restituer.
   </p>
+  </div>
 </div>
 
 <div class="schedule_bloc">
@@ -230,6 +229,7 @@ Utilisant l'analogie avec les châteaux forts, nous détaillerons les niveaux de
 
 Nous préciserons à quel besoin répond chaque niveau, et quel type de sécurisation chaque solution offre aux équipes.
   </p>
+  </div>
 </div>
 
 <div class="schedule_bloc">
@@ -243,6 +243,7 @@ Nous préciserons à quel besoin répond chaque niveau, et quel type de sécuris
   <p>
 H3 est un système d'indexation géospatiale créé par Uber, qui divise la surface terrestre en cellules hexagonales pour une analyse spatiale efficace. Il est conçu pour améliorer les requêtes spatiales, comme la mesure des distances et la détection de cellules adjacentes. En s'intégrant à PostgreSQL, H3 renforce la capacité de cette base de données à traiter et analyser les données géospatiales, offrant aux utilisateurs une précision et une efficacité accrues dans des domaines tels que la cartographie, la logistique, et la planification urbaine.
   </p>
+  </div>
 </div>
 
 <div class="schedule_bloc">
@@ -280,6 +281,7 @@ H3 est un système d'indexation géospatiale créé par Uber, qui divise la surf
   <p>
 Découvrez comment automatiser complètement les mises à jour majeures de PostgreSQL et PostGIS, tout en corrigeant dynamiquement les procédures stockées bloquantes. Prévoyez le chemin de mise à jour des paquets système et estimez le downtime, le tout testé avec des conteneurs Docker. Réduisez le downtime à environ 20 minutes pour des clusters volumineux, passant de PostgreSQL 10 à 14 et de PostGIS 2.3 à 3.2, sur des machines virtuelles.
   </p>
+  </div>
 </div>
 
 <div class="schedule_bloc">
