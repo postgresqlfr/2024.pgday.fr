@@ -9,7 +9,7 @@ layout: default
 
 A compléter
 
-<!--
+
 
 <div class="schedule_bloc">
   <div class="schedule_time">14h00
@@ -35,21 +35,17 @@ A compléter
 <div class="schedule_bloc">
   <div class="schedule_time">14h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/d_verite.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/s_fercot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>PostgreSQL et Unicode, un tour des nouveautés</h3>
-  <p>Par <a href="orateurs#daniel_verite" class="pg_speaker_name">Daniel Vérité</a> - Indépendant</p>
+  <h3>Démystifier les sauvegardes incrémentales dans l'écosystème PostgreSQL</h3>
+  <p>Par <a href="orateurs#s_fercot" class="pg_speaker_name">Stefan Fercot</a> - Data Egret</p>
   <p>
-  Cette présentation fera le point sur les évolutions relatives à la gestion d'Unicode et aux collations, notamment via l'usage de la bibliothèque ICU.
-  Depuis PostgreSQL 10, la bibliothèque ICU a été ajoutée comme fournisseur de collation alternatif dans PostgreSQL.
-  Dans cette présentation, on exposera notamment les fonctionnalités et les performances des collations ICU, et on verra comment paramétrer ses bases de données pour en profiter.
-  On parlera aussi des pièges liés aux collations : pourquoi est-ce que les mises à jour du système peuvent poser un problème à certains index, et comment faire ces mises à jour en sécurité.
-  </p>
-  <p>
-  <a href="/docs/2023/01_Daniel_Verite_PostgreSQL_et_Unicode_un_tour_des_nouveautes.pdf">
-  <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
-  </a>
+  Alors que la mise en œuvre du "Point-in-Time Recovery" est largement documentée, parvenir à restaurer une sauvegarde avec succès reste une tâche ardue pour beaucoup.
+
+Cette présentation vise à démystifier le processus de "recovery" de PostgreSQL. En commençant par un rapide rappel des concepts de bases, nous explorerons ensuite en détail toutes les étapes nécessaires afin de restaurer efficacement une sauvegarde, tout en mettant en lumière la multitude de paramètres influant sur la restauration.
+
+En s'appuyant sur des scénarios pratiques et diverses cibles de récupération, les participants acquerront des connaissances précieuses afin de maîtriser le processus de restauration.
   </p>
   <!--
   <p>
@@ -61,40 +57,21 @@ A compléter
 </div>
 -->
 
-<!--
+
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/e_rami.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_avrot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Utiliser PostgreSQL dans un environnement Kubernetes avec Minikube</h3>
-  <p>Par <a href="orateurs#emmanuel_rami" class="pg_speaker_name">Emmanuel Rami</a> - CapData</p>
+  <h3>PostgreSQL et l'Anarchie Organisée</h3>
+  <p>Par <a href="orateurs#l_avrot" class="pg_speaker_name">Lætitia	Avrot</a> - EDB</p>
   <p>
-  La présentation décrira les étapes suivantes :
-  - présentation de la containérisation via Kubernetes
-  - les prérequis de la mise en place de la virtualisation
-  - l'installation des packages nécessaires
-  - configuration logiciel
-  - utilisation dans un environnement client - serveur
+  Vous êtes convié·es à embarquer pour une quête à la découverte des fonctionnalités souvent ignorées, les véritables trésors cachés du monde des bases de données. Explorez avec nous les eaux tumultueuses du traitement transactionnel, cartographiez les îles des données complexes et plongez dans les abysses des techniques de recherche textuelle d'une redoutable efficacité. Alors, hissez le drapeau noir de PostgreSQL et préparez-vous à larguer les amarres pour cette aventure à la recherche des trésors perdus ! Arg !
   </p>
-
-  <p>
-  <a href="/docs/2023/02_Emmanuel_Rami_Utiliser_PostgreSQL_dans_un_environnement_Kubernetes_avec_Minikube.pptx">
-  <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation
-  </a>
-  </p>
-  <!--
-  <p>
-  <a href="#">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
-  </a>
-  </p>
-  </div>
 </div>
- -->
 
-<!--
+
 <div class="schedule_bloc">
   <div class="schedule_time">16h15</div>
   <div class="schedule_break">
@@ -106,25 +83,31 @@ A compléter
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">16h45</div>
+  <div class="schedule_time">16H45</div>
   <div class="schedule_speaker">
-  <img src="/img/2019_PGGTIE-etendu_table3.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/d_clochard.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Table ronde du Groupe de Travail Inter-Entreprises</h3>
-  Débats et Retours d'expérience autour de l'actualité du
-  <a href='https://www.postgresql.fr/entreprises:accueil'>Groupe de Travail Inter-Entreprises</a>
-  : Perspectives et Usages actuels de PostgreSQL, Cloud Public vs. Cloud Privé, Constitution
-  d'un groupe au niveau européen, etc.
-  <br/>
-  Intervenants :
-  <ul>
-  <li>Anthony Nowocien ( Société Générale )</li>
-  <li>Cédric Duprez ( IGN )</li>
-  <li>Didier Brugat ( Total Énergies )</li>
-  </ul>
-  <br/>
-  Animé par Jean-Paul Argudo.
+  <h3>Développer une extension Postgres en Rust</h3>
+  <p>Par <a href="orateurs#d_clochard" class="pg_speaker_name">Damien	Clochard</a> - DALIBO</p>
+  <p>
+Prêts à plonger dans le monde passionnant des extensions PostgreSQL ?
+
+Après un tour d'horizon des différents frameworks de developpement disponibles ( PGXS, pg_tle, PGZX ), nous ferons un zoom sur PGRX à travers 4 exemples concrets qui illustrent les avantages du langage Rust dans ce contexte : sécurité, puissance et performances... Grace aux avancées récentes dans le domaine, il n'a jamais été aussi simple de créer une extension et déployer du code robuste et flexible au plus près de la donnée.
+  </p>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">17h15</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Lightning Talk</h3>
+  <p>
+    Une série de lightning talks de 5 minutes. Chaque participant au PG Day peut choisir le sujet de son choix (technique ou non) et le présenter en 5 minutes top chrono ! :)
+    Envoyez vos propositions à <a href="mailto:contact@pgday.fr">contact@pgday.fr</a>
+  </p>
   </div>
 </div>
 
@@ -137,27 +120,29 @@ A compléter
   <h3>Mot de clôture</h3>
   </div>
 </div>
--->
+
 
 ## Grande soirée communautaire
 
-<!--
+
 <div class="schedule_bloc">
   <div class="schedule_time">19h30 - 23h00</div>
   <div class="schedule_break">
   <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
   </div>
+    <div class="schedule_speaker">
+  <img src="img/hein.png" class="img-thumbnail" alt="">
+  </div>
   <div class="schedule_desc">
   <h3>Grande soirée ouverte à tous et incluse dans le prix de votre billet.</h3>
-  <p>A deux pas de la gare, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.</p>
-  <p>Lieu de Rendez-vous : <strong>Le petit tigre</strong>, 5 rue du Faubourg national, 67000. Strasbourg.</p>
+  <p>A deux pas du lieu de l'événement, tous les participants, sponsors et orateurs se retrouvent pour une grande soirée de rencontre et de partage autour d'un apéritif dînatoire.</p>
+  <p>Lieu de Rendez-vous : <strong>Le HEIN - Brique House</strong>, 13 Pl. Saint-Hubert, 59800 Lille</p>
   </div>
 </div>
--->
+
 
 ## Mercredi 12 juin 2024
 
-<!--
 <div class="schedule_bloc">
   <div class="schedule_time">09h00</div>
   <div class="schedule_break">
@@ -169,43 +154,161 @@ A compléter
 </div>
 
 <div class="schedule_bloc">
-  <div class="schedule_time">09h30</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  <div class="schedule_time">09h15</div>
+  <div class="schedule_speaker">
+  <img src="img/orateurs/c_villemain.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Mot d'accueil</h3>
-  </div>
+  <h3>Le sharding sans complexité</h3>
+  <p>Par <a href="orateurs#c_villemain" class="pg_speaker_name">Cédric	Villemain</a> - Data Bene</p>
+  <p>
+Citus Data est une extension de PostgreSQL qui étend ce fameux serveur de 
+bases de données relationnelles pour concevoir des bases distribuées.
+
+Calculs répartis, multi-tenant avec clients isolés, resharding sans downtime, ...
+
+Si cela vous évoque déjà quelque chose, vous en apprendrez d'avantage. Et sinon 
+vous saurez enfin ce qu'est une architecture multi-tenant ... et que le sharding 
+c'est facile!
+
+Inévitable pour votre projet avec des téraoctets de données à stocker, traiter, 
+restituer.
+  </p>
 </div>
 
 <div class="schedule_bloc">
   <div class="schedule_time">09h45</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/f_jardin.png" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
-  <h3>Tour d'horizon des Connection Poolers</h3>
-  <p>Par <a href="orateurs#frederic_delacourt" class="pg_speaker_name">Frédéric Delacourt</a> - Data Bene</p>
+  <h3>Faire vivre une communauté, retour d'expérience du Meetup PostgreSQL Lille</h3>
+  <p>Par <a href="orateurs#f_jardin" class="pg_speaker_name">Florent	Jardin</a> - Dalibo</p>
   <p>
-  Je vous propose de (re)voir ensemble la notion de Connection Pooler, les fonctionnalités traditionnelles ainsi que les évolutions offertes par les Connection Poolers de nouvelle génération.
-  Dans un premier temps, je propose de montrer les étapes d'une connexion à PostgreSQL ce qui permet d'aborder le protocole de communication de PostgreSQL et de voir les impacts systèmes (mémoire, processus) associés.
-  Le deuxième temps est consacré aux types de Connection Poolers (applicatif, proxy) et voir à quels "problèmes" ils répondent.
-  Enfin, le troisième temps décrit l'évolution des Connection Poolers de pgbouncer vers les nextGens Connection Poolers.
-  </p>
+Les groupes « Meetup » sont un moyen local et efficace pour réunir un public autours d'une technologie. En France, on en dénombre cinq sur la plateforme éponyme dédié à PostgreSQL. Cependant, leur régularité repose sur une poignée de volontaires, mettant en péril l'accès à ce format pour de nombreuses personnes.
 
-  <p>
-  <a href="/docs/2023/03_Frederic_Delacourt_Tour_d_horizon_des_Connection_Poolers.pdf">
-  <i class="fa fa-desktop" aria-hidden="true"></i>Support de la présentation</a>
+Dans cette conférence, je présenterai l'histoire du groupe et de ses membres, les préparatifs nécessaires pour mettre sur pied une soirée Meetup, ainsi que les efforts pour être reconnu comme un « PostgreSQL User Group » par la communauté internationale.
   </p>
-  <!--
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">10h30</div>
+  <div class="schedule_break">
+  <img src="img/pause.png" alt="Tasse">
+  </div>
+  <div class="schedule_desc">
+  <h3>Pause</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">11h00</div>
+  <div class="schedule_speaker">
+  <img src="/img/2019_PGGTIE-etendu_table3.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="schedule_desc">
+  <h3>Table ronde du Groupe de Travail Inter-Entreprises</h3>
+  Débats et Retours d'expérience autour de l'actualité du
+  <a href='https://www.postgresql.fr/entreprises:accueil'>Groupe de Travail Inter-Entreprises</a>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">12h00</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Repas</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">14h00</div>
+  <div class="schedule_speaker">
+  <img src="img/orateurs/s_schildknecht.png" class="img-thumbnail" alt="">
+  </div>
+  <div class="schedule_desc">
+  <h3>Gérer la sécurité dans PostgreSQL : De l'accès au serveur à la donnée</h3>
+  <p>Par <a href="orateurs#s_schildknecht" class="pg_speaker_name">Stéphane	Schildknecht</a> - LOXODATA</p>
   <p>
-    <a href="#">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
-  </a>
+Avec l'augmentation de la valeur des données en entreprise, il est crucial pour tout projet informatique d'intégrer la question de la sécurisation des accès aux données dès la phase de conception.
+
+Utilisant l'analogie avec les châteaux forts, nous détaillerons les niveaux de protection offerts par PostgreSQL, depuis la restriction des accès aux serveurs de bases de données, jusqu'au contrôle de l'accès à une donnée en fonction des droits sur une colonne ou une ligne.
+
+Nous préciserons à quel besoin répond chaque niveau, et quel type de sécurisation chaque solution offre aux équipes.
+  </p>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">14h45</div>
+  <div class="schedule_speaker">
+  <img src="img/orateurs/j_waddle.jpeg" class="img-thumbnail" alt="">
+  </div>
+  <div class="schedule_desc">
+  <h3>H3 Indexing</h3>
+  <p>Par <a href="orateurs#j_waddle" class="pg_speaker_name">Julien	WADDLE</a> - Camptocamp</p>
+  <p>
+H3 est un système d'indexation géospatiale créé par Uber, qui divise la surface terrestre en cellules hexagonales pour une analyse spatiale efficace. Il est conçu pour améliorer les requêtes spatiales, comme la mesure des distances et la détection de cellules adjacentes. En s'intégrant à PostgreSQL, H3 renforce la capacité de cette base de données à traiter et analyser les données géospatiales, offrant aux utilisateurs une précision et une efficacité accrues dans des domaines tels que la cartographie, la logistique, et la planification urbaine.
+  </p>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">15h15</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Lightning Talk</h3>
+  <p>
+    Une série de lightning talks de 5 minutes. Chaque participant au PG Day peut choisir le sujet de son choix (technique ou non) et le présenter en 5 minutes top chrono ! :)
+    Envoyez vos propositions à <a href="mailto:contact@pgday.fr">contact@pgday.fr</a>
   </p>
   </div>
 </div>
-  -->
+
+<div class="schedule_bloc">
+  <div class="schedule_time">16h15</div>
+  <div class="schedule_break">
+  <img src="img/pause.png" alt="Tasse">
+  </div>
+  <div class="schedule_desc">
+  <h3>Pause</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">16h45</div>
+  <div class="schedule_speaker">
+  <img src="img/orateurs/j_acroute.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="schedule_desc">
+  <h3>Migration Maîtrisée de PostgreSQL à Grande Échelle</h3>
+  <p>Par <a href="orateurs#j_acroute" class="pg_speaker_name">Julien Acroute</a> - Camptocamp</p>
+  <p>
+Découvrez comment automatiser complètement les mises à jour majeures de PostgreSQL et PostGIS, tout en corrigeant dynamiquement les procédures stockées bloquantes. Prévoyez le chemin de mise à jour des paquets système et estimez le downtime, le tout testé avec des conteneurs Docker. Réduisez le downtime à environ 20 minutes pour des clusters volumineux, passant de PostgreSQL 10 à 14 et de PostGIS 2.3 à 3.2, sur des machines virtuelles.
+  </p>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">17h15</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Mot de clôture</h3>
+  </div>
+</div>
+
+<div class="schedule_bloc">
+  <div class="schedule_time">17h30</div>
+  <div class="schedule_desc">
+  <h3>FIN</h3>
+  </div>
+</div>
+
+<!--
+
 
 <!--
 <div class="schedule_bloc">
