@@ -5,23 +5,23 @@ layout: default
 
 # Oratrices & Orateurs
 
-<!--
-<div class="row pg_speaker" id="daniel_verite">
+<div class="row pg_speaker" id="s_fercot">
   <div class="col-md-2">
-  <img src="img/orateurs/d_verite.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/s_fercot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Daniel Vérité</h3>
-  <span class="role">Indépendant</span>
+  <h3>Stefan Fercot</h3>
+  <span class="role">Data Egret</span>
   <p>
-  Après avoir été développeur orienté bases de données pendant une quinzaine d'années, Daniel Vérité exerce en consultant indépendant spécialisé dans PostgreSQL. Il participe à la communauté via les mailing-lists et les CommitFests pour tester et parfois soumettre des évolutions à PostgreSQL.
+  En tant qu'Expert PostgreSQL, Stefan apporte à Data Egret près de 15 ans d'expertise dans le domaine des bases de données, avec une vaste expérience en support et conseil client. Il est actif au sein de la communauté et fait notamment partie des contributeurs de pgBackRest.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>PostgreSQL et Unicode, un tour des nouveautés</a>
+    <a href='/programme'>Démystifier les sauvegardes incrémentales dans l'écosystème PostgreSQL</a>
   </p>
   </div>
 </div>
+
 
 <div class="row pg_speaker" id="cedric_villemain">
   <div class="col-md-2">
@@ -35,45 +35,99 @@ layout: default
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Qualités des extensions PostgreSQL</a>
+    <a href='/programme'>Le sharding sans complexité</a>
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="emmanuel_rami">
+<div class="row pg_speaker" id="l_avrot">
   <div class="col-md-2">
-  <img src="img/orateurs/e_rami.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/l_avrot.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Emmanuel Rami</h3>
-  <span class="role">DBA Oracle, SQL Server, et PostgreSQL chez Capdata</span>
+  <h3>Lætitia	Avrot</h3>
+  <span class="role">EDB</span>
   <p>
-    Nous utilisons PostgreSQL dans le cadre de notre offre AllDb afin de proposer un suivi de mise en condition opérationnel.
-    Nous effectuons également de la veille technologiques autour des logiciels libres.
-  </p>
-  <p>
-    Présentation:
-    <a href='/programme'>Utiliser PostgreSQL dans un environnement Kubernetes avec Minikube</a>
+    Laetitia Avrot est une figure influente dans le monde de PostgreSQL. Trésorière de PostgreSQL Europe, fondatrice de Postgres Women et contributrice reconnue du projet, elle met son expertise de tech leader chez EDB au service de l'adoption de PostgreSQL.
   </p>
   </div>
 </div>
 
-<div class="row pg_speaker" id="frederic_delacourt">
+
+<div class="row pg_speaker" id="d_clochard">
   <div class="col-md-2">
-    <img src="img/orateurs/f_delacourt.jpg" class="img-thumbnail" alt="">
+    <img src="img/orateurs/d_clochard.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Frédéric Delacourt</h3>
-  <span class="role">Consultant chez Data Bene</span>
+  <h3>Damien	Clochard</h3>
+  <span class="role">DALIBO</span>
   <p>
-    De 2006 à 2016, j'étais le référent (architecture, dev, support) bases de données PostgreSQL de notre département R&D dans le domaine des Télécoms. Depuis 2019, je suis consultant PostgreSQL chez Data Bene (ex 2ndQuadrant France).
+    Damien Clochard est actif au sein de la communauté PostgreSQL à différents niveaux, notamment en tant que vice-président de l'association PostgreSQLFr et développeur principal du projet PostgreSQL Anonymizer. Il est Product Owner chez DALIBO, une société qu'il a co-fondé en 2005.
   </p>
   <p>
     Présentation:
-    <a href='/programme'>Tour d'horizon des Connection Poolers</a>
+    <a href='/programme'>Développer une extension Postgres en Rust</a>
   </p>
   </div>
 </div>
+
+<div class="row pg_speaker" id="s_schildknecht">
+  <div class="col-md-2">
+    <img src="img/orateurs/s_schildknecht.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Stéphane Schildknecht</h3>
+  <span class="role">LOXODATA</span>
+  <p>
+Stéphane Schildknecht a contribué à la fondation de l'association PostgreSQLFr, qu'il a présidé de 2005 à 2010.
+DBA certifié PostgreSQL, consultant en bases de données pendant 20 ans, il a fondé LOXODATA en 2010.
+Stéphane est contact régional PostgreSQL pour l'Europe francophone.
+  </p>
+  </div>
+</div>
+
+<div class="row pg_speaker" id="f_jardin">
+  <div class="col-md-2">
+    <img src="img/orateurs/f_jardin.png" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Florent	Jardin</h3>
+  <span class="role">DALIBO</span>
+  <p>
+    Je suis originaire de Lille et j'y travaille depuis chez moi en tant que consultant
+pour Dalibo, une société coopérative qui œuvre à la promotion et l'amélioration de
+l'écosystème de PostgreSQL au quotidien.
+  </p>
+  </div>
+</div>
+
+<div class="row pg_speaker" id="j_waddle">
+  <div class="col-md-2">
+    <img src="img/orateurs/j_waddle.jpeg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Julien	WADDLE</h3>
+  <span class="role">Camptocamp</span>
+  <p>Cartographe puis géomaticien je suis tombé dans le monde OpenSource en 2012.
+Fan de Python, QGIS et du SQL, j'adore trouver des solutions efficaces pour simplifier les processus liés aux données utilisées dans la cartographie.
+  </p>
+  </div>
+</div>
+
+<div class="row pg_speaker" id="j_acroute">
+  <div class="col-md-2">
+    <img src="img/orateurs/j_acroute.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Julien Acroute</h3>
+  <span class="role">Camptocamp</span>
+  <p>Je suis passionné par l'open source et en particulier par PostgreSQL. J'ai écrit et animé des formations sur Kubernetes, Docker, PostgreSQL, et sur la conception d'applications ""cloud native"". Le développement et l'audit composent le reste de mon activité.
+On a tous besoin d'un PostgreSQL !
+  </p>
+  </div>
+</div>
+
+<!--
 
 <div class="row pg_speaker" id="sarah_haim_lubczanski">
   <div class="col-md-2">
