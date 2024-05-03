@@ -218,7 +218,7 @@ Dans cette conférence, je présenterai l'histoire du groupe et de ses membres, 
 <div class="schedule_bloc">
   <div class="schedule_time">14h00</div>
   <div class="schedule_speaker">
-  <img src="img/orateurs/s_schildknecht.png" class="img-thumbnail" alt="">
+  <img src="img/orateurs/s_schildknecht.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="schedule_desc">
   <h3>Gérer la sécurité dans PostgreSQL : De l'accès au serveur à la donnée</h3>
