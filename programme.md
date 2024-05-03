@@ -180,6 +180,7 @@ Les groupes « Meetup » sont un moyen local et efficace pour réunir un public 
 
 Dans cette conférence, je présenterai l'histoire du groupe et de ses membres, les préparatifs nécessaires pour mettre sur pied une soirée Meetup, ainsi que les efforts pour être reconnu comme un « PostgreSQL User Group » par la communauté internationale.
   </p>
+  </div>
 </div>
 
 <div class="schedule_bloc">
