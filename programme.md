@@ -47,15 +47,7 @@ Cette présentation vise à démystifier le processus de "recovery" de PostgreSQ
 
 En s'appuyant sur des scénarios pratiques et diverses cibles de récupération, les participants acquerront des connaissances précieuses afin de maîtriser le processus de restauration.
   </p>
-  <!--
-  <p>
-  <a href="#">
-  <i class="fa fa-youtube-play" aria-hidden="true"></i>Vidéo
-  </a>
-  </p>
-  </div>
 </div>
--->
 
 
 <div class="schedule_bloc">
