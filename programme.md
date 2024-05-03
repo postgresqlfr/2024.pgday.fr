@@ -117,9 +117,6 @@ Après un tour d'horizon des différents frameworks de developpement disponibles
 
 <div class="schedule_bloc">
   <div class="schedule_time">19h30 - 23h00</div>
-  <div class="schedule_break">
-  <span class="glyphicon glyphicon-glass" aria-hidden="true"></span>
-  </div>
     <div class="schedule_speaker">
   <img src="img/hein.png" class="img-thumbnail" alt="">
   </div>
