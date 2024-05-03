@@ -18,19 +18,49 @@ pour leur aide et leur présence à nos cotés.
 </div>
 -->
 
-<!--
+
 <div class="col-xs-12 col-md-6">
 <a href="https://dalibo.com/" class="thumbnail">
 <img src="img/dalibo.png" alt="Dalibo">
 </a>
 </div>
--->
+
 
 </div>
 
 ### SUPPORTERS
 
 <div class="container">
+
+<div class="col-xs-12 col-md-6">
+<a href="https://aiven.io/" class="thumbnail">
+<img src="img/aiven.png" alt="Aiven">
+</a>
+</div>
+
+<div class="col-xs-12 col-md-6">
+<a href="https://www.decathlon.fr/" class="thumbnail">
+<img src="img/decathlon.png" alt="Decathlon">
+</a>
+</div>
+
+<div class="col-xs-12 col-md-6">
+<a href="https://www.maif.fr/" class="thumbnail">
+<img src="img/maif.png" alt="Maif">
+</a>
+</div>
+
+<div class="col-xs-12 col-md-6">
+<a href="https://www.crunchydata.com/" class="thumbnail">
+<img src="img/crunchy2.jpg" alt="Crunchy Data">
+</a>
+</div>
+
+<div class="col-xs-12 col-md-6">
+<a href="https://www.crunchydata.com/" class="thumbnail">
+<img src="img/camptocamp.png" alt="CampToCamp">
+</a>
+</div>
 
 <!--
 
