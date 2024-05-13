@@ -57,8 +57,8 @@ pour leur aide et leur présence à nos cotés.
 </div>
 
 <div class="col-xs-12 col-md-6">
-<a href="https://www.crunchydata.com/" class="thumbnail">
-<img src="img/camptocamp.png" alt="CampToCamp">
+<a href="https://www.camptocamp.com/" class="thumbnail">
+<img src="img/camptocamp.svg" alt="CampToCamp">
 </a>
 </div>
 
