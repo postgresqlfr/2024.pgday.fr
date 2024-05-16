@@ -48,16 +48,20 @@ En s'appuyant sur des scénarios pratiques et diverses cibles de récupération,
 
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
-  <div class="schedule_speaker">
-  <img src="img/orateurs/l_avrot.jpg" class="img-thumbnail" alt="">
+<!--  <div class="schedule_speaker">
+  <img src="img/orateurs/.jpg" class="img-thumbnail" alt="">
   </div>
+  -->
   <div class="schedule_desc">
-  <h3>PostgreSQL et l'Anarchie Organisée</h3>
-  <p>Par <a href="orateurs#l_avrot" class="pg_speaker_name">Lætitia	Avrot</a> - EDB</p>
+  <h3></h3>
+  <!--
+  <p>Par <a href="orateurs#" class="pg_speaker_name"></a></p>
+  -->
   <p>
-  Vous êtes convié·es à embarquer pour une quête à la découverte des fonctionnalités souvent ignorées, les véritables trésors cachés du monde des bases de données. Explorez avec nous les eaux tumultueuses du traitement transactionnel, cartographiez les îles des données complexes et plongez dans les abysses des techniques de recherche textuelle d'une redoutable efficacité. Alors, hissez le drapeau noir de PostgreSQL et préparez-vous à larguer les amarres pour cette aventure à la recherche des trésors perdus ! Arg !
+  TBD
   </p>
   </div>
+  -->
 </div>
 
 
