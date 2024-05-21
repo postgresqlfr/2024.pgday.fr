@@ -25,6 +25,12 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
+<div class="col-xs-12 col-md-6">
+<a href="https://databene.io/" class="thumbnail">
+<img src="img/databene.svg" alt="DataBene">
+</a>
+</div>
+
 
 </div>
 
