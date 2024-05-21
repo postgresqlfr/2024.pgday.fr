@@ -26,7 +26,7 @@ pour leur aide et leur présence à nos cotés.
 </div>
 
 <div class="col-xs-12 col-md-6">
-<a href="https://databene.io/" class="thumbnail">
+<a href="https://www.data-bene.io/" class="thumbnail">
 <img src="img/databene.svg" alt="DataBene">
 </a>
 </div>
@@ -65,6 +65,12 @@ pour leur aide et leur présence à nos cotés.
 <div class="col-xs-12 col-md-6">
 <a href="https://www.camptocamp.com/" class="thumbnail">
 <img src="img/camptocamp.svg" alt="CampToCamp">
+</a>
+</div>
+
+<div class="col-xs-12 col-md-6">
+<a href="https://www.atolcd.com/" class="thumbnail">
+<img src="img/atolcd.png" alt="AtolCD">
 </a>
 </div>
 
