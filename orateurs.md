@@ -40,15 +40,16 @@ layout: default
   </div>
 </div>
 
-<div class="row pg_speaker" id="l_avrot">
+<div class="row pg_speaker" id="j_grauer">
   <div class="col-md-2">
-  <img src="img/orateurs/l_avrot.jpg" class="img-thumbnail" alt="">
+  <img src="img/orateurs/j_grauer.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
-  <h3>Lætitia	Avrot</h3>
-  <span class="role">EDB</span>
+  <h3>Jérémie	Grauer</h3>
+  <span class="role">NeoX-IT</span>
   <p>
-    Laetitia Avrot est une figure influente dans le monde de PostgreSQL. Trésorière de PostgreSQL Europe, fondatrice de Postgres Women et contributrice reconnue du projet, elle met son expertise de tech leader chez EDB au service de l'adoption de PostgreSQL.
+  Sysadmin Linux chevronné, Jérémie utilise et torture PostgreSQL depuis 2012.
+Responsable Infrastructure chez Cosium, hébergeur et éditeur de logiciels. Il supervise l'ensemble du stack technique : du choix des composants des serveurs aux réglages des middlewares et des logiciels métiers.
   </p>
   </div>
 </div>

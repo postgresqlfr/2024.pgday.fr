@@ -54,10 +54,20 @@ Vous pouvez consulter les vidéos des éditions précédentes sur
 [notre chaine Youtube](https://www.youtube.com/channel/UCR7skKC85Zn6p7fJ-lW7G8g)
 
 -->
-<!--
 
 ### Nos partenaires
 <div class="container">
+        <div class="col-xs-12 col-md-6">
+          <a href="https://dalibo.com/" class="thumbnail">
+            <img src="img/dalibo.png" alt="Dalibo" class="pg_sponsor">
+          </a>
+        </div>
+        <div class="col-xs-12 col-md-6">
+          <a href="https://www.data-bene.io/" class="thumbnail">
+            <img src="img/databene.svg" alt="Databene" class="pg_sponsor">
+          </a>
+        </div>
+<!--
         <div class="col-xs-12 col-md-6">
           <a href="https://www.atolcd.com/" class="thumbnail">
             <img src="img/atolcd.png" alt="Atol CD" class="pg_sponsor">
@@ -68,11 +78,6 @@ Vous pouvez consulter les vidéos des éditions précédentes sur
               <img src="img/capdata.png" alt="CapData" class="pg_sponsor">
             </a>
           </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="https://dalibo.com/" class="thumbnail">
-            <img src="img/dalibo.png" alt="Dalibo" class="pg_sponsor">
-          </a>
-        </div>
         <div class="col-xs-12 col-md-6">
           <a href="https://www.enterprisedb.com/" class="thumbnail">
             <img src="img/enterprisedb.jpg" alt="EnterpriseDB" class="pg_sponsor">
@@ -120,7 +125,7 @@ Vous pouvez consulter les vidéos des éditions précédentes sur
         </div>
       </div>
 
+-->
 
 </div>
--->
 
