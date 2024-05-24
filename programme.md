@@ -8,6 +8,15 @@ layout: default
 ## Mardi 11 juin 2024
 
 <div class="schedule_bloc">
+<div class="schedule_time">Matin
+  </div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Atelier DBTune / Unconference </h3>
+  </div>
+</div>
   <div class="schedule_time">14h00
   </div>
   <div class="schedule_break">
@@ -15,6 +24,9 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Ouverture des portes</h3>
+  <div class="schedule_speaker">
+  <img src="img/elephant_lego_rouge.jpg" class="img-thumbnail" alt="">
+  </div>
   </div>
 </div>
 
@@ -48,20 +60,17 @@ En s'appuyant sur des scénarios pratiques et diverses cibles de récupération,
 
 <div class="schedule_bloc">
   <div class="schedule_time">15h30</div>
-<!--  <div class="schedule_speaker">
-  <img src="img/orateurs/.jpg" class="img-thumbnail" alt="">
+  <div class="schedule_speaker">
+  <img src="img/orateurs/j_grauer.jpg" class="img-thumbnail" alt="">
   </div>
-  -->
+  
   <div class="schedule_desc">
-  <h3></h3>
-  <!--
-  <p>Par <a href="orateurs#" class="pg_speaker_name"></a></p>
-  -->
+  <h3>Postgres: des histoires qui font peurs</h3>
+  <p>Par <a href="orateurs#" class="pg_speaker_name">Jérémie Grauer</a> - NeoX-IT</p>
   <p>
-  TBD
+  On raconte toujours les réussites techniques PostgreSQL, les moments incroyables où tous les meilleurs choix ont été faits dès le départ et que tout se déroule conformément au plan. Mais la réalité est souvent bien différente. Voyons ensemble l'envers du décor, lorsque tout se passe mal, lorsque la loi de Murphy est à son comble et que vous découvrez avec horreur que vous avez un vrai problème, le plus souvent en production. Cette présentation parlera de cas réels, un retour d'expérience de plus de 10 ans d'exploitation de PostgreSQL. Et comme on apprend toujours de ses erreurs, cela nous permettra d'en tirer de précieux enseignements.
   </p>
   </div>
-  -->
 </div>
 
 
