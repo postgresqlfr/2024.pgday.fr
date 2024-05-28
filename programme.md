@@ -9,7 +9,6 @@ layout: default
 
 <div class="schedule_bloc">
 <div class="schedule_time">Matin
-  </div>
   <div class="schedule_break">
   <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
   </div>
@@ -17,6 +16,7 @@ layout: default
   <h3>Atelier DBTune / Unconference </h3>
   </div>
 </div>
+<div class="schedule_bloc">
   <div class="schedule_time">14h00
   </div>
   <div class="schedule_break">
