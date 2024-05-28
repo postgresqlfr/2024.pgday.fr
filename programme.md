@@ -15,7 +15,7 @@ layout: default
   <div class="schedule_desc">
   <h3>Atelier DBTune / Unconference </h3>
   </div>
-</div>
+</div></div>
 <div class="schedule_bloc">
   <div class="schedule_time">14h00
   </div>

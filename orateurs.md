@@ -42,7 +42,7 @@ layout: default
 
 <div class="row pg_speaker" id="j_grauer">
   <div class="col-md-2">
-  <img src="" class="img-thumbnail" alt="">
+  <img src="img/orateurs/j_grauer.jpg" class="img-thumbnail" alt="">
   </div>
   <div class="col-md-8">
   <h3>Jérémie	Grauer</h3>
