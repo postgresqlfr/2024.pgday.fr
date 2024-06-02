@@ -8,25 +8,71 @@ layout: default
 ## Mardi 11 juin 2024
 
 <div class="schedule_bloc">
-<div class="schedule_time">Matin
+  <div class="schedule_time">10h00</div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+  <img src="img/elephant_lego_rouge.jpg" class="img-thumbnail" alt="">
   </div>
-  <div class="schedule_desc">
-  <h3>Atelier DBTune / Unconference </h3>
-  </div>
-</div></div>
+  <div class="schedule_desc"><h3>Ouverture des portes</h3></div>
+</div>
+
 <div class="schedule_bloc">
-  <div class="schedule_time">14h00
-  </div>
+  <div class="schedule_time">10h30</div>
   <div class="schedule_break">
-  <span class="glyphicon glyphicon-home" aria-hidden="true"></span>
+  <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Ouverture des portes</h3>
+  <h3>Atelier DBTune</h3>
+  <p>Par Luigi Nardi - DBTune</p>
+  <p>
+  Atelier de 2h consacré à l'outil d'optimisation DBTune
+  </p>
+  <p><i>Entrée libre dans la limite des places disponibles.</i></p>
+  </div>
+</div>
+
+
+<div class="schedule_bloc">
+  <div class="schedule_time">10h30</div>
+  <div class="schedule_break">
+  <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
+  </div>
+  <div class="schedule_desc">
+  <h3>Unconference</h3>
+  <p> Rencontre ouverte avec la communauté PostgreSQL francophone ! </p>
+  <p>
+  Atelier participatif de 2h dans un format libre et interactif autour
+  des thèmes de votre choix : Sauvegardes, Conteneurisation, Haute-Disponibilité, etc...
+  Venez partager votre expérience de Postgres, vos idées et vos questionnements.
+  Les sujets abordés et le déroulement seront établis ensemble le jour J !
+  </p>
+  <p>
+  <i>Entrée libre dans la limite des places disponibles.</i>
+  </p>
+  </div>
+</div>
+
+
+<div class="schedule_bloc">
+  <div class="schedule_time">12h00</div>
+  <div class="schedule_break">
+  <i class="fa fa-spinner"></i>
+  </div>
+  <div class="schedule_desc">
+  <h3>Pause</h3>
+  <p> Le repas du mardi midi n'est pas inclus. </p>
+  <p> Une pause de 2h est prévue pour se restaurer à l'extérieur </p>
+  <p> Merci de votre compréhension</p>
+  </div>
+</div>
+
+
+<div class="schedule_bloc">
+  <div class="schedule_time">14h00</div>
   <div class="schedule_speaker">
   <img src="img/elephant_lego_rouge.jpg" class="img-thumbnail" alt="">
   </div>
+  <div class="schedule_desc">
+  <h3>Ré-Ouverture des portes</h3>
   </div>
 </div>
 
@@ -37,6 +83,7 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Mot d'accueil</h3>
+  <p>Par Mathieu Cornillon & Anthony Nowocien</p>
   </div>
 </div>
 
@@ -63,7 +110,7 @@ En s'appuyant sur des scénarios pratiques et diverses cibles de récupération,
   <div class="schedule_speaker">
   <img src="img/orateurs/j_grauer.jpg" class="img-thumbnail" alt="">
   </div>
-  
+
   <div class="schedule_desc">
   <h3>Postgres: des histoires qui font peurs</h3>
   <p>Par <a href="orateurs#" class="pg_speaker_name">Jérémie Grauer</a> - NeoX-IT</p>
@@ -162,16 +209,16 @@ Après un tour d'horizon des différents frameworks de developpement disponibles
   <h3>Le sharding sans complexité</h3>
   <p>Par <a href="orateurs#c_villemain" class="pg_speaker_name">Cédric	Villemain</a> - Data Bene</p>
   <p>
-Citus Data est une extension de PostgreSQL qui étend ce fameux serveur de 
+Citus Data est une extension de PostgreSQL qui étend ce fameux serveur de
 bases de données relationnelles pour concevoir des bases distribuées.
 
 Calculs répartis, multi-tenant avec clients isolés, resharding sans downtime, ...
 
-Si cela vous évoque déjà quelque chose, vous en apprendrez d'avantage. Et sinon 
-vous saurez enfin ce qu'est une architecture multi-tenant ... et que le sharding 
+Si cela vous évoque déjà quelque chose, vous en apprendrez d'avantage. Et sinon
+vous saurez enfin ce qu'est une architecture multi-tenant ... et que le sharding
 c'est facile!
 
-Inévitable pour votre projet avec des téraoctets de données à stocker, traiter, 
+Inévitable pour votre projet avec des téraoctets de données à stocker, traiter,
 restituer.
   </p>
   </div>
