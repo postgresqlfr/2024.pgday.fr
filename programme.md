@@ -112,7 +112,7 @@ En s'appuyant sur des scénarios pratiques et diverses cibles de récupération,
   </div>
 
   <div class="schedule_desc">
-  <h3>Postgres: des histoires qui font peurs</h3>
+  <h3>Postgres: des histoires qui font peur</h3>
   <p>Par <a href="orateurs#" class="pg_speaker_name">Jérémie Grauer</a> - NeoX-IT</p>
   <p>
   On raconte toujours les réussites techniques PostgreSQL, les moments incroyables où tous les meilleurs choix ont été faits dès le départ et que tout se déroule conformément au plan. Mais la réalité est souvent bien différente. Voyons ensemble l'envers du décor, lorsque tout se passe mal, lorsque la loi de Murphy est à son comble et que vous découvrez avec horreur que vous avez un vrai problème, le plus souvent en production. Cette présentation parlera de cas réels, un retour d'expérience de plus de 10 ans d'exploitation de PostgreSQL. Et comme on apprend toujours de ses erreurs, cela nous permettra d'en tirer de précieux enseignements.
