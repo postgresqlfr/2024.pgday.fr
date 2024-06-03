@@ -21,10 +21,10 @@ layout: default
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Atelier DBTune</h3>
+  <h3>Atelier configuration PostgreSQL - DBTune</h3>
   <p>Par Luigi Nardi - DBTune</p>
   <p>
-  Atelier de 2h consacré à l'outil d'optimisation DBTune
+  Atelier de 2h consacré à la configuration de PostgreSQL et son optimisation. L'outil dbtune sera utilisé pour présenter la partie optimisation.
   </p>
   <p><i>Entrée libre dans la limite des places disponibles.</i></p>
   </div>
