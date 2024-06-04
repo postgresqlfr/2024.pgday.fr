@@ -96,13 +96,10 @@ layout: default
   <h3>Démystifier les sauvegardes incrémentales dans l'écosystème PostgreSQL</h3>
   <p>Par <a href="orateurs#s_fercot" class="pg_speaker_name">Stefan Fercot</a> - Data Egret</p>
   <p>
-  Avec PostgreSQL 17 Beta1 fraîchement publiée, `pg_basebackup` vous permet désormais d'effectuer des sauvegardes incrémentales. Cette nouvelle fonctionnalité introduit plusieurs nouveaux paramètres et outils pour vous faciliter cette tâche.
-
-En commençant par une présentation étape par étape de l'utilisation des résumés des journaux de transactions ("WAL summaries") et de la copie incrémentale des données avec `pg_basebackup`, nous examinerons ensuite quand (et comment) le nouvel outil `pg_combinebackup` doit être employé.
-
-Après avoir rapidement discuté de la politique de rétention, nous dévoilerons ensuite certains des aspects que nous pourrions attendre de cette fonctionnalité, mais qui ne sont pas (encore) disponibles.
-
-Enfin, nous comparerons rapidement cette nouvelle fonctionnalité avec les sauvegardes incrémentales au niveau "blocs" de pgBackRest.
+  Avec PostgreSQL 17 Beta1 fraîchement publiée, <b>pg_basebackup</b> vous permet désormais d'effectuer des sauvegardes incrémentales. Cette nouvelle fonctionnalité introduit plusieurs nouveaux paramètres et outils pour vous faciliter cette tâche.<br/>
+  En commençant par une présentation étape par étape de l'utilisation des extraits des journaux de transaction (<i>"WAL summaries"</i>) et de la copie incrémentale des données avec <b>pg_basebackup</b>, nous examinerons ensuite quand (et comment) le nouvel outil <b>pg_combinebackup</b> doit être employé.<br/>
+  Après avoir rapidement discuté de la politique de rétention, nous dévoilerons ensuite certains des aspects que nous pourrions attendre de cette fonctionnalité, mais qui ne sont pas (encore) disponibles.<br/>
+  Enfin, nous comparerons rapidement cette nouvelle fonctionnalité avec les sauvegardes incrémentales au niveau "blocs" de pgBackRest.
   </p>
   </div>
 </div>
