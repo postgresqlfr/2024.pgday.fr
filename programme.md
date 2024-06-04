@@ -96,11 +96,13 @@ layout: default
   <h3>Démystifier les sauvegardes incrémentales dans l'écosystème PostgreSQL</h3>
   <p>Par <a href="orateurs#s_fercot" class="pg_speaker_name">Stefan Fercot</a> - Data Egret</p>
   <p>
-  Alors que la mise en œuvre du "Point-in-Time Recovery" est largement documentée, parvenir à restaurer une sauvegarde avec succès reste une tâche ardue pour beaucoup.
+  Avec PostgreSQL 17 Beta1 fraîchement publiée, `pg_basebackup` vous permet désormais d'effectuer des sauvegardes incrémentales. Cette nouvelle fonctionnalité introduit plusieurs nouveaux paramètres et outils pour vous faciliter cette tâche.
 
-Cette présentation vise à démystifier le processus de "recovery" de PostgreSQL. En commençant par un rapide rappel des concepts de bases, nous explorerons ensuite en détail toutes les étapes nécessaires afin de restaurer efficacement une sauvegarde, tout en mettant en lumière la multitude de paramètres influant sur la restauration.
+En commençant par une présentation étape par étape de l'utilisation des résumés des journaux de transactions ("WAL summaries") et de la copie incrémentale des données avec `pg_basebackup`, nous examinerons ensuite quand (et comment) le nouvel outil `pg_combinebackup` doit être employé.
 
-En s'appuyant sur des scénarios pratiques et diverses cibles de récupération, les participants acquerront des connaissances précieuses afin de maîtriser le processus de restauration.
+Après avoir rapidement discuté de la politique de rétention, nous dévoilerons ensuite certains des aspects que nous pourrions attendre de cette fonctionnalité, mais qui ne sont pas (encore) disponibles.
+
+Enfin, nous comparerons rapidement cette nouvelle fonctionnalité avec les sauvegardes incrémentales au niveau "blocs" de pgBackRest.
   </p>
   </div>
 </div>
