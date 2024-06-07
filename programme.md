@@ -21,12 +21,16 @@ layout: default
   <i class="fa fa-laptop"></i>
   </div>
   <div class="schedule_desc">
-  <h3>Atelier configuration/optimisation PostgreSQL avec dbtune</h3>
+  <h3>Atelier : Autotuning de PostgreSQL</h3>
   <p>Par Luigi Nardi - dbtune</p>
   <p>
-  Atelier de 2h consacré à la configuration de PostgreSQL et son optimisation. L'outil dbtune sera utilisé pour présenter la partie optimisation.
+Venez explorer le monde complexe de l'optimisation avec PostgreSQL, où ce système de gestion de bases de données revèle une multitude de paramètres de configuration qui gouvernent son fonctionnement. Avec l'évolution constante du système, le nombre croissant et la complexité de ces paramètres mettent en lumière l'importance de leurs configurations adaptées pour optimiser les performances d'une application et l'utilisation des ressources dans le Cloud.
   </p>
   <p><i>Entrée libre dans la limite des places disponibles.</i></p>
+  <p>
+  Prérequis pour la session : Apporter un ordinateur portable équipé d'un client SSH et d'un navigateur Chrome, Firefox ou Safari.
+  Il n'y a pas besoin d'un système d'exploitation particulier car la formation se déroulera sur AWS.
+  </p>
   </div>
 </div>
 
@@ -37,13 +41,10 @@ layout: default
   <span class="glyphicon glyphicon-comment" aria-hidden="true"></span>
   </div>
   <div class="schedule_desc">
-  <h3>Unconference</h3>
-  <p> Rencontre ouverte avec la communauté PostgreSQL francophone ! </p>
+  <h3>Plongez au Cœur de PostgreSQL </h3>
+  <p> Par Cédric Villemain - Data Bene </p>
   <p>
-  Atelier participatif de 2h dans un format libre et interactif autour
-  des thèmes de votre choix : Sauvegardes, Conteneurisation, Haute-Disponibilité, etc...
-  Venez partager votre expérience de Postgres, vos idées et vos questionnements.
-  Les sujets abordés et le déroulement seront établis ensemble le jour J !
+  Atelier de 2 heures dédié à toutes celles et ceux qui travaillent avec ce puissant moteur de base de données. Cette rencontre interactive vous permettra d'explorer des sujets tels que l'utilisation des statistiques dans PostgreSQL et  la gestion des accès, tout en conservant un esprit joueur: « Saurons-nous faire planter PostgreSQL violemment » ? Chacune et chacun pourra apporter ses propres sujets de discussion, y compris avec vos propres visuels. Ce format privilégié favorise l'échange dynamique et l'apprentissage mutuel, loin des cadres rigides des conférences traditionnelles. Ne manquez pas cette occasion unique de partager vos expériences et de découvrir de nouvelles perspectives sur PostgreSQL !
   </p>
   <p>
   <i>Entrée libre dans la limite des places disponibles.</i>
