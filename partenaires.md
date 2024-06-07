@@ -81,15 +81,14 @@ pour leur aide et leur présence à nos cotés.
 </a>
 </div>
 
-<!--
 
 <div class="col-xs-12 col-md-6">
-<a href="https://www.enterprisedb.com/" class="thumbnail">
-<img src="img/EDB-2023.png" alt="EDB Postgres">
+<a href="https://www.ovhcloud.com/" class="thumbnail">
+<img src="img/OVHcloud.svg" alt="OVHcloud">
 </a>
 </div>
 
--->
+
 
 <!--
 <div class="col-xs-12 col-md-6">
