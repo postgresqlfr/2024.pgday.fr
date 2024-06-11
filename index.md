@@ -8,7 +8,7 @@ layout: default
 </center>
 
 <center>
-<!--<img src="img/twitter_2023.png" alt="" class="img-responsive"/> -->
+<!--
 <img src="img/pgday_2024_bandeau_final.png" alt="Lille" class="img-responsive"/>
 </center>
 
@@ -16,25 +16,23 @@ layout: default
 > communauté francophone de PostgreSQL. Les conférences s'adressent à tous
 > les utilisateurs du logiciel : étudiants, administrateurs systèmes, DBA,
 > développeurs, chefs de projets, décideurs, etc
-
-<!--
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/35oUEFtLcxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-<p>
-<a href='https://live.pgday.fr/'>Le Live est également disponible via Peertube !</a>
-<br/>
-sur <a href='https://live.pgday.fr/'>https://live.pgday.fr/</a>
-</p>
-
-</center>
 -->
 
 <center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NiNyqvl6caM?si=Zj9Fe7-mLOSkJFKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+</center>
+
+<!--
+<center>
 <h2>L'édition 2024 se tiendra le 11-12 juin à Lille</h2>
-<!--<h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>-->
+-->
+
+<!--
+<h3><a href='/appel'>l'appel à orateur est ouvert</a></h3>-->
 <!--
 <div class='row'>
   <div class='col-md-6 col-md-offset-3 col-xs-12'>
