@@ -22,7 +22,7 @@ layout: default
   </div>
   <div class="schedule_desc">
   <h3>Atelier : Autotuning de PostgreSQL</h3>
-  <p>Par Luigi Nardi - dbtune</p>
+  <p>Par <a href="orateurs#l_nardi" class="pg_speaker_name">Luigi Nardi</a> - dbtune</p>
   <p>
 Venez explorer le monde complexe de l'optimisation avec PostgreSQL, où ce système de gestion de bases de données revèle une multitude de paramètres de configuration qui gouvernent son fonctionnement. Avec l'évolution constante du système, le nombre croissant et la complexité de ces paramètres mettent en lumière l'importance de leurs configurations adaptées pour optimiser les performances d'une application et l'utilisation des ressources dans le Cloud.
   </p>
@@ -42,7 +42,7 @@ Venez explorer le monde complexe de l'optimisation avec PostgreSQL, où ce syst�
   </div>
   <div class="schedule_desc">
   <h3>Plongez au Cœur de PostgreSQL </h3>
-  <p> Par Cédric Villemain - Data Bene </p>
+  <p>Par <a href="orateurs#c_villemain" class="pg_speaker_name">Cédric Villemain</a> - databene</p>
   <p>
   Atelier de 2 heures dédié à toutes celles et ceux qui travaillent avec ce puissant moteur de base de données. Cette rencontre interactive vous permettra d'explorer des sujets tels que l'utilisation des statistiques dans PostgreSQL et  la gestion des accès, tout en conservant un esprit joueur: « Saurons-nous faire planter PostgreSQL violemment » ? Chacune et chacun pourra apporter ses propres sujets de discussion, y compris avec vos propres visuels. Ce format privilégié favorise l'échange dynamique et l'apprentissage mutuel, loin des cadres rigides des conférences traditionnelles. Ne manquez pas cette occasion unique de partager vos expériences et de découvrir de nouvelles perspectives sur PostgreSQL !
   </p>

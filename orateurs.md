@@ -128,6 +128,19 @@ On a tous besoin d'un PostgreSQL !
   </div>
 </div>
 
+<div class="row pg_speaker" id="l_nardi">
+  <div class="col-md-2">
+    <img src="img/orateurs/l_nardi.jpg" class="img-thumbnail" alt="">
+  </div>
+  <div class="col-md-8">
+  <h3>Luigi Nardi</h3>
+  <span class="role">dbtune</span>
+  <p>
+Luigi Nardi est le fondateur et PDG de DBtune (www.dbtune.com), une entreprise leader dans le domaine de l'IA, des systèmes de bases de données et du cloud computing. Auparavant, Luigi était professeur en apprentissage automatique à Lund University et chercheur à Stanford University. L'expertise de Luigi se concentre sur la théorie et la pratique de l'optimisation de systèmes complexes. Le parcours de Luigi comprend un post-doctorat à l'Imperial College London et un poste d'ingénieur logiciel chez Murex S.A.S., après son doctorat en mathématiques appliquées à l'Université Pierre et Marie Curie à Paris en 2011.
+  </p>
+  </div>
+</div>
+
 <!--
 
 <div class="row pg_speaker" id="sarah_haim_lubczanski">
